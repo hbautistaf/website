@@ -1,0 +1,25 @@
+[es]
+    locale = "es-ES"
+    label = "Español"
+    title = "Héctor Bautista"
+    weight = 1
+
+    [es.params.dateFormat]
+        published = ":date_long"
+        lastUpdated = ":date_long"
+
+    [es.params.sidebar]
+        subtitle = "SRE Lead · AWS · Kubernetes · Grafana · Gnu/Linux user & BOFH >;-}"
+
+[en]
+    locale = "en-US"
+    label = "English"
+    title = "Héctor Bautista"
+    weight = 2
+
+    [en.params.dateFormat]
+        published = ":date_long"
+        lastUpdated = ":date_long"
+
+    [en.params.sidebar]
+        subtitle = "SRE Lead · AWS · Kubernetes · Grafana · Gnu/Linux user & BOFH >;-}"

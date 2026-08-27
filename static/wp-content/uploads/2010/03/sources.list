@@ -1,0 +1,36 @@
+deb http://ftp.cica.es/debian/ lenny main contrib non-free
+#deb-src http://ftp.cica.es/debian/ lenny main contrib non-free
+
+deb http://security.debian.org/ lenny/updates main
+#deb-src http://security.debian.org/ lenny/updates main
+
+deb http://volatile.debian.org/debian-volatile lenny/volatile main
+#deb-src http://volatile.debian.org/debian-volatile lenny/volatile main
+
+#Repositorios oficiales de Debian
+deb http://mmc.geofisica.unam.mx/debian/ lenny main
+deb http://ftp.mx.debian.org/debian/ lenny main
+
+deb http://ftp.debian.org/debian/ lenny main non-free contrib
+deb http://ftp.de.debian.org/debian/ lenny main contrib non-free
+deb http://ftp.rediris.es/debian lenny main contrib non-free
+deb http://ftp.br.debian.org/debian/ lenny main contrib non-free
+
+#Backports
+#deb http://www.backports.org/debian lenny-backports main contrib non-free
+
+#Debian Multimedia
+#deb http://www.debian-multimedia.org squeeze main non-free
+deb http://www.debian-multimedia.org lenny main non-free
+
+# Google testing repository
+#deb http://dl.google.com/linux/deb/ testing non-free
+
+#Opera for Debian Squeeze
+deb http://deb.opera.com/opera testing non-free
+
+# Skype
+deb http://download.skype.com/linux/repos/debian/ stable non-free
+
+## Thí¨mes du projet bisigi
+deb http://ppa.launchpad.net/bisigi/ppa/ubuntu jaunty main

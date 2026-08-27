@@ -1,0 +1,16 @@
+baseURL = "https://hbautista.com/"
+title = "Héctor Bautista"
+theme = "hugo-theme-stack"
+defaultContentLanguage = "es"
+hasCJKLanguage = false
+
+[pagination]
+    pagerSize = 7
+
+[permalinks]
+    posts = "/p/:slug/"
+    page = "/:slug/"
+
+[taxonomies]
+    category = "categories"
+    tag = "tags"

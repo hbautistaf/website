@@ -1,0 +1,12 @@
+[goldmark]
+    [goldmark.renderer]
+        unsafe = true
+    [goldmark.parser.attribute]
+        block = true
+        title = true
+
+[highlight]
+    codeFences = true
+    guessSyntax = true
+    lineNos = false
+    style = "monokai"

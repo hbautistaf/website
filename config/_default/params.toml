@@ -1,0 +1,65 @@
+mainSections = ["posts"]
+rssFullContent = true
+favicon = "/favicon.ico"
+
+[dateFormat]
+    published = ":date_long"
+    lastUpdated = ":date_long"
+
+[footer]
+    since = 2009
+    customText = 'hbautista.com · Licencia <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+[sidebar]
+    emoji = ""
+    subtitle = "SRE Lead · AWS · Kubernetes · Grafana · Gnu/Linux user & BOFH >;-}"
+    avatar = "https://gravatar.com/userimage/3098856/6b3fd942dd23a1fa30d63de1b0bd4fd9.jpeg?v=1692842840000&size=256"
+
+[article]
+    toc = true
+    readingTime = true
+    [article.license]
+        enabled = true
+        default = 'Licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+[widgets]
+    homepage = [
+        { type = "search" },
+        { type = "archives", params = { limit = 5 } },
+        { type = "categories", params = { limit = 10 } },
+        { type = "tag-cloud", params = { limit = 15 } },
+    ]
+    page = [
+        { type = "toc" }
+    ]
+
+[imageProcessing]
+    autoOrient = false
+    [imageProcessing.external]
+        timeout = "3s"
+    [imageProcessing.content]
+        enabled = false
+    [imageProcessing.thumbnail]
+        enabled = true
+
+[comments]
+    enabled = true
+    provider = "giscus"
+    [comments.giscus]
+        repo = "hbautistaf/website"
+        repoID = ""
+        category = "General"
+        categoryID = ""
+        mapping = "pathname"
+        lightTheme = "light"
+        darkTheme = "dark_dimmed"
+        reactionsEnabled = 1
+        emitMetadata = 0
+        inputPosition = "top"
+        lang = "es"
+        strict = 0
+        loading = "lazy"
+
+[colorScheme]
+    toggle = true
+    default = "auto"

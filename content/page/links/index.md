@@ -1,0 +1,48 @@
+---
+title: "Enlaces"
+slug: "links"
+menu:
+  main:
+    weight: -50
+    params:
+      icon: link
+links:
+  - title: "Resume / CV"
+    description: "Curriculum Vitae profesional de Héctor Bautista"
+    website: "https://resume.hbautista.com/"
+    image: "https://gravatar.com/userimage/3098856/6b3fd942dd23a1fa30d63de1b0bd4fd9.jpeg?v=1692842840000&size=256"
+  - title: "GitHub"
+    description: "hbautistaf"
+    website: "https://github.com/hbautistaf/"
+    image: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  - title: "GitLab"
+    description: "hbautista"
+    website: "https://gitlab.com/hbautista"
+  - title: "LinkedIn"
+    description: "Héctor Bautista"
+    website: "https://www.linkedin.com/in/hbautista/"
+  - title: "Bluesky"
+    description: "@hbautista.com"
+    website: "https://bsky.app/profile/hbautista.com"
+  - title: "Twitter / X"
+    description: "@hbautista"
+    website: "https://www.twitter.com/hbautista"
+  - title: "Instagram"
+    description: "@hbautista"
+    website: "https://www.instagram.com/hbautista/"
+  - title: "Last.fm"
+    description: "hbautista"
+    website: "https://www.last.fm/user/hbautista"
+  - title: "500px"
+    description: "hbautista"
+    website: "https://500px.com/hbautista"
+  - title: "Flickr"
+    description: "hbautista"
+    website: "https://www.flickr.com/people/hbautista/"
+  - title: "Vimeo"
+    description: "hbautista"
+    website: "https://vimeo.com/hbautista"
+  - title: "Trakt"
+    description: "hbautista"
+    website: "https://app.trakt.tv/profile/hbautista"
+---
