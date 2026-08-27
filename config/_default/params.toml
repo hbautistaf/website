@@ -40,22 +40,22 @@ favicon = "/favicon.ico"
     [imageProcessing.content]
         enabled = false
     [imageProcessing.thumbnail]
-        enabled = true
+        enabled = false
 
 [comments]
     enabled = true
     provider = "giscus"
     [comments.giscus]
         repo = "hbautistaf/website"
-        repoID = ""
+        repoID = "R_kgDOUGaUQg"
         category = "General"
-        categoryID = ""
+        categoryID = "DIC_kwDOUGaUQs4DEVSO"
         mapping = "pathname"
         lightTheme = "light"
         darkTheme = "dark_dimmed"
         reactionsEnabled = 1
         emitMetadata = 0
-        inputPosition = "top"
+        inputPosition = "bottom"
         lang = "es"
         strict = 0
         loading = "lazy"
