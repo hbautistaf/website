@@ -2,7 +2,7 @@
 title: Sources.list de Squeeze
 date: 2010-09-28 15:44:37+00:00
 slug: sources-list-de-squeeze
-image: /wp-content/uploads/2011/06/debian-squeeze-two-454-1.jpg
+image: /images/2011/debian-squeeze-two-454-1.jpg
 categories:
 - Cómos
 - Debian

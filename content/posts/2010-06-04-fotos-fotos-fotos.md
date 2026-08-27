@@ -46,4 +46,4 @@ Para muestra una foto que expresa la inmensa alegría que tuve al tomarla:
     Fiesta Grande, Chiapa de Corzo, Enero de 2010
   
 
- [1]: /wp-content/uploads/2011/11/Parachico.jpg
+ [1]: /images/2011/Parachico.jpg

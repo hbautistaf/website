@@ -2,7 +2,7 @@
 title: Firefox Quantum en Debian Stretch
 date: 2018-04-05 13:30:28+00:00
 slug: firefox-quantum-en-debian-stretch
-image: /wp-content/uploads/2018/04/Pant_FirefoxAcercade.png
+image: /images/2018/Pant_FirefoxAcercade.png
 categories:
 - Gnu/Linux
 tags:
@@ -16,7 +16,7 @@ aliases:
 
 [
 
-![New Tab](/wp-content/uploads/2018/04/new-tab.png)
+![New Tab](/images/2018/new-tab.png)
 
 ][1]
 
@@ -24,7 +24,7 @@ aliases:
 
 [
 
-![Firefox Quantum](/wp-content/uploads/2018/04/Pant_FirefoxAcercade.png)
+![Firefox Quantum](/images/2018/Pant_FirefoxAcercade.png)
 
 ][2]Lo primero que hay que hacer es descargar el archivo comprimido desde el sitio oficial de Mozilla, y una vez descargado realizamos los siguientes pasos como root:
 
@@ -79,7 +79,7 @@ root@elrond:~# ln -s /opt/firefox/firefox /usr/lib/
 
 [
 
-![Firefox & Mate en Debian Stretch](/wp-content/uploads/2018/04/Pant_Firefox01.png)
+![Firefox & Mate en Debian Stretch](/images/2018/Pant_Firefox01.png)
 
 ][3]  
 Actualización manual de Mozilla Firefox
@@ -98,6 +98,6 @@ Y volvemos a descomprimir:
 root@elrond:~# tar xjfv /home/hbautista/Descargas/firefox-59.0.2.tar.bz2 -C /opt/
 ```
 
- [1]: /wp-content/uploads/2018/04/new-tab.png
- [2]: /wp-content/uploads/2018/04/Pant_FirefoxAcercade.png
- [3]: /wp-content/uploads/2018/04/Pant_Firefox01.png
+ [1]: /images/2018/new-tab.png
+ [2]: /images/2018/Pant_FirefoxAcercade.png
+ [3]: /images/2018/Pant_Firefox01.png

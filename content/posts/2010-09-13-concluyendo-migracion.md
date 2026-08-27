@@ -2,7 +2,7 @@
 title: Concluyendo migración
 date: 2010-09-13 16:05:54+00:00
 slug: concluyendo-migracion
-image: /wp-content/uploads/2014/01/20140101-122306-1.jpg
+image: /images/2014/20140101-122306-1.jpg
 categories:
 - Debian
 - Gnu/Linux

@@ -55,4 +55,4 @@ Se aceptan toda clase de sugerencias, temas para las conferencias y/o actividade
 
 **Actualización**: El lugar de la reunión es en el parque de la juventud a las 6 de la tarde el día sábado 19 de marzo.
 
- [1]: /wp-content/uploads/2011/03/chiapatuit-1.jpg
+ [1]: /images/2011/chiapatuit-1.jpg

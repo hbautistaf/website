@@ -19,4 +19,4 @@ aliases:
 
 <a title="Carteles de anuncios" href="http://www.tablondeanuncios.com/carteles/" target="_blank" rel="noopener">**Carteles de anuncios**</a>
 
- [1]: /wp-content/uploads/2010/07/dsc09456-1.jpg
+ [1]: /images/2010/dsc09456-1.jpg

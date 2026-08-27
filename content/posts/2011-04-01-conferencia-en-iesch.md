@@ -2,7 +2,7 @@
 title: Conferencia en IESCH
 date: 2011-04-02 02:34:41+00:00
 slug: conferencia-en-iesch
-image: /wp-content/uploads/2011/04/267079895-1.jpg
+image: /images/2011/267079895-1.jpg
 categories:
 - Gnu/Linux
 tags:
@@ -33,7 +33,7 @@ Fue una conferencia básica donde se trató el dar a conocer el software libre, 
 
 Tal como lo comenté en la conferencia aquí dejo el [Abc\_Software\_Libre2][4].
 
- [1]: /wp-content/uploads/2011/04/267079895-1.jpg
- [2]: /wp-content/uploads/2011/04/267081236-1.jpg
- [3]: /wp-content/uploads/2011/04/267257464-1.jpg
- [4]: /wp-content/uploads/2011/04/Abc_Software_Libre2-1.odp
+ [1]: /images/2011/267079895-1.jpg
+ [2]: /images/2011/267081236-1.jpg
+ [3]: /images/2011/267257464-1.jpg
+ [4]: /images/2011/Abc_Software_Libre2-1.odp

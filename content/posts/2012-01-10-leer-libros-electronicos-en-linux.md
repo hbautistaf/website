@@ -2,7 +2,7 @@
 title: Leer libros electrónicos en Linux
 date: 2012-01-10 07:31:18+00:00
 slug: leer-libros-electronicos-en-linux
-image: /wp-content/uploads/2012/01/Calibre_2-1.png
+image: /images/2012/Calibre_2-1.png
 categories:
 - Gnu/Linux
 tags:
@@ -103,7 +103,7 @@ El que a mi parecer tiene bastante terreno ganado 🙂
 
   
 
-![Calibre](/wp-content/uploads/2012/01/Calibre_3-1.png)
+![Calibre](/images/2012/Calibre_3-1.png)
 
   Pero yo me encuentro en el otro grupo de personas que no tienen este tipo de organización y la lista de documentos electrónicos (pdf, epubs, etc) se incrementa y es cuando necesitamos un programa que nos ayude a su gestión.Con Calibre vamos a poder gestionar nuestros libros electrónicos de forma completa.
 
@@ -135,7 +135,7 @@ Para **CoolReader** y **Lucidor** hay que descargarse el paquete desde las respe
 
   
 
-![Calbre en Luke](/wp-content/uploads/2012/01/Pant_Calibre-1.png)
+![Calbre en Luke](/images/2012/Pant_Calibre-1.png)
 
 Así que espero comentarios de cuál usan ustedes.
 
@@ -150,7 +150,7 @@ _**Nota adicional**_: Les dejo enlaces desde donde se pueden descargar e-books g
   * <a title="http://manybooks.net/" href="http://manybooks.net/" target="_blank" rel="noopener">Manybooks.net</a>: Más de 26.000 libros gratis en varios idiomas
   * Libros <a title="http://drmfree.calibre-ebook.com/" href="http://drmfree.calibre-ebook.com/" target="_blank" rel="noopener">electrónicos sin DRM</a>.
 
- [1]: /wp-content/uploads/2012/01/lucidor-1-1.png
- [2]: /wp-content/uploads/2012/01/lucidor-2-1.png
- [3]: /wp-content/uploads/2012/01/cr3qt-screenshot-read1-1.png
- [4]: /wp-content/uploads/2012/01/cr3qt-screenshot-read2-landscape-1.png
+ [1]: /images/2012/lucidor-1-1.png
+ [2]: /images/2012/lucidor-2-1.png
+ [3]: /images/2012/cr3qt-screenshot-read1-1.png
+ [4]: /images/2012/cr3qt-screenshot-read2-landscape-1.png

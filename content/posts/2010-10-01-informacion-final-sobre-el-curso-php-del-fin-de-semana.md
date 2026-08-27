@@ -2,7 +2,7 @@
 title: Información final sobre el Curso PHP del fin de semana.
 date: 2010-10-01 20:03:52+00:00
 slug: informacion-final-sobre-el-curso-php-del-fin-de-semana
-image: /wp-content/uploads/2010/09/php-1.jpg
+image: /images/2010/php-1.jpg
 categories:
 - Chiapatuit
 - Gnu/Linux
@@ -20,7 +20,7 @@ Bueno, ya esta todo listo para el primer módulo del curso de PHP (básico) para
 
   La información final queda como sigue:
 
-![](/wp-content/uploads/2010/09/php-1.jpg)
+![](/images/2010/php-1.jpg)
 
   **Lugar:** Auditorio Infantil del Centro Cultural Jaime Sabines<br /> **Fecha:** Sábado 2 de Octubre de 2010<br /> **Horario:** 14 a 20 hrs<br /> **Costo:** $30 (para las pizzas y refrescos)
 

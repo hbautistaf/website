@@ -2,7 +2,7 @@
 title: Apache, Mysql y Php5 en Debian
 date: 2011-10-20 06:05:10+00:00
 slug: apache-mysql-y-php5-en-debian
-image: /wp-content/uploads/2011/10/apache_php_mysql_logo-1.jpg
+image: /images/2011/apache_php_mysql_logo-1.jpg
 categories:
 - Cómos
 - Gnu/Linux
@@ -67,7 +67,7 @@ Necesito descargar 30.3 MB de ficheros. Después de desempaquetar se usarán 76.
 
   
 
-![Pant_lamp](/wp-content/uploads/2011/10/Pant_lamp-1.png)
+![Pant_lamp](/images/2011/Pant_lamp-1.png)
 
   Como nota, indicar que de preferencia NO desinstalen **libgd2-noxpm** que aparece ahí, ya que es necesario para varios paquetes de entorno gráfico que en mi caso los uso. Pero no se preocupen, se sustituye por **libgd2-xpm** y los programas mencionados siguen funcionando de igual forma.
 

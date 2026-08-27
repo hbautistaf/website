@@ -2,7 +2,7 @@
 title: Plática Unach
 date: 2011-03-09 20:27:12+00:00
 slug: platica-unach
-image: /wp-content/uploads/2011/03/dsc07492-1.jpg
+image: /images/2011/dsc07492-1.jpg
 categories:
 - Personal
 tags:

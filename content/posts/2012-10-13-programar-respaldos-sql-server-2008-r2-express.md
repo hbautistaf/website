@@ -2,7 +2,7 @@
 title: Programar respaldos SQL Server 2008 r2 express
 date: 2012-10-13 17:41:05+00:00
 slug: programar-respaldos-sql-server-2008-r2-express
-image: /wp-content/uploads/2012/10/sql_server_2008_r2_small-1.jpg
+image: /images/2012/sql_server_2008_r2_small-1.jpg
 categories:
 - Cómos
 tags:
@@ -16,7 +16,7 @@ aliases:
 - /comos/programar-respaldos-sql-server-2008-r2-express/
 ---
 
-![SQL Server 2008 R2](/wp-content/uploads/2012/10/sql_server_2008_r2_small-1.jpg)
+![SQL Server 2008 R2](/images/2012/sql_server_2008_r2_small-1.jpg)
 
 Resulta que por cuestiones laborales tengo la necesidad de hacer respaldos de una base de datos del MS SQL Server 2008 R2 express, y pues resulta que aunque se pueda instalar el <a title="MS SQL Server Management Studio Express" href="http://www.microsoft.com/es-es/download/details.aspx?id=8961" target="_blank" rel="noopener">MS SQL Server Management Studio Express</a>, simplemente no podremos tener un plan de mantenimiento o automatización, puesto que esa <a title="http://msdn.microsoft.com/en-us/library/ms187658.aspx" href="http://msdn.microsoft.com/en-us/library/ms187658.aspx" target="_blank" rel="noopener">versión carece</a> del <a title="SQL Agent Service" href="http://msdn.microsoft.com/en-us/library/ms189237.aspx" target="_blank" rel="noopener">SQL Agent Service</a>.
 
@@ -31,7 +31,7 @@ Resulta que por cuestiones laborales tengo la necesidad de hacer respaldos de un
 
   
 
-![Multi-Server-Mgmt-Dashboard](/wp-content/uploads/2012/10/Multi-Server-Mgmt-Dashboard-1.png)
+![Multi-Server-Mgmt-Dashboard](/images/2012/Multi-Server-Mgmt-Dashboard-1.png)
 
   Había una forma bastante simple de hacerlo y la encontré <a title="Hacer backup de Sql server mediante línea de comandos" href="http://j.mp/QXNLjK" target="_blank" rel="noopener">aquí</a>, pero me encontré con el inconveniente de que para empezar si ejecutaba el comando sqlcmd así sin argumentos, simplemente me marcaba un error:
 

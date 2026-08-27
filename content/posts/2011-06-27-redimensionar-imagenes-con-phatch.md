@@ -2,7 +2,7 @@
 title: Redimensionar imagenes con Phatch
 date: 2011-06-27 20:46:19+00:00
 slug: redimensionar-imagenes-con-phatch
-image: /wp-content/uploads/2011/06/Phatch-1.png
+image: /images/2011/Phatch-1.png
 categories:
 - Gnu/Linux
 tags:
@@ -180,12 +180,12 @@ Y así se vería  nuestras acciones una vez terminado el proceso.
 
 Espero que saquen mucho más provecho de este excelente programa para trabajar con muchas imágenes de forma cómoda y sencilla.
 
- [1]: /wp-content/uploads/2011/06/Pant_phatch2-1.png
- [2]: /wp-content/uploads/2011/06/Pant_phatch3-1.png
- [3]: /wp-content/uploads/2011/06/Pant_phatch01-1.png
- [4]: /wp-content/uploads/2011/06/Pant_phatch7-1.png
- [5]: /wp-content/uploads/2011/06/Pant_phatch8-1.png
- [6]: /wp-content/uploads/2011/06/Pant_phatch10-1.png
- [7]: /wp-content/uploads/2011/06/Pant_phatch16-1.png
- [8]: /wp-content/uploads/2011/06/Pant_phatch17-1.png
- [9]: /wp-content/uploads/2011/06/Pant_phatch19-1.png
+ [1]: /images/2011/Pant_phatch2-1.png
+ [2]: /images/2011/Pant_phatch3-1.png
+ [3]: /images/2011/Pant_phatch01-1.png
+ [4]: /images/2011/Pant_phatch7-1.png
+ [5]: /images/2011/Pant_phatch8-1.png
+ [6]: /images/2011/Pant_phatch10-1.png
+ [7]: /images/2011/Pant_phatch16-1.png
+ [8]: /images/2011/Pant_phatch17-1.png
+ [9]: /images/2011/Pant_phatch19-1.png

@@ -2,7 +2,7 @@
 title: Flash, Fisiograma, Autofoco, Objetivo y más
 date: 2011-02-04 23:11:37+00:00
 slug: flash-fisiograma-autofoco-objetivo-y-mas
-image: /wp-content/uploads/2011/02/dsc02340-1.jpg
+image: /images/2011/dsc02340-1.jpg
 categories:
 - Fotos
 tags:
@@ -133,8 +133,8 @@ Presentarse a **concursos de fotografía** es una excelente manera de ponernos a
 
 <a title="Curso de Fotografía" href="http://www.xatakafoto.com/curso-de-fotografia/curso-de-fotografia-indice" target="_blank" rel="noopener">http://www.xatakafoto.com/curso-de-fotografia/curso-de-fotografia-indice</a>
 
- [1]: /wp-content/uploads/2011/02/dsc02443-1.jpg
- [2]: /wp-content/uploads/2011/02/dsc02343-1.jpg
- [3]: /wp-content/uploads/2011/02/dsc02340-1.jpg
- [4]: /wp-content/uploads/2011/02/dsc02331-1.jpg
- [5]: /wp-content/uploads/2011/02/dsc02347-1.jpg
+ [1]: /images/2011/dsc02443-1.jpg
+ [2]: /images/2011/dsc02343-1.jpg
+ [3]: /images/2011/dsc02340-1.jpg
+ [4]: /images/2011/dsc02331-1.jpg
+ [5]: /images/2011/dsc02347-1.jpg

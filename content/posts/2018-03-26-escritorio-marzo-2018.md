@@ -2,7 +2,7 @@
 title: Escritorio Marzo 2018
 date: 2018-03-26 16:00:52+00:00
 slug: escritorio-marzo-2018
-image: /wp-content/uploads/2018/03/Pantallazo_26Mar18.png
+image: /images/2018/Pantallazo_26Mar18.png
 categories:
 - Debian
 - Gnu/Linux
@@ -25,4 +25,4 @@ Ya tenía preparado un mini tutorial de cómo lo había dejado, pero lo perdí =
 
 Estaré subiendo uno cada mes, o que haya algún cambio más bonito/drástico
 
- [1]: /wp-content/uploads/2018/03/Pantallazo_26Mar18.png
+ [1]: /images/2018/Pantallazo_26Mar18.png

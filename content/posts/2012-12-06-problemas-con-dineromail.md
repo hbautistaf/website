@@ -2,7 +2,7 @@
 title: Problemas con DineroMail
 date: 2012-12-06 19:12:11+00:00
 slug: problemas-con-dineromail
-image: /wp-content/uploads/2012/12/Forma_Facil-1.png
+image: /images/2012/Forma_Facil-1.png
 categories:
 - Personal
 tags:
@@ -58,4 +58,4 @@ Así que es un gran #Fail para DineroMail que no tengan alguna otra opción.
 
   Seguramente habrá alguna persona a la que sí le funciona el servicio, pero la verdad deja bastante que desear, sobre todo porque es impráctico la opción de "cupones" WTF!!
 
- [1]: /wp-content/uploads/2012/12/Chat_DineroMail-1.png
+ [1]: /images/2012/Chat_DineroMail-1.png

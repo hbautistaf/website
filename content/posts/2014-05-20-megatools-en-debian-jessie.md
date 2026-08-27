@@ -2,7 +2,7 @@
 title: Megatools en Debian Jessie
 date: 2014-05-20 14:00:36+00:00
 slug: megatools-en-debian-jessie
-image: /wp-content/uploads/2018/03/Logo-Mega.png
+image: /images/2018/Logo-Mega.png
 categories:
 - Cómos
 - Gnu/Linux
@@ -21,7 +21,7 @@ aliases:
 - /comos/megatools-en-debian-jessie/
 ---
 
-![Megatools](/wp-content/uploads/2014/05/Megatools-300x55.png)
+![Megatools](/images/2014/Megatools-300x55.png)
 
 Después de un buen rato de no publicar nada por acá, volvemos a las andadas u.u
 
@@ -29,11 +29,11 @@ Después de un buen rato de no publicar nada por acá, volvemos a las andadas u.
 
   
 
-![Mega Signup](/wp-content/uploads/2014/05/Mega-Sigup-300x121.png)
+![Mega Signup](/images/2014/Mega-Sigup-300x121.png)
 
   
 
-![Logo Mega](/wp-content/uploads/2014/05/Logo-Mega-300x223.png)
+![Logo Mega](/images/2014/Logo-Mega-300x223.png)
 
 Tiene una aplicación para iOS, Android y un cliente para escritorio que por el momento nada más hay para Hasefroch.
 
@@ -57,11 +57,11 @@ Si fueran unos 4 o 5 enlaces, no hay tanto problema, el servicio Mega te permite
 
 Para estos casos se hace necesario el usar algún tipo de gestor de descargas, hay uno para sistemas Hasefroch y encontré algunos esfuerzos para Linux, hasta que dí con Megatools.
 
-![](/wp-content/uploads/2018/03/Mega-Sync.png)
+![](/images/2018/Mega-Sync.png)
 
-![](/wp-content/uploads/2018/03/Mega-Mobile-Apps.png)
+![](/images/2018/Mega-Mobile-Apps.png)
 
-![](/wp-content/uploads/2018/03/Mega.png)
+![](/images/2018/Mega.png)
 
  
 

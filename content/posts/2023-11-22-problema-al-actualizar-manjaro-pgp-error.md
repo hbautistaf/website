@@ -2,7 +2,7 @@
 title: 'Problema al actualizar Manjaro: PGP Error'
 date: 2023-11-23 03:59:17+00:00
 slug: problema-al-actualizar-manjaro-pgp-error
-image: /wp-content/uploads/2023/11/Manjaro-Terminal.png
+image: /images/2023/Manjaro-Terminal.png
 categories:
 - Gnu/Linux
 aliases:
@@ -18,15 +18,15 @@ aliases:
 
   Tengo alrededor de poco más de 3 años usando <a href="https://manjaro.org/" target="_blank" rel="noopener" title="">**Manjaro** **Linux**</a>, lo instalé allá por Abril del 2020. Y me parece que por alguna razón reinstalé completamente en esta laptop, borrar particiones e instalar desde cero en Febrero de este año (2023).
 
-![Imagen](/wp-content/uploads/2023/11/Manjaro-Jiraiya1.jpg)
+![Imagen](/images/2023/Manjaro-Jiraiya1.jpg)
 
-![Imagen](/wp-content/uploads/2023/11/Mi-Manjaro.jpg)
+![Imagen](/images/2023/Mi-Manjaro.jpg)
 
   Me considero (o consideraba) Debianita, ya que fui usuario de **<a href="https://www.debian.org/" target="_blank" rel="noopener" title="Debian Gnu/Linux">Debian Gnu/Linux</a>** alrededor de 17 años. Mi última laptop, una vieja Lenovo Thinkpad T430 la tenía con **Debian Testing** usando Mate. Me pasé a Manjaro para probar otro entorno de escritorio y para ver si me adaptaba a la forma de trabajar en Manjaro. Actualmente tengo una Lenovo Thinkpad T470s usando <a href="https://kde.org/es/plasma-desktop/" target="_blank" rel="noopener" title="KDE Plasma">KDE Plasma</a>.
 
   Desde siempre he sido usuario de GTK/Gnome en general, pero cuando salió <a href="https://www.gnome.org/" target="_blank" rel="noopener" title="Gnome">Gnome</a> 3 y luego todas las demás cosas que le pusieron encima, me pasé a <a href="https://www.xfce.org/" target="_blank" rel="noopener" title="XFCE">XFCE</a>, hasta que encontré <a href="https://mate-desktop.org/" target="_blank" rel="noopener" title="Mate">Mate</a>, que básicamente es un Gnome2 renombrado y parchado. Probablemente me decidí a cambiar de aires por algún problema con LightDM o alguna actualización que me rompió el entorno gráfico y que a esas alturas y más pensando de forma más pragmática que otra cosa, me decidí a probar otra cosa.
 
-![Imagen](/wp-content/uploads/2023/11/Manjaro-Nov2023.png)
+![Imagen](/images/2023/Manjaro-Nov2023.png)
 
   No era la primera vez que lo hacía, intenté usar varias distribuciones, como <a href="https://www.centos.org/" target="_blank" rel="noopener" title="CentOs">CentOs</a>, <a href="https://fedoraproject.org/es/" target="_blank" rel="noopener" title="Fedora">Fedora</a>, <a href="https://www.opensuse.org/" target="_blank" rel="noopener" title="Opensuse">Opensuse</a>, <a href="https://linuxmint.com/" target="_blank" rel="noopener" title="LinuxMint">LinuxMint</a> y alguna otra que ahorita no recuerdo. Y luego escuché de <a href="https://archlinux.org/" target="_blank" rel="noopener" title="ArchLinux">ArchLinux</a>, que es/era bastante popular y con mucha documentación siendo una rolling release, y me gustó y me llamó la atención su filosofía y la forma en cómo hacían las cosas. No estoy muy al tanto de todo lo que acontece, pero alguna que otra cosa básica la sé o la he leído.
 

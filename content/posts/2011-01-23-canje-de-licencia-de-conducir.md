@@ -92,9 +92,9 @@ Y el directorio de servicios de lo que pueden encontrarse en esa dependencia
 
 **Actualización 2 (07/mar/2011)**: El centro de canje de licencias de la Unicach ya está abierto nuevamente, haber por cuanto tiempo.
 
- [1]: /wp-content/uploads/2011/01/20012011150-1.jpg
- [2]: /wp-content/uploads/2011/01/20012011148-1.jpg
- [3]: /wp-content/uploads/2011/01/20012011146-1.jpg
- [4]: /wp-content/uploads/2011/03/Lic4.jpg
- [5]: /wp-content/uploads/2011/01/20012011149-1.jpg
- [6]: /wp-content/uploads/2011/01/20012011147-1.jpg
+ [1]: /images/2011/20012011150-1.jpg
+ [2]: /images/2011/20012011148-1.jpg
+ [3]: /images/2011/20012011146-1.jpg
+ [4]: /images/2011/Lic4.jpg
+ [5]: /images/2011/20012011149-1.jpg
+ [6]: /images/2011/20012011147-1.jpg

@@ -2,7 +2,7 @@
 title: Redimensionar imágenes con Imagemagick
 date: 2011-05-31 20:29:17+00:00
 slug: redimencionar-imagenes-con-imagemagick
-image: /wp-content/uploads/2011/05/Imagemagick-logo.png
+image: /images/2011/Imagemagick-logo.png
 categories:
 - Cómos
 - Gnu/Linux
@@ -173,5 +173,5 @@ Jugando con Imagemagick
 
 <a title="ImageMagick manipulando centenares de imagenes" href="http://bit.ly/mrOOFK" target="_blank" rel="noopener">ImageMagick manipulando centenares de imágenes</a>
 
- [1]: /wp-content/uploads/2011/05/foto_coapilla-1.jpg
- [2]: /wp-content/uploads/2011/05/foto_dsc07862-1.jpg
+ [1]: /images/2011/foto_coapilla-1.jpg
+ [2]: /images/2011/foto_dsc07862-1.jpg

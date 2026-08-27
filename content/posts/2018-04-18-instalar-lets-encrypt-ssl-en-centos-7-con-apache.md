@@ -2,7 +2,7 @@
 title: Instalar Let’s Encrypt SSL en CentOS 7 con Apache
 date: 2018-04-18 14:10:21+00:00
 slug: instalar-lets-encrypt-ssl-en-centos-7-con-apache
-image: /wp-content/uploads/2018/04/lets-encrypt-ssl-on-centos7.png
+image: /images/2018/lets-encrypt-ssl-on-centos7.png
 categories:
 - Gnu/Linux
 tags:
@@ -17,7 +17,7 @@ aliases:
 
 <a href="https://letsencrypt.org" target="_blank" rel="noopener">Let's Encrypt</a> es una autoridad de certificacion (CA) gratuita, automatizada y abierta:[
 
-![Let](/wp-content/uploads/2018/04/letsencrypt-logo-horizontal.png)
+![Let](/images/2018/letsencrypt-logo-horizontal.png)
 
 ][1]
 
@@ -616,7 +616,7 @@ Añadimos el siguiente contenido:
   * <a href="https://letsencrypt.org/isrg/" target="_blank" rel="noopener">https://letsencrypt.org/isrg/</a>
   * <a href="https://letsencrypt.org/about/" target="_blank" rel="noopener">https://letsencrypt.org/about/</a>
 
- [1]: /wp-content/uploads/2018/04/letsencrypt-logo-horizontal.png
- [2]: /wp-content/uploads/2018/04/yum-install-certbot.png
- [3]: /wp-content/uploads/2018/04/certbot-installed.png
- [4]: /wp-content/uploads/2018/04/certbot-domain.png
+ [1]: /images/2018/letsencrypt-logo-horizontal.png
+ [2]: /images/2018/yum-install-certbot.png
+ [3]: /images/2018/certbot-installed.png
+ [4]: /images/2018/certbot-domain.png

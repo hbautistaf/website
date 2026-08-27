@@ -2,7 +2,7 @@
 title: Enchulando nuestra terminal
 date: 2011-09-07 04:26:20+00:00
 slug: enchulando-nuestra-terminal
-image: /wp-content/uploads/2011/09/Pant_bashrc-1.png
+image: /images/2011/Pant_bashrc-1.png
 categories:
 - Cómos
 - Gnu/Linux

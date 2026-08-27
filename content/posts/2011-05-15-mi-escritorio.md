@@ -31,4 +31,4 @@ Más lo que se acumulen, pongo como se ve Luke (mi laptop) 🙂
 
 ¿Cuál usan ustedes?
 
- [1]: /wp-content/uploads/2011/05/Pant_May2011-1.png
+ [1]: /images/2011/Pant_May2011-1.png

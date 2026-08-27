@@ -2,7 +2,7 @@
 title: Problema con Broadcom BCM4311 en Debian Wheezy 64 bits
 date: 2011-08-13 05:50:21+00:00
 slug: problema-con-broadcom-bcm4311-en-debian-wheezy-64-bits
-image: /wp-content/uploads/2011/08/Broadcom-1.jpg
+image: /images/2011/Broadcom-1.jpg
 categories:
 - Gnu/Linux
 tags:
@@ -26,7 +26,7 @@ Broadcom
 
   
 
-![Linux Broadcom](/wp-content/uploads/2011/08/linux-broadcom-0-1.jpg)
+![Linux Broadcom](/images/2011/linux-broadcom-0-1.jpg)
 
 Pero resulta que me actualizó el kernel y con ello se fue el driver de mi tarjeta inalámbrica que es una Broadcom:
 
@@ -105,4 +105,4 @@ Enlaces:
 
 <http://wireless.kernel.org/en/users/Drivers/b43>
 
- [1]: /wp-content/uploads/2011/08/network-manager-1.png
+ [1]: /images/2011/network-manager-1.png

@@ -2,7 +2,7 @@
 title: Desinstalar Skimmer
 date: 2011-12-27 23:25:31+00:00
 slug: desinstalar-skimmer
-image: /wp-content/uploads/2011/12/skimmer-1.jpg
+image: /images/2011/skimmer-1.jpg
 categories:
 - Cómos
 - Gnu/Linux

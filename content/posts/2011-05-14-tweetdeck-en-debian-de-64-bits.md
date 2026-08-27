@@ -2,7 +2,7 @@
 title: TweetDeck en Debian de 64 bits
 date: 2011-05-14 05:50:41+00:00
 slug: tweetdeck-en-debian-de-64-bits
-image: /wp-content/uploads/2011/05/features_home_pc-1.png
+image: /images/2011/features_home_pc-1.png
 categories:
 - Debian
 - Gnu/Linux
@@ -98,9 +98,9 @@ Y listo, con estos sencillos pasos habremos por fin de resolver el detalle de po
 
 " data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/features_home_pc-1.png?fit=620%2C499&ssl=1" class="aligncenter size-medium wp-image-533" title="Pantalla Tweetdeck" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/features_home_pc-1.png?resize=300%2C241&ssl=1" alt="Pantalla Tweetdeck" width="300" height="241" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/features_home_pc-1.png?resize=300%2C241&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/features_home_pc-1.png?w=620&ssl=1 620w" sizes="auto, (max-width: 300px) 100vw, 300px" />][6]
 
- [1]: /wp-content/uploads/2011/05/Pant_Adobeair-1.png
- [2]: /wp-content/uploads/2011/05/Pant_Adobeair2-1.png
- [3]: /wp-content/uploads/2011/05/twetdeck-1.png
- [4]: /wp-content/uploads/2011/05/Pant_error_tweet2-1.png
- [5]: /wp-content/uploads/2011/05/Pant_eror_twwet1-1.png
- [6]: /wp-content/uploads/2011/05/features_home_pc-1.png
+ [1]: /images/2011/Pant_Adobeair-1.png
+ [2]: /images/2011/Pant_Adobeair2-1.png
+ [3]: /images/2011/twetdeck-1.png
+ [4]: /images/2011/Pant_error_tweet2-1.png
+ [5]: /images/2011/Pant_eror_twwet1-1.png
+ [6]: /images/2011/features_home_pc-1.png

@@ -62,4 +62,4 @@ Referencias:
 
 > <a title="Broadcom Ubuntu" href="http://bit.ly/b8k7q3" target="_blank">http://bit.ly/b8k7q3</a>
 
- [1]: /wp-content/uploads/2011/11/Pant_lspci.png
+ [1]: /images/2011/Pant_lspci.png

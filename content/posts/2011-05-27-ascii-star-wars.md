@@ -2,7 +2,7 @@
 title: ASCII Star Wars
 date: 2011-05-28 03:35:08+00:00
 slug: ascii-star-wars
-image: /wp-content/uploads/2011/05/Pant_StarWar-1.png
+image: /images/2011/Pant_StarWar-1.png
 categories:
 - Gnu/Linux
 tags:
@@ -30,4 +30,4 @@ telnet towel.blinkenlights.nl
 
 La imaginación, paciencia y destreza de algunas personas me impresiona. Que lo disfruten..
 
- [1]: /wp-content/uploads/2011/05/Pant_StarWar-1.png
+ [1]: /images/2011/Pant_StarWar-1.png

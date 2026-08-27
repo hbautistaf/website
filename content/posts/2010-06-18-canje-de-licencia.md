@@ -70,9 +70,9 @@ Nota: Después de hacer todo lo anterior, se me ocurrió buscar información ¬�
 
 Tan tan..
 
- [1]: /wp-content/uploads/2010/06/Pan_biblio_unach-1.png
- [2]: /wp-content/uploads/2010/06/dsc08615-1.jpg
- [3]: /wp-content/uploads/2010/06/dsc08616-1.jpg
- [4]: /wp-content/uploads/2010/06/dsc08617-1.jpg
- [5]: /wp-content/uploads/2010/06/dsc08618-1.jpg
- [6]: /wp-content/uploads/2010/06/Pant_hacienda-1.png
+ [1]: /images/2010/Pan_biblio_unach-1.png
+ [2]: /images/2010/dsc08615-1.jpg
+ [3]: /images/2010/dsc08616-1.jpg
+ [4]: /images/2010/dsc08617-1.jpg
+ [5]: /images/2010/dsc08618-1.jpg
+ [6]: /images/2010/Pant_hacienda-1.png

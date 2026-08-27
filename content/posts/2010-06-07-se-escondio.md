@@ -16,7 +16,7 @@ aliases:
 - /fotos/se-escondio/
 ---
 
-![Luna](/wp-content/uploads/2011/11/Luna.jpg)
+![Luna](/images/2011/Luna.jpg)
 
 > La luna se puede tomar a cucharadas o como una cápsula cada dos horas.
 > 

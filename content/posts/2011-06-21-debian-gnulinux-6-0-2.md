@@ -2,7 +2,7 @@
 title: Debian GNU/Linux 6.0.2
 date: 2011-06-21 05:53:56+00:00
 slug: debian-gnulinux-6-0-2
-image: /wp-content/uploads/2011/06/debian-squeeze-two-454-1.jpg
+image: /images/2011/debian-squeeze-two-454-1.jpg
 categories:
 - Debian
 - Gnu/Linux
@@ -61,4 +61,4 @@ Escritorio KDE
 
 " data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/06/simple-kde4-video-1.png?fit=648%2C365&ssl=1" class="aligncenter size-medium wp-image-604" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/06/simple-kde4-video-1.png?resize=300%2C169&ssl=1" alt="" width="300" height="169" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/06/simple-kde4-video-1.png?resize=300%2C169&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/06/simple-kde4-video-1.png?resize=768%2C432&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/06/simple-kde4-video-1.png?resize=1024%2C576&ssl=1 1024w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/06/simple-kde4-video-1.png?w=1366&ssl=1 1366w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/06/simple-kde4-video-1.png?w=1296&ssl=1 1296w" sizes="auto, (max-width: 300px) 100vw, 300px" />
 
- [1]: /wp-content/uploads/2011/06/debian-squeeze-two-454-1.jpg
+ [1]: /images/2011/debian-squeeze-two-454-1.jpg

@@ -15,7 +15,7 @@ aliases:
 - /linux/hace-un-ano/
 ---
 
-![Me](/wp-content/uploads/2011/11/IMG_0206-1.jpg)
+![Me](/images/2011/IMG_0206-1.jpg)
 
 A las 9:15 aproximadamente, hace un año; fueron a mi lugar de trabajo para pedirme amablemente que me presentara en la oficina del secretario particular de la directora general de la dependencia en donde laboraba. Únicamente había mandado un "tuit" de "Buenos días".
 

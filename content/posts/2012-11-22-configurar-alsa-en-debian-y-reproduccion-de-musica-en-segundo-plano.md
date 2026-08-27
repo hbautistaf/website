@@ -2,7 +2,7 @@
 title: Configurar ALSA en Debian y reproducción de música en segundo plano
 date: 2012-11-22 23:00:11+00:00
 slug: configurar-alsa-en-debian-y-reproduccion-de-musica-en-segundo-plano
-image: /wp-content/uploads/2012/11/alsaequal-1.png
+image: /images/2012/alsaequal-1.png
 categories:
 - Cómos
 - Gnu/Linux
@@ -141,4 +141,4 @@ hbautista@war-machine:~$ nohup mplayer -shuffle -loop 0 bond/*.mp3 &
 
   Y con esto logramos el cometido: Reproducir de forma aleatoria y de forma indefinida los archivos .mp3 que se encuentren en el directorio bond dentro de la carpeta del usuario, lo haga en segundo plano aún si dicho usuario cierra sesión.
 
- [1]: /wp-content/uploads/2012/11/alsaequal-1.png
+ [1]: /images/2012/alsaequal-1.png

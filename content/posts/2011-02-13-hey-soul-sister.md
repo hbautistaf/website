@@ -27,4 +27,4 @@ Lost
 
 My time has come, pay my rent, give it back and disappear
 
- [1]: /wp-content/uploads/2011/02/Foto-28-1.jpg
+ [1]: /images/2011/Foto-28-1.jpg

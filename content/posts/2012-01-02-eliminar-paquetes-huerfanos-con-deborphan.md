@@ -2,7 +2,7 @@
 title: Eliminar paquetes huerfanos con Deborphan
 date: 2012-01-03 04:11:51+00:00
 slug: eliminar-paquetes-huerfanos-con-deborphan
-image: /wp-content/uploads/2012/01/Pant_Synaptic-1.png
+image: /images/2012/Pant_Synaptic-1.png
 categories:
 - Cómos
 - Gnu/Linux
@@ -264,5 +264,5 @@ Synaptic Filtro 2
 
 " data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Pant_SynapticFiltros2-1.png?fit=648%2C369&ssl=1" class="aligncenter size-medium wp-image-823" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Pant_SynapticFiltros2-1.png?resize=300%2C171&ssl=1" alt="" width="300" height="171" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Pant_SynapticFiltros2-1.png?resize=300%2C171&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Pant_SynapticFiltros2-1.png?resize=768%2C437&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Pant_SynapticFiltros2-1.png?w=841&ssl=1 841w" sizes="auto, (max-width: 300px) 100vw, 300px" />
 
- [1]: /wp-content/uploads/2012/01/Pant_Synaptic-1.png
- [2]: /wp-content/uploads/2012/01/Pant_SynapticFiltros3-1.png
+ [1]: /images/2012/Pant_Synaptic-1.png
+ [2]: /images/2012/Pant_SynapticFiltros3-1.png

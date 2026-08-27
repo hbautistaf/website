@@ -22,8 +22,8 @@ aliases:
 
 [
 
-![](/wp-content/uploads/2011/10/Jobs-1.jpg)
+![](/images/2011/Jobs-1.jpg)
 
 ][1]
 
- [1]: /wp-content/uploads/2011/10/Jobs-1.jpg
+ [1]: /images/2011/Jobs-1.jpg

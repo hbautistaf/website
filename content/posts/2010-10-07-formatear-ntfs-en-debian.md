@@ -41,4 +41,4 @@ Basta con volver a entrar en GParted y crear las particiones tal y como mencion√
 
 En el trabajo necesitamos de ese disco duro con ese tipo de particiones.
 
- [1]: /wp-content/uploads/2010/10/Testdisklogo_clear_100-1.png
+ [1]: /images/2010/Testdisklogo_clear_100-1.png

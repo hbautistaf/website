@@ -40,4 +40,4 @@ Pues bien, en <a title="Trunk.ly" href="http://trunk.ly" target="_blank" rel="no
 
 En una opinión muy personal, recomiendo ampliamente el servicio, puede que tú si encuentres algún enlace del que te hayas olvidado ñ_ñ
 
- [1]: /wp-content/uploads/2011/04/trunkly-1.png
+ [1]: /images/2011/trunkly-1.png

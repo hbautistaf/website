@@ -2,7 +2,7 @@
 title: Tu primer año
 date: 2013-09-07 19:17:17+00:00
 slug: tu-primer-ano
-image: /wp-content/uploads/2013/09/2013-09-01-13.47.18-1.jpg
+image: /images/2013/2013-09-01-13.47.18-1.jpg
 categories:
 - Personal
 tags:
@@ -118,18 +118,18 @@ Te quiere:
 
  
 
- [1]: /wp-content/uploads/2013/09/IMG_0266-1.jpg
- [2]: /wp-content/uploads/2013/09/2012-12-30-12.33.06-1.jpg
- [3]: /wp-content/uploads/2013/09/2013-04-21-19.00.02-1.jpg
- [4]: /wp-content/uploads/2013/09/2013-09-01-13.47.18-1.jpg
- [5]: /wp-content/uploads/2013/09/2013-09-07-13.38.31-1.jpg
- [6]: /wp-content/uploads/2013/09/2013-08-29-18.29.27-1.jpeg
- [7]: /wp-content/uploads/2013/09/IMG_0413-1.jpg
- [8]: /wp-content/uploads/2013/09/IMG_0310-1.jpg
- [9]: /wp-content/uploads/2013/09/2013-09-01-22.05.21-1.jpg
- [10]: /wp-content/uploads/2013/09/2013-08-29-21.04.31-1.jpg
- [11]: /wp-content/uploads/2013/09/IMG_0286-1.jpg
- [12]: /wp-content/uploads/2013/09/2013-05-17-09.39.52-1.jpg
- [13]: /wp-content/uploads/2013/09/2013-01-20-08.52.29-1.jpg
- [14]: /wp-content/uploads/2013/09/2013-03-22-16.27.49-1.jpg
- [15]: /wp-content/uploads/2013/09/2013-06-29-23.17.32-1.jpg
+ [1]: /images/2013/IMG_0266-1.jpg
+ [2]: /images/2013/2012-12-30-12.33.06-1.jpg
+ [3]: /images/2013/2013-04-21-19.00.02-1.jpg
+ [4]: /images/2013/2013-09-01-13.47.18-1.jpg
+ [5]: /images/2013/2013-09-07-13.38.31-1.jpg
+ [6]: /images/2013/2013-08-29-18.29.27-1.jpeg
+ [7]: /images/2013/IMG_0413-1.jpg
+ [8]: /images/2013/IMG_0310-1.jpg
+ [9]: /images/2013/2013-09-01-22.05.21-1.jpg
+ [10]: /images/2013/2013-08-29-21.04.31-1.jpg
+ [11]: /images/2013/IMG_0286-1.jpg
+ [12]: /images/2013/2013-05-17-09.39.52-1.jpg
+ [13]: /images/2013/2013-01-20-08.52.29-1.jpg
+ [14]: /images/2013/2013-03-22-16.27.49-1.jpg
+ [15]: /images/2013/2013-06-29-23.17.32-1.jpg

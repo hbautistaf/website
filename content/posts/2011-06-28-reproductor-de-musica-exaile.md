@@ -2,7 +2,7 @@
 title: Reproductor de Música Exaile
 date: 2011-06-28 05:03:55+00:00
 slug: reproductor-de-musica-exaile
-image: /wp-content/uploads/2011/06/Pant_Exaile14-1.png
+image: /images/2011/Pant_Exaile14-1.png
 categories:
 - Cómos
 - Gnu/Linux
@@ -116,14 +116,14 @@ Los invito a usarlo y ver si cumple sus espectativas. No es el único reproducto
 
 Espero les guste.
 
- [1]: /wp-content/uploads/2011/06/Pant_Exaile-1.png
- [2]: /wp-content/uploads/2011/06/Pant_Exaile2-1.png
- [3]: /wp-content/uploads/2011/06/Pant_Exaile4-1.png
- [4]: /wp-content/uploads/2011/06/Pant_Exaile5-1.png
- [5]: /wp-content/uploads/2011/06/Pant_Exaile7-1.png
- [6]: /wp-content/uploads/2011/06/Pant_Exaile9-1.png
- [7]: /wp-content/uploads/2011/06/Pant_Exaile10-1.png
- [8]: /wp-content/uploads/2011/06/Pant_Exaile11-1.png
- [9]: /wp-content/uploads/2011/06/Pant_Exaile12-1.png
- [10]: /wp-content/uploads/2011/06/Pant_Exaile13-1.png
- [11]: /wp-content/uploads/2011/06/Pant_Exaile14-1.png
+ [1]: /images/2011/Pant_Exaile-1.png
+ [2]: /images/2011/Pant_Exaile2-1.png
+ [3]: /images/2011/Pant_Exaile4-1.png
+ [4]: /images/2011/Pant_Exaile5-1.png
+ [5]: /images/2011/Pant_Exaile7-1.png
+ [6]: /images/2011/Pant_Exaile9-1.png
+ [7]: /images/2011/Pant_Exaile10-1.png
+ [8]: /images/2011/Pant_Exaile11-1.png
+ [9]: /images/2011/Pant_Exaile12-1.png
+ [10]: /images/2011/Pant_Exaile13-1.png
+ [11]: /images/2011/Pant_Exaile14-1.png

@@ -2,7 +2,7 @@
 title: Configurando y usando OpenSSH en CentOS 7
 date: 2018-04-17 13:39:26+00:00
 slug: configurando-y-usando-openssh-en-centos-7
-image: /wp-content/uploads/2018/04/Secure_Shell.png
+image: /images/2018/Secure_Shell.png
 categories:
 - Gnu/Linux
 tags:
@@ -18,7 +18,7 @@ aliases:
 - /linux/configurando-y-usando-openssh-en-centos-7/
 ---
 
-![SSH Logo](/wp-content/uploads/2018/04/SSH_Logo.png)
+![SSH Logo](/images/2018/SSH_Logo.png)
 
 El escenario es el siguiente, <a href="https://www.centos.org" target="_blank" rel="noopener">**CentOS 7**</a> recién instalado con **OpenSSH** instalado y configurado por default y **SELinux** desactivado.
 
@@ -197,10 +197,10 @@ Y eso sería todo.
 
  
 
- [1]: /wp-content/uploads/2018/04/Pant_puttygen.png
- [2]: /wp-content/uploads/2018/04/Pant_importkey.png
- [3]: /wp-content/uploads/2018/04/puttygen_warning.png
- [4]: /wp-content/uploads/2018/04/puttygen-guardarppk.png
- [5]: /wp-content/uploads/2018/04/Pant_Filezilla.png
- [6]: /wp-content/uploads/2018/04/filezilla_confiar.png
- [7]: /wp-content/uploads/2018/04/Filezilla_conectado.png
+ [1]: /images/2018/Pant_puttygen.png
+ [2]: /images/2018/Pant_importkey.png
+ [3]: /images/2018/puttygen_warning.png
+ [4]: /images/2018/puttygen-guardarppk.png
+ [5]: /images/2018/Pant_Filezilla.png
+ [6]: /images/2018/filezilla_confiar.png
+ [7]: /images/2018/Filezilla_conectado.png

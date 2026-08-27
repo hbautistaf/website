@@ -2,7 +2,7 @@
 title: Sources.list Debian Wheezy
 date: 2011-11-30 04:21:20+00:00
 slug: sources-list-debian-wheezy
-image: /wp-content/uploads/2011/11/Pant_sources_wheezy-1.png
+image: /images/2011/Pant_sources_wheezy-1.png
 categories:
 - Gnu/Linux
 tags:

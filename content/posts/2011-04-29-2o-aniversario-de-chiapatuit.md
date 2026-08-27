@@ -2,7 +2,7 @@
 title: 2o Aniversario de Chiapatuit
 date: 2011-04-29 05:24:06+00:00
 slug: 2o-aniversario-de-chiapatuit
-image: /wp-content/uploads/2011/04/Collage-Logos-1.png
+image: /images/2011/Collage-Logos-1.png
 categories:
 - Chiapatuit
 tags:
@@ -39,5 +39,5 @@ También agradecerles a todos los patrocinadores de este evento, su apoyo a sido
 
  
 
- [1]: /wp-content/uploads/2011/04/k3avmv1-1.jpg
- [2]: /wp-content/uploads/2011/04/Collage-Logos-1.png
+ [1]: /images/2011/k3avmv1-1.jpg
+ [2]: /images/2011/Collage-Logos-1.png

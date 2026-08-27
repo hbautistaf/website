@@ -4,14 +4,15 @@ import re
 import html
 import yaml
 import glob
+import shutil
 from pathlib import Path
 
 SOURCE_POSTS_DIR = Path("hugo-export/posts")
 TARGET_POSTS_DIR = Path("content/posts")
 SOURCE_ABOUT = Path("hugo-export/sobre-mi/index.md")
 TARGET_ABOUT = Path("content/page/about/index.md")
-SOURCE_STATIC_WP = Path("hugo-export/wp-content")
-TARGET_STATIC_WP = Path("static/wp-content")
+SOURCE_UPLOADS = Path("hugo-export/wp-content/uploads")
+TARGET_IMAGES = Path("static/images")
 
 def clean_html_entities(text) -> str:
     if text is None:
@@ -44,14 +45,25 @@ def clean_image_url(url: str) -> str:
     url = re.sub(r'https?://(?:blog\.)?hbautista\.com', '', url)
     # Strip query params like ?fit=... or ?resize=... or ?ssl=1
     url = re.sub(r'\?(?:fit|resize|ssl|w|h|strip)=[^ \)\"\'>]+', '', url)
-    if "wp-content/" in url and not url.startswith("/wp-content/"):
-        idx = url.find("/wp-content/")
-        if idx != -1:
-            url = url[idx:]
-        else:
-            idx = url.find("wp-content/")
-            if idx != -1:
-                url = "/" + url[idx:]
+    
+    # Transform /wp-content/uploads/YYYY/MM/file.ext -> /images/YYYY/file.ext
+    # or /wp-content/uploads/YYYY/file.ext -> /images/YYYY/file.ext
+    match_year_month = re.search(r'wp-content/uploads/(\d{4})/(?:\d{2}/)?([^/\"\'>\s\)]+)', url)
+    if match_year_month:
+        year = match_year_month.group(1)
+        filename = match_year_month.group(2)
+        return f"/images/{year}/{filename}"
+    
+    # Generic wp-content/uploads/filename -> /images/filename
+    match_root = re.search(r'wp-content/uploads/([^/\"\'>\s\)]+)', url)
+    if match_root:
+        filename = match_root.group(1)
+        return f"/images/{filename}"
+
+    # If already /images/...
+    if url.startswith("/images/"):
+        return url
+
     return url
 
 def clean_body_content(body: str) -> str:
@@ -182,14 +194,12 @@ def process_posts():
     migrated_count = 0
     for file_path in post_files:
         basename = os.path.basename(file_path)
-        # Skip empty draft file if present
         if basename == "2021-01-05-.md":
             continue
 
         with open(file_path, "r", encoding="utf-8", errors="ignore") as f:
             raw_content = f.read()
 
-        # Split front matter
         if not raw_content.startswith("---"):
             continue
 
@@ -232,12 +242,11 @@ def process_posts():
             if date_alias not in aliases:
                 aliases.append(date_alias)
 
-        # Clean featured image
+        # Clean featured image to /images/YYYY/filename
         image = fm.get("featured_image") or fm.get("image") or ""
         if image:
             image = clean_image_url(str(image))
 
-        # Filter categories and tags
         categories = fm.get("categories", [])
         if isinstance(categories, (str, int, float)):
             categories = [categories]
@@ -248,7 +257,6 @@ def process_posts():
             tags = [tags]
         tags = [clean_html_entities(str(t)) for t in tags if t is not None]
 
-        # Construct clean Front Matter
         clean_fm = {
             "title": title,
             "date": fm.get("date"),
@@ -266,10 +274,8 @@ def process_posts():
         if fm.get("draft"):
             clean_fm["draft"] = True
 
-        # Clean body
         clean_body = clean_body_content(body)
 
-        # Write to target
         target_path = TARGET_POSTS_DIR / basename
         output_content = "---\n" + yaml.dump(clean_fm, allow_unicode=True, sort_keys=False) + "---\n\n" + clean_body + "\n"
 
@@ -312,6 +318,33 @@ def process_about_page():
         f.write(output_content)
     print(f"Successfully migrated About page to {TARGET_ABOUT}")
 
+def organize_images_by_year():
+    print(f"Organizing images from {SOURCE_UPLOADS} into {TARGET_IMAGES}/YYYY/...")
+    os.makedirs(TARGET_IMAGES, exist_ok=True)
+
+    # 1. Process YYYY/MM/* files
+    for year_dir in SOURCE_UPLOADS.glob("*"):
+        if year_dir.is_dir() and year_dir.name.isdigit() and len(year_dir.name) == 4:
+            year = year_dir.name
+            target_year_dir = TARGET_IMAGES / year
+            os.makedirs(target_year_dir, exist_ok=True)
+
+            for item in year_dir.rglob("*"):
+                if item.is_file():
+                    target_file = target_year_dir / item.name
+                    if not target_file.exists():
+                        shutil.copy2(item, target_file)
+
+    # 2. Process root files in uploads (e.g. logo_hbautista.png)
+    for root_file in SOURCE_UPLOADS.glob("*.*"):
+        if root_file.is_file():
+            target_file = TARGET_IMAGES / root_file.name
+            if not target_file.exists():
+                shutil.copy2(root_file, target_file)
+
+    print("Images organized by year successfully!")
+
 if __name__ == "__main__":
+    organize_images_by_year()
     process_posts()
     process_about_page()

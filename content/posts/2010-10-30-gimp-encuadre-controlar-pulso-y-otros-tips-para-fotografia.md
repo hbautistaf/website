@@ -2,7 +2,7 @@
 title: Gimp, Encuadre, Controlar pulso y otros tips para Fotografía
 date: 2010-10-30 17:08:17+00:00
 slug: gimp-encuadre-controlar-pulso-y-otros-tips-para-fotografia
-image: /wp-content/uploads/2010/10/sonrisa-1.jpg
+image: /images/2010/sonrisa-1.jpg
 categories:
 - Fotos
 - Personal
@@ -132,7 +132,7 @@ Pues lo primero que debes tener en cuenta es que si bien es posible captar imág
 
 " data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2010/10/dsc03116-1.jpg?fit=648%2C434&ssl=1" class="aligncenter size-medium wp-image-368" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2010/10/dsc03116-1.jpg?resize=300%2C201&ssl=1" alt="" width="300" height="201" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2010/10/dsc03116-1.jpg?resize=300%2C201&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2010/10/dsc03116-1.jpg?resize=768%2C514&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2010/10/dsc03116-1.jpg?w=890&ssl=1 890w" sizes="auto, (max-width: 300px) 100vw, 300px" />][4]
 
- [1]: /wp-content/uploads/2010/10/sonrisa-1.jpg
- [2]: /wp-content/uploads/2010/10/dsc03032-1.jpg
- [3]: /wp-content/uploads/2010/10/dsc03033-1.jpg
- [4]: /wp-content/uploads/2010/10/dsc03116-1.jpg
+ [1]: /images/2010/sonrisa-1.jpg
+ [2]: /images/2010/dsc03032-1.jpg
+ [3]: /images/2010/dsc03033-1.jpg
+ [4]: /images/2010/dsc03116-1.jpg

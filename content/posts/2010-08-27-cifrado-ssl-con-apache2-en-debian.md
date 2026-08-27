@@ -2,7 +2,7 @@
 title: Cifrado SSL con Apache2 en Debian
 date: 2010-08-27 20:43:17+00:00
 slug: cifrado-ssl-con-apache2-en-debian
-image: /wp-content/uploads/2010/08/apache.png
+image: /images/2010/apache.png
 categories:
 - Cómos
 - Debian
@@ -162,9 +162,9 @@ https://dominiocifrado.com
 
 Veremos nuestro certificado más o menos como esto:
 
-![Cifrado](/wp-content/uploads/2010/08/Pant_cifrado-1.png)
+![Cifrado](/images/2010/Pant_cifrado-1.png)
 
-![](/wp-content/uploads/2010/08/Pant_cifrado2-1.png)
+![](/images/2010/Pant_cifrado2-1.png)
 
 Eso es todo, espero a alguien pueda parecerle útil esta información
 

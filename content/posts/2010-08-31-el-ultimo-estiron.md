@@ -42,4 +42,4 @@ Por cierto.. estoy conociendo y entendiendo a cierta parte de una personalidad q
 
 Ahhh.. y para terminar.. empiezo a creer..
 
- [1]: /wp-content/uploads/2010/08/yopo-1.jpg
+ [1]: /images/2010/yopo-1.jpg

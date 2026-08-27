@@ -125,4 +125,4 @@ Conclusiones: Como freelancer me va mejor económicamente hablando, aunque no to
 
 Ya estoy haciendo una pequeña página de servicios que ofrezco para tu casa, negocio o institución.
 
- [1]: /wp-content/uploads/2011/05/Administrador-1.png
+ [1]: /images/2011/Administrador-1.png

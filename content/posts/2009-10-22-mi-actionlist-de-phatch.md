@@ -74,5 +74,5 @@ Esto es lo que contiene mi archivo .phatch que uso con el <a title="PhotoBatch" 
 
 Bueno, que tengan un bonito día 🙂
 
- [1]: /wp-content/uploads/2011/08/luna2.jpg
- [2]: /wp-content/uploads/2011/08/dsc05114.jpg
+ [1]: /images/2011/luna2.jpg
+ [2]: /images/2011/dsc05114.jpg

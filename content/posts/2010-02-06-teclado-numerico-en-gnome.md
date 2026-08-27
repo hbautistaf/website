@@ -104,8 +104,8 @@ En fin.. un caso sospechoso que resulto en un conocimiento sobre este mundo de l
 
 Lo sigo diciendo, siempres aprendes algo nuevo todos los dí­as. 😀
 
- [1]: /wp-content/uploads/2011/10/Pant_teclado1.png
- [2]: /wp-content/uploads/2011/10/Pant_teclado2.png
+ [1]: /images/2011/Pant_teclado1.png
+ [2]: /images/2011/Pant_teclado2.png
  [3]: http://groups.google.com/group/es.comp.os.linux.instalacion/browse_thread/thread/b9cccb1015fc1af5
- [4]: /wp-content/uploads/2011/10/Pant_teclado3.png
- [5]: /wp-content/uploads/2011/10/Pant_teclado4.png
+ [4]: /images/2011/Pant_teclado3.png
+ [5]: /images/2011/Pant_teclado4.png

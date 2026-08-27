@@ -2,7 +2,7 @@
 title: Admin CFDI en Debian
 date: 2015-03-19 14:20:57+00:00
 slug: admin-cfdi-en-debian
-image: /wp-content/uploads/2018/03/Admin_CFDI_01.png
+image: /images/2018/Admin_CFDI_01.png
 categories:
 - Gnu/Linux
 tags:
@@ -80,11 +80,11 @@ hbautista@kenobi:~/AdminCFDI_v0.2.2$ python3 admincfdi.py</pre>
 
 [
 
-![](/wp-content/uploads/2018/03/Admin_CFDI_01.png)
+![](/images/2018/Admin_CFDI_01.png)
 
 ][2][
 
-![](/wp-content/uploads/2018/03/Admin_CFDI_02.png)
+![](/images/2018/Admin_CFDI_02.png)
 
 ][3]
 
@@ -93,5 +93,5 @@ Y eso sería todo
 Agradecimientos a <a title="Factura Libre" href="https://facturalibre.net/" target="_blank" rel="noopener">Factura Libre</a> y a <a title="Linuxman" href="http://linuxmanr4.com/" target="_blank" rel="noopener">Linuxman</a> por la ayuda prestada.
 
  [1]: https://facturalibre.net/download_test/6
- [2]: /wp-content/uploads/2018/03/Admin_CFDI_01.png
- [3]: /wp-content/uploads/2018/03/Admin_CFDI_02.png
+ [2]: /images/2018/Admin_CFDI_01.png
+ [3]: /images/2018/Admin_CFDI_02.png

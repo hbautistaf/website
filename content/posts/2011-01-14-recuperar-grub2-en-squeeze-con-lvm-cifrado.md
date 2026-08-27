@@ -2,7 +2,7 @@
 title: Recuperar Grub2 en Squeeze con LVM cifrado
 date: 2011-01-14 18:17:30+00:00
 slug: recuperar-grub2-en-squeeze-con-lvm-cifrado
-image: /wp-content/uploads/2011/01/grub2.jpg
+image: /images/2011/grub2.jpg
 categories:
 - Gnu/Linux
 tags:

@@ -2,7 +2,7 @@
 title: Cuarto Aniversario
 date: 2016-09-08 06:12:08+00:00
 slug: cuarto-aniversario
-image: /wp-content/uploads/2018/03/photo_2016-09-07_13-01-52.jpg
+image: /images/2018/photo_2016-09-07_13-01-52.jpg
 categories:
 - Personal
 tags:

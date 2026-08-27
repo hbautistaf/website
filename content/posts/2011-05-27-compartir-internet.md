@@ -2,7 +2,7 @@
 title: Compartir internet
 date: 2011-05-27 20:05:36+00:00
 slug: compartir-internet
-image: /wp-content/uploads/2011/05/firewall_esquema-1.gif
+image: /images/2011/firewall_esquema-1.gif
 categories:
 - Debian
 - Gnu/Linux
@@ -49,4 +49,4 @@ Con ese sencillo script tienen salida a internet los que estén en tu red intern
 
 Saludos y espero que a alguien le sirva.
 
- [1]: /wp-content/uploads/2011/05/firewall_esquema-1.gif
+ [1]: /images/2011/firewall_esquema-1.gif

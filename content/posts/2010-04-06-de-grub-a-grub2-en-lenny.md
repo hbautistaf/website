@@ -2,7 +2,7 @@
 title: De Grub a  Grub2 en Lenny
 date: 2010-04-06 16:43:48+00:00
 slug: de-grub-a-grub2-en-lenny
-image: /wp-content/uploads/2011/01/grub2.jpg
+image: /images/2011/grub2.jpg
 categories:
 - Gnu/Linux
 aliases:

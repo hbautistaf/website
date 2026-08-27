@@ -2,7 +2,7 @@
 title: Características de las redes
 date: 2012-03-24 04:26:28+00:00
 slug: caracteristicas-de-las-redes
-image: /wp-content/uploads/2012/03/redes-1.jpg
+image: /images/2012/redes-1.jpg
 categories:
 - Gnu/Linux
 tags:

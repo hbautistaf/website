@@ -2,7 +2,7 @@
 title: Problema con canal negativo en Aircrack-ng
 date: 2011-08-13 07:08:24+00:00
 slug: problema-con-canal-negativo-en-aircrack-ng
-image: /wp-content/uploads/2011/08/aircrack-ng-1.gif
+image: /images/2011/aircrack-ng-1.gif
 categories:
 - Gnu/Linux
 tags:
@@ -136,5 +136,5 @@ http://www.portalhacker.net/index.php?topic=140639.0
 
  
 
- [1]: /wp-content/uploads/2011/08/aircrack-ng-new-logo-1.jpg
- [2]: /wp-content/uploads/2011/08/wireless-gPCI-Broadcom-1.jpg
+ [1]: /images/2011/aircrack-ng-new-logo-1.jpg
+ [2]: /images/2011/wireless-gPCI-Broadcom-1.jpg

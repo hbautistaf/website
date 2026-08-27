@@ -2,7 +2,7 @@
 title: Debian 6.0 “Squeeze” publicado
 date: 2011-02-06 01:52:37+00:00
 slug: debian-6-0-squeeze-publicado
-image: /wp-content/uploads/2011/02/squeeze-1.png
+image: /images/2011/squeeze-1.png
 categories:
 - Debian
 - Gnu/Linux
@@ -39,4 +39,4 @@ Debian 6.0 “Squeeze” incluye una versión preliminar de dos nuevas adaptacio
 <a title="Release Notes" href="http://debian.org/releases/stable/releasenotes" target="_blank" rel="noopener">Notas de publicación</a>
 
  [1]: https://www.debian.org/
- [2]: /wp-content/uploads/2011/02/squeeze-1.png
+ [2]: /images/2011/squeeze-1.png

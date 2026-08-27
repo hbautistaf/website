@@ -2,7 +2,7 @@
 title: JDownloader en Debian Wheezy
 date: 2011-07-24 06:36:17+00:00
 slug: jdownloader-en-debian-wheezy
-image: /wp-content/uploads/2011/07/Pant_jdownloader3-1.png
+image: /images/2011/Pant_jdownloader3-1.png
 categories:
 - Cómos
 - Gnu/Linux
@@ -138,7 +138,7 @@ Finalmente nos deja ya con la aplicación funcionando
 
 Si alguien tiene un problema similar, espero que esto les sirva
 
- [1]: /wp-content/uploads/2011/07/jdownloader-1.png
- [2]: /wp-content/uploads/2011/07/Pant_jdownloader-1.png
- [3]: /wp-content/uploads/2011/07/Pant_jdownloader2-1.png
- [4]: /wp-content/uploads/2011/07/Pant_jdownloader3-1.png
+ [1]: /images/2011/jdownloader-1.png
+ [2]: /images/2011/Pant_jdownloader-1.png
+ [3]: /images/2011/Pant_jdownloader2-1.png
+ [4]: /images/2011/Pant_jdownloader3-1.png

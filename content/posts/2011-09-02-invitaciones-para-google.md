@@ -28,4 +28,4 @@ Si quieres alguna, aquí puedes obtenerlas.
 
  
 
- [1]: /wp-content/uploads/2011/09/google-plus-1.jpg
+ [1]: /images/2011/google-plus-1.jpg
