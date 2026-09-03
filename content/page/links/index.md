@@ -1,11 +1,6 @@
 ---
 title: "Enlaces"
 slug: "links"
-menu:
-  main:
-    weight: -50
-    params:
-      icon: link
 links:
   - title: "Resume / CV"
     description: "Curriculum Vitae profesional de Héctor Bautista"

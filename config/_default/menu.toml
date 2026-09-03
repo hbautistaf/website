@@ -13,6 +13,34 @@
         icon = "brand-twitter"
 
 [[social]]
+    identifier = "bluesky"
+    name = "Bluesky"
+    url = "https://bsky.app/profile/hbautista.com"
+    [social.params]
+        icon = "brand-bluesky"
+
+[[social]]
+    identifier = "linkedin"
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/hbautista/"
+    [social.params]
+        icon = "brand-linkedin"
+
+[[social]]
+    identifier = "instagram"
+    name = "Instagram"
+    url = "https://www.instagram.com/hbautista/"
+    [social.params]
+        icon = "brand-instagram"
+
+[[social]]
+    identifier = "lastfm"
+    name = "Last.fm"
+    url = "https://www.last.fm/user/hbautista"
+    [social.params]
+        icon = "brand-lastfm"
+
+[[social]]
     identifier = "rss"
     name = "RSS"
     url = "/blog/index.xml"
