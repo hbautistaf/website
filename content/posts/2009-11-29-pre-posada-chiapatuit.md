@@ -16,9 +16,9 @@ Se invita cordialmente a todos aquellos tuiteros Chiapanecos a una reunión que 
 
 Será una preposada con todos los #chiapatuit, favor de confirmar su asistencia por este medio para tener una idea de cuantas personas asistirán.
 
-![:)](https://i0.wp.com/chiapatuit.net/wp-includes/images/smilies/icon_smile.gif)
+![:)](/images/2009/icon_smile.gif)
 
- 
+
 
 Será en Av. Tulipanes S/N, Col. El Carmen
 

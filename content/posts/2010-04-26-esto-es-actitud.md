@@ -9,14 +9,7 @@ aliases:
 - /linux/esto-es-actitud/
 ---
 
-[
-
-![](https://i0.wp.com/farm4.static.flickr.com/3305/4554245993_009a73ea9d_m.jpg)
-
-][1]  
-  
-<span style="font-size: 0.9em; margin-top: 0px;"><a href="http://www.flickr.com/photos/hbautista/4554245993/">Esto es actitud</a><br /> <br /> Cargado originalmente por <a href="http://www.flickr.com/people/hbautista/">hbautista</a><br /> </span>  
-<br clear="all" /> 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/hbautista/4554245993/" target="_blank" title="Esto es actitud"><img src="https://live.staticflickr.com/3305/4554245993_009a73ea9d.jpg" width="500" height="335" alt="Esto es actitud"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 No importa como te ven
 
@@ -28,4 +21,3 @@ No importa…
 
 Lo que realmente importa, es la actitud
 
- [1]: http://www.flickr.com/photos/hbautista/4554245993/ "photo sharing"

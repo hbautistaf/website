@@ -17,7 +17,7 @@ Ufff.. tiene rato que no escribo pero la verdad es que he estado de fiesta desde
 
 Tengo muchos pendientes en el blog, en mi vida, en la fotografía y en el trabajo por lo menos 😛
 
-Espero que ya por fin pueda subir fotos tanto a <a title="Zooomr" href="http://es.zooomr.com/photos/hbautista" target="_blank">Zooomr</a> como al <a title="Flickr" href="http://www.flickr.com/photos/hbautista/" target="_blank">Flickr</a> y que vean y disfruten un poco lo mucho que yo lo he hecho 😉
+Espero que ya por fin pueda subir fotos tanto ~~Zooomr~~ como al <a title="Flickr" href="http://www.flickr.com/photos/hbautista/" target="_blank">Flickr</a> y que vean y disfruten un poco lo mucho que yo lo he hecho 😉
 
 Por el momento necesito reordenar mis ideas que están todas confusas, revueltas y revolucionadas XD y plasmarlas. Pues lo poco que puedo adelantar es que hay muy buenas fotos (para mi) que subir, mucho trabajo por hacer y varios cambios radicales (como yo) que están por ocurrir en por lo menos los próximos dos meses que vienen.
 

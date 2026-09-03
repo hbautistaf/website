@@ -16,7 +16,7 @@ aliases:
 - /chiapatuit/informacion-final-sobre-el-curso-php-del-fin-de-semana/
 ---
 
-Bueno, ya esta todo listo para el primer módulo del curso de PHP (básico) para la comunidad **<a title="Usoli" href="http://usoli.org" target="_blank" rel="noopener">USOLI</a> y <a title="Chiapatuit" href="http://chiapatuit.net" target="_blank" rel="noopener">CHIAPATUIT</a>** que impartirá en esta su ocasión el amigo <a title="Donaldo Ríos" href="http://twitter.com/donaldorios" target="_blank" rel="noopener">@Donaldorios</a> a quien una vez más agradecemos por el esfuerzo aportado y su disponibilidad de compartir su conococimiento con la comunidad…
+Bueno, ya esta todo listo para el primer módulo del curso de PHP (básico) para la comunidad **<a title="Usoli" href="http://usoli.org" target="_blank" rel="noopener">USOLI</a> y CHIAPATUIT** que impartirá en esta su ocasión el amigo <a title="Donaldo Ríos" href="http://twitter.com/donaldorios" target="_blank" rel="noopener">@Donaldorios</a>𓍲 a quien una vez más agradecemos por el esfuerzo aportado y su disponibilidad de compartir su conococimiento con la comunidad…
 
   La información final queda como sigue:
 
@@ -28,7 +28,7 @@ Bueno, ya esta todo listo para el primer módulo del curso de PHP (básico) para
 
   Tenemos contemplado grabar el contenido del mismo para poderlo compartir con todos aquellos que están a distancia y manifestaron interés en el mismo… así también intentaremos hacer una transmisión del mismo…
 
-<span style="color: #333399;">**Asiste, aprende y convive! **</span>
+<span style="color: #a3e11f;">**Asiste, aprende y convive! **</span>
 
 **Actualización: Temario listo** **<!--more-->**
 
@@ -50,7 +50,7 @@ Bueno, ya esta todo listo para el primer módulo del curso de PHP (básico) para
         </li>
       </ul>
     </li>
-    
+
     <li>
       Variables y Constantes <ul>
         <li>
@@ -73,7 +73,7 @@ Bueno, ya esta todo listo para el primer módulo del curso de PHP (básico) para
         </li>
       </ul>
     </li>
-    
+
     <li>
       Operadores <ul>
         <li>

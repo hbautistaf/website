@@ -15,12 +15,6 @@ aliases:
 
 Lo que a veces uno encuentra en Tuxtla
 
-[
-
-![Atardecer en Tuxtla](https://i0.wp.com/farm3.static.flickr.com/2772/4263658135_c2082e9eff.jpg)
-
-][1]
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/hbautista/4263658135/" target="_blank" title="Atardecer en Tuxtla"><img src="https://live.staticflickr.com/2772/4263658135_c2082e9eff_b.jpg" width="1024" height="686" alt="Atardecer en Tuxtla"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Ufff.. hay varias cosas que contar, solo necesito ordenar mis ideas que son un desastre 😛
-
- [1]: http://www.flickr.com/photos/hbautista/4263658135/

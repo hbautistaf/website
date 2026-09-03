@@ -9,7 +9,7 @@ aliases:
 - /linux/camangi-presenta-webstation-su-tablet-con-android/
 ---
 
-![](https://i0.wp.com/www.gizmos.es/files/2009/11/webstation.jpg)
+![Camangi](https://www.pcdemano.com/pcdemano/2010/reviews/webs/box1.jpg)
 
 Teniendo en cuenta que Apple y Microsoft se están tomando su tiempo para lanzar sus propuestas dentro del mercado de los tablets, es normal que aparezcan montones de compañías intentando aprovechar la situación. En ésta ocasión hablamos de la fabricante [Camangi][1], que nos trae el **Webstation**, un tablet con pantalla táctil que cuenta con muchas posibilidades de hacerse un hueco en el mercado. Le falta un poco de fama, porque lo cierto es que el producto tiene muy buena pinta.
 
@@ -23,8 +23,6 @@ El Webstation funciona bajo [Android][2] 1.5 y llegará a las tiendas norteameri
 
 Dispone de módulo **GPS**, entrada para leer tarjetas SD, y un Wi-Fi de 802.11 b/g, además de entrada USB y batería recargable (de unas 5 horas de duración). Su precio será de 399$, unos 270 euros al cambio.
 
-Visto <a title="Gizmoz" href="http://bit.ly/6gbPPX" target="_blank">acá</a>:
-
- [1]: http://www.gizmos.es/tag/camangi/
- [2]: http://www.gizmos.es/tag/android/
- [3]: http://www.gizmos.es/tag/webstation/
+ [1]: https://www.pcdemano.com/revisiones/3506/
+ [2]: https://gizmodo.com/camangi-webstation-android-tablet-reviewed-5436507
+ [3]: https://www.camangi-webstation.com/2016/07/30/review-camangi-webstation-android-tablet/

@@ -13,13 +13,10 @@ aliases:
 - /linux/reunion-chiapatuit/
 ---
 
-Hoy será la reunión de <a title="Chiapatuit" href="http://chiapatuit.net/" target="_blank">Tuiteros Chiapanecos</a> 😛
+Hoy será la reunión de "Chiapatuit" - Tuiteros Chiapanecos 😛
 
-<figure class="thumbnail wp-caption aligncenter" style="width: 584px">[
-
-![Diseño por m00nlight :)](https://i0.wp.com/farm3.static.flickr.com/2685/4056165138_3b3a5e82bd_o.jpg)
-
-][1]<figcaption class="caption wp-caption-text">Invitación</figcaption></figure>
+![Diseño por m00nlight :)](https://farm3.static.flickr.com/2685/4056165138_3b3a5e82bd_o.jpg)
+[1]
 
 Vamos a llegar varias personas, todo aquél que quiera asistir será bienvenido.<!--more-->
 
@@ -27,7 +24,7 @@ Lugar: Parque de la Juventud
 
 Hora: 18:00
 
-Si gustas, puedes confirmar tu <a title="Confirma tu asistencia" href="http://twtvite.com/m80ts0" target="_blank">asistencia aquí</a> 😉
+Si gustas, puedes confirmar tu asistencia aquí (Enlace caído) 😉
 
 Te esperamos 😀
 

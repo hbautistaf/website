@@ -12,7 +12,7 @@ aliases:
 - /tecnologia/netbook-de-astroboy/
 ---
 
-![](https://i0.wp.com/www.gizmos.es/files/2009/12/astro-boy.jpg)
+![Astroboy](https://liliputing.com/wp-content/uploads/2009/10/astro-boy-netbook.jpg)
 
 **Astro Boy**, el famoso personaje creado por el dibujante de manga Osamu Tezuka, se ha convertido recientemente en uno de los héroes más de moda entre los pequeños. Especialmente porque se acaba de estrenar (al menos en Estados Unidos) una nueva película cinematográfica basada en su historia, y que con gráficos 3D ha impresionado a la audiencia norteamericana. Como era de esperar, los productos derivados del film no han tardado en llenar las tiendas, y entre ellos destaca un **netbook** de diseño muy atractivo.
 
@@ -26,10 +26,6 @@ Lo primero es confirmar que se trata de un producto totalmente licenciado y no d
 
 Otras de sus características son grabadora DVD, speakers USB, un disco duro externo, y lector de tarjetas de memoria. No impresiona en su potencia, pero teniendo en cuenta al público que está dirigido, ofrece más que de sobras por un precio alrededor a los 400 euros. Para terminar, y como podéis ver en la foto, destacar que el netbook se presenta dentro de un maletín diseñado con el logo e imágenes de la película.
 
-<a title="Gizmos" href="http://www.gizmos.es/22690/ordenadores/astro-boy-ya-tiene-su-propio-netbook/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+zdb%2Fgizmos+%28Gizmos%29&utm_content=Google+Reader" target="_blank">Visto en Gizmos </a>
-
-Vía: <a href="http://www.ubergizmo.com/15/archives/2009/12/astro_boy_netbook_spotted_in_taiwan.html" target="_blank">Ubergizmo</a>
-
- [1]: http://www.gizmos.es/tag/netbook/
- [2]: http://www.gizmos.es/tag/astro-boy/
- [3]: http://www.gizmos.es/tag/atom/
+ [1]: https://ramenparados.com/ortenador-portatil-edicion-especia/
+ [2]: https://liliputing.com/astro-boy-netbook-takes-flight-in-japan/
+ [3]: https://onlinereviewz.wordpress.com/2009/10/29/new-astro-boy-netbook-10-1-inch-1024-x-600-pixel-lcd-display/
