@@ -5,12 +5,12 @@ defaultContentLanguage = "es"
 hasCJKLanguage = false
 
 [pagination]
-    pagerSize = 7
+  pagerSize = 7
 
 [permalinks]
-    posts = "/p/:slug/"
-    page = "/:slug/"
+  posts = "/p/:slug/"
+  page = "/:slug/"
 
 [taxonomies]
-    category = "categories"
-    tag = "tags"
+  category = "categories"
+  tag = "tags"
