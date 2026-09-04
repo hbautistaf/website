@@ -37,7 +37,7 @@ Es una lector de e-book multiplataforma que actualmente esta pensado para Androi
 
 FBReader
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Pant_FBReader-1.png?fit=648%2C514&ssl=1" class="aligncenter size-medium wp-image-829" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Pant_FBReader-1.png?resize=300%2C238&ssl=1" alt="" width="300" height="238" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Pant_FBReader-1.png?resize=300%2C238&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Pant_FBReader-1.png?resize=768%2C609&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Pant_FBReader-1.png?w=802&ssl=1 802w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
+" data-image-caption="" data-large-file="/images/2012/Pant_FBReader-1.png" class="aligncenter size-medium wp-image-829" src="/images/2012/Pant_FBReader-1.png" alt="" width="300" height="238" srcset="/images/2012/Pant_FBReader-1.png 300w, /images/2012/Pant_FBReader-1.png 768w, /images/2012/Pant_FBReader-1.png 802w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
 
  
 
@@ -58,9 +58,9 @@ Entre los diversos formatos que soporta tenemos: **EPUB**, **MOBI**, **OPDS** y 
 
 [Lucidor
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/lucidor-1-1.png?fit=648%2C432&ssl=1" class="alignnone size-medium wp-image-830" title="Lucidor" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/lucidor-1-1.png?resize=300%2C200&ssl=1" alt="Lucidor" width="300" height="200" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/lucidor-1-1.png?resize=300%2C200&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/lucidor-1-1.png?w=750&ssl=1 750w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1][Lucidor 2
+" data-image-caption="" data-large-file="/images/2012/lucidor-1-1.png" class="alignnone size-medium wp-image-830" title="Lucidor" src="/images/2012/lucidor-1-1.png" alt="Lucidor" width="300" height="200" srcset="/images/2012/lucidor-1-1.png 300w, /images/2012/lucidor-1-1.png 750w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1][Lucidor 2
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/lucidor-2-1.png?fit=648%2C432&ssl=1" class="alignnone size-medium wp-image-831" title="Lucidor 2" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/lucidor-2-1.png?resize=300%2C200&ssl=1" alt="Lucidor 2" width="300" height="200" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/lucidor-2-1.png?resize=300%2C200&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/lucidor-2-1.png?w=750&ssl=1 750w" sizes="auto, (max-width: 300px) 100vw, 300px" />][2]
+" data-image-caption="" data-large-file="/images/2012/lucidor-2-1.png" class="alignnone size-medium wp-image-831" title="Lucidor 2" src="/images/2012/lucidor-2-1.png" alt="Lucidor 2" width="300" height="200" srcset="/images/2012/lucidor-2-1.png 300w, /images/2012/lucidor-2-1.png 750w" sizes="auto, (max-width: 300px) 100vw, 300px" />][2]
 
 Lucidor puede ejecutarse sin problemas en **GNU/Linux**, **Windows** y **Mac OS X**.
 
@@ -81,9 +81,9 @@ Entre las cuales están:
 
 [Cool Reader 1
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/cr3qt-screenshot-read1-1.png?fit=373%2C490&ssl=1" class="alignnone size-medium wp-image-833" title="Cool Reader 1" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/cr3qt-screenshot-read1-1.png?resize=228%2C300&ssl=1" alt="Cool Reader 1" width="228" height="300" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/cr3qt-screenshot-read1-1.png?resize=228%2C300&ssl=1 228w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/cr3qt-screenshot-read1-1.png?w=373&ssl=1 373w" sizes="auto, (max-width: 228px) 100vw, 228px" />][3][Cool Reader 2
+" data-image-caption="" data-large-file="/images/2012/cr3qt-screenshot-read1-1.png" class="alignnone size-medium wp-image-833" title="Cool Reader 1" src="/images/2012/cr3qt-screenshot-read1-1.png" alt="Cool Reader 1" width="228" height="300" srcset="/images/2012/cr3qt-screenshot-read1-1.png 228w, /images/2012/cr3qt-screenshot-read1-1.png 373w" sizes="auto, (max-width: 228px) 100vw, 228px" />][3][Cool Reader 2
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/cr3qt-screenshot-read2-landscape-1.png?fit=591%2C396&ssl=1" class="alignnone size-medium wp-image-834" title="Cool Reader 2" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/cr3qt-screenshot-read2-landscape-1.png?resize=300%2C201&ssl=1" alt="Cool Reader 2" width="300" height="201" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/cr3qt-screenshot-read2-landscape-1.png?resize=300%2C201&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/cr3qt-screenshot-read2-landscape-1.png?w=591&ssl=1 591w" sizes="auto, (max-width: 300px) 100vw, 300px" />][4]
+" data-image-caption="" data-large-file="/images/2012/cr3qt-screenshot-read2-landscape-1.png" class="alignnone size-medium wp-image-834" title="Cool Reader 2" src="/images/2012/cr3qt-screenshot-read2-landscape-1.png" alt="Cool Reader 2" width="300" height="201" srcset="/images/2012/cr3qt-screenshot-read2-landscape-1.png 300w, /images/2012/cr3qt-screenshot-read2-landscape-1.png 591w" sizes="auto, (max-width: 300px) 100vw, 300px" />][4]
 
 ## Calibre
 
@@ -95,7 +95,7 @@ El que a mi parecer tiene bastante terreno ganado 🙂
 
   Calibre
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Calibre_2-1.png?fit=588%2C513&ssl=1" class="aligncenter size-medium wp-image-835" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Calibre_2-1.png?resize=300%2C262&ssl=1" alt="" width="300" height="262" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Calibre_2-1.png?resize=300%2C262&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Calibre_2-1.png?w=588&ssl=1 588w" sizes="auto, (max-width: 300px) 100vw, 300px" />
+" data-image-caption="" data-large-file="/images/2012/Calibre_2-1.png" class="aligncenter size-medium wp-image-835" src="/images/2012/Calibre_2-1.png" alt="" width="300" height="262" srcset="/images/2012/Calibre_2-1.png 300w, /images/2012/Calibre_2-1.png 588w" sizes="auto, (max-width: 300px) 100vw, 300px" />
 
   Es un programa completo que nos permite gestionar nuestra colección de libros electrónicos (e-books). Pudiendo realizar diferentes acciones que nos permitirán con un solo programa obtener un control total en nuestros libros tanto a la hora de administrarlos como si queremos exportarlos, convertirlos, etc… Además de soportar múltiples lectores con los que sincronizar los libros.
 
@@ -111,7 +111,7 @@ El que a mi parecer tiene bastante terreno ganado 🙂
 
 Calibre
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Calibre-0_8_0-main-fedora-1.png?fit=648%2C501&ssl=1" class="aligncenter size-medium wp-image-837" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Calibre-0_8_0-main-fedora-1.png?resize=300%2C232&ssl=1" alt="" width="300" height="232" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Calibre-0_8_0-main-fedora-1.png?resize=300%2C232&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Calibre-0_8_0-main-fedora-1.png?resize=768%2C594&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Calibre-0_8_0-main-fedora-1.png?resize=1024%2C791&ssl=1 1024w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Calibre-0_8_0-main-fedora-1.png?w=1096&ssl=1 1096w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
+" data-image-caption="" data-large-file="/images/2012/Calibre-0_8_0-main-fedora-1.png" class="aligncenter size-medium wp-image-837" src="/images/2012/Calibre-0_8_0-main-fedora-1.png" alt="" width="300" height="232" srcset="/images/2012/Calibre-0_8_0-main-fedora-1.png 300w, /images/2012/Calibre-0_8_0-main-fedora-1.png 768w, /images/2012/Calibre-0_8_0-main-fedora-1.png 1024w, /images/2012/Calibre-0_8_0-main-fedora-1.png 1096w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
 
   Algo que tiene es la posibilidad que permite Calibre de añadir la información descargada de internet a partir del título, autor o código ISBN.
 

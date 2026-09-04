@@ -29,13 +29,13 @@ Primeramente, el centro de canje que se encontraba en la biblioteca de la Unicac
 
 [Requisitos de licencias
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/01/20012011150-1.jpg?fit=648%2C486&ssl=1" class="aligncenter size-medium wp-image-412" title="Requisitos de licencias" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/01/20012011150-1.jpg?resize=300%2C225&ssl=1" alt="Requisitos de licencias" width="300" height="225" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/01/20012011150-1.jpg?resize=300%2C225&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/01/20012011150-1.jpg?resize=768%2C576&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/01/20012011150-1.jpg?w=778&ssl=1 778w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]
+" data-image-caption="" data-large-file="/images/2011/20012011150-1.jpg" class="aligncenter size-medium wp-image-412" title="Requisitos de licencias" src="/images/2011/20012011150-1.jpg" alt="Requisitos de licencias" width="300" height="225" srcset="/images/2011/20012011150-1.jpg 300w, /images/2011/20012011150-1.jpg 768w, /images/2011/20012011150-1.jpg 778w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]
 
 Así que si reunes los requisitos para empezar el trámite y a falta de que alguien te diga (o sepas) de algún otro centro de canje, pues tendrás que ir a la Delegación de Tránsito del Estado que se encuentra en el Libramiento Sur. Ojo con el horario de atención.
 
 [Horario de atención
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/01/20012011148-1.jpg?fit=648%2C486&ssl=1" class="aligncenter size-medium wp-image-410" title="Horario de atención" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/01/20012011148-1.jpg?resize=300%2C225&ssl=1" alt="Horario de atención" width="300" height="225" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/01/20012011148-1.jpg?resize=300%2C225&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/01/20012011148-1.jpg?resize=768%2C576&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/01/20012011148-1.jpg?w=778&ssl=1 778w" sizes="auto, (max-width: 300px) 100vw, 300px" />][2]
+" data-image-caption="" data-large-file="/images/2011/20012011148-1.jpg" class="aligncenter size-medium wp-image-410" title="Horario de atención" src="/images/2011/20012011148-1.jpg" alt="Horario de atención" width="300" height="225" srcset="/images/2011/20012011148-1.jpg 300w, /images/2011/20012011148-1.jpg 768w, /images/2011/20012011148-1.jpg 778w" sizes="auto, (max-width: 300px) 100vw, 300px" />][2]
 
 Ahhhh.. y otro punto.. si llevas carro.. te van a mandar al carajo si piensas que te dejarán entrar al estacionamiento ¬¬ así que busca lo más cercano en donde vas a dejarlo (sin que te lo maltraten, o peor.. que te lo roben :-s) o mejor aún, ve en colectivo ¬¬
 
@@ -47,7 +47,7 @@ La primer fila es cuando entregas la copia de tu CURP y tu licencia vencida, te 
 
 [Precios canje
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/01/20012011146-1.jpg?fit=648%2C486&ssl=1" class="aligncenter size-medium wp-image-408" title="Precios canje" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/01/20012011146-1.jpg?resize=300%2C225&ssl=1" alt="Precios canje" width="300" height="225" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/01/20012011146-1.jpg?resize=300%2C225&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/01/20012011146-1.jpg?resize=768%2C576&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/01/20012011146-1.jpg?w=778&ssl=1 778w" sizes="auto, (max-width: 300px) 100vw, 300px" />][3]
+" data-image-caption="" data-large-file="/images/2011/20012011146-1.jpg" class="aligncenter size-medium wp-image-408" title="Precios canje" src="/images/2011/20012011146-1.jpg" alt="Precios canje" width="300" height="225" srcset="/images/2011/20012011146-1.jpg 300w, /images/2011/20012011146-1.jpg 768w, /images/2011/20012011146-1.jpg 778w" sizes="auto, (max-width: 300px) 100vw, 300px" />][3]
 
 La segunda fila de espera, es precisamente la de la ventanilla para realizar el pago de derechos.
 
@@ -57,7 +57,7 @@ Una vez hecho el pago de derechos te regresas a la primer fila de espera para qu
 
 [Tipos de licencias
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/03/Lic4.jpg?fit=240%2C320&ssl=1" class="aligncenter size-full wp-image-453" title="Tipos de licencias" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/03/Lic4.jpg?resize=240%2C320&ssl=1" alt="Tipos de licencias" width="240" height="320" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/03/Lic4.jpg?w=240&ssl=1 240w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/03/Lic4.jpg?resize=225%2C300&ssl=1 225w" sizes="auto, (max-width: 240px) 100vw, 240px" />][4]
+" data-image-caption="" data-large-file="/images/2011/Lic4.jpg" class="aligncenter size-full wp-image-453" title="Tipos de licencias" src="/images/2011/Lic4.jpg" alt="Tipos de licencias" width="240" height="320" srcset="/images/2011/Lic4.jpg 240w, /images/2011/Lic4.jpg 225w" sizes="auto, (max-width: 240px) 100vw, 240px" />][4]
 
  
 
@@ -84,11 +84,11 @@ Y el directorio de servicios de lo que pueden encontrarse en esa dependencia
 
 [Directorio de servicios
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/01/20012011149-1.jpg?fit=648%2C486&ssl=1" class="aligncenter size-medium wp-image-411" title="Directorio de servicios" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/01/20012011149-1.jpg?resize=300%2C225&ssl=1" alt="Directorio de servicios" width="300" height="225" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/01/20012011149-1.jpg?resize=300%2C225&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/01/20012011149-1.jpg?resize=768%2C576&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/01/20012011149-1.jpg?w=778&ssl=1 778w" sizes="auto, (max-width: 300px) 100vw, 300px" />][5]Y otro tipo de trámite
+" data-image-caption="" data-large-file="/images/2011/20012011149-1.jpg" class="aligncenter size-medium wp-image-411" title="Directorio de servicios" src="/images/2011/20012011149-1.jpg" alt="Directorio de servicios" width="300" height="225" srcset="/images/2011/20012011149-1.jpg 300w, /images/2011/20012011149-1.jpg 768w, /images/2011/20012011149-1.jpg 778w" sizes="auto, (max-width: 300px) 100vw, 300px" />][5]Y otro tipo de trámite
 
 [Requisitos permiso provisional
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/01/20012011147-1.jpg?fit=648%2C486&ssl=1" class="aligncenter size-medium wp-image-409" title="Requisitos permiso provisional" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/01/20012011147-1.jpg?resize=300%2C225&ssl=1" alt="Requisitos permiso provisional" width="300" height="225" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/01/20012011147-1.jpg?resize=300%2C225&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/01/20012011147-1.jpg?resize=768%2C576&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/01/20012011147-1.jpg?w=778&ssl=1 778w" sizes="auto, (max-width: 300px) 100vw, 300px" />][6]Se puede mejorar un poco el servicio, es decir para hacerlo más rápido.
+" data-image-caption="" data-large-file="/images/2011/20012011147-1.jpg" class="aligncenter size-medium wp-image-409" title="Requisitos permiso provisional" src="/images/2011/20012011147-1.jpg" alt="Requisitos permiso provisional" width="300" height="225" srcset="/images/2011/20012011147-1.jpg 300w, /images/2011/20012011147-1.jpg 768w, /images/2011/20012011147-1.jpg 778w" sizes="auto, (max-width: 300px) 100vw, 300px" />][6]Se puede mejorar un poco el servicio, es decir para hacerlo más rápido.
 
 **Actualización 2 (07/mar/2011)**: El centro de canje de licencias de la Unicach ya está abierto nuevamente, haber por cuanto tiempo.
 

@@ -20,7 +20,7 @@ Hace dos años se hizo una primer reunión formal donde muchas personas que nos 
 
 [Chiapatuit
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/03/chiapatuit-1.jpg?fit=500%2C356&ssl=1" class="aligncenter size-medium wp-image-484" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/03/chiapatuit-1.jpg?resize=300%2C214&ssl=1" alt="" width="300" height="214" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/03/chiapatuit-1.jpg?resize=300%2C214&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/03/chiapatuit-1.jpg?w=500&ssl=1 500w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]
+" data-image-caption="" data-large-file="/images/2011/chiapatuit-1.jpg" class="aligncenter size-medium wp-image-484" src="/images/2011/chiapatuit-1.jpg" alt="" width="300" height="214" srcset="/images/2011/chiapatuit-1.jpg 300w, /images/2011/chiapatuit-1.jpg 500w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]
 
 A esta comunidad naciente se le denominó **Chiapatuit** debido a cosas que teníamos en común:
 

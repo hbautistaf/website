@@ -22,7 +22,7 @@ aliases:
 
 Bash_demo
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/Bash_demo-1.png?fit=564%2C607&ssl=1" class="aligncenter size-medium wp-image-721" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/Bash_demo-1.png?resize=279%2C300&ssl=1" alt="" width="279" height="300" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/Bash_demo-1.png?resize=279%2C300&ssl=1 279w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/Bash_demo-1.png?w=564&ssl=1 564w" sizes="auto, (max-width: 279px) 100vw, 279px" />
+" data-image-caption="" data-large-file="/images/2011/Bash_demo-1.png" class="aligncenter size-medium wp-image-721" src="/images/2011/Bash_demo-1.png" alt="" width="279" height="300" srcset="/images/2011/Bash_demo-1.png 279w, /images/2011/Bash_demo-1.png 564w" sizes="auto, (max-width: 279px) 100vw, 279px" />
 
   Pues hace un tiempo, <a title="Picando Código" href="http://picandocodigo.net/2009/personalizando-el-prompt-de-bash-en-debian/" target="_blank" rel="noopener">había encontrado</a> una bonita forma de poner el logo de <span style="color: #ff0000;">**Debian**</span> en mi perfil de **bash** (~/.bashrc) y me había gustado.
 
@@ -103,13 +103,13 @@ echo " --- "
 
 Pant_ebashrc
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/Pant_ebashrc-1.png?fit=648%2C380&ssl=1" class="aligncenter size-medium wp-image-723" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/Pant_ebashrc-1.png?resize=300%2C176&ssl=1" alt="" width="300" height="176" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/Pant_ebashrc-1.png?resize=300%2C176&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/Pant_ebashrc-1.png?resize=768%2C450&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/Pant_ebashrc-1.png?resize=1024%2C600&ssl=1 1024w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/Pant_ebashrc-1.png?w=1280&ssl=1 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
+" data-image-caption="" data-large-file="/images/2011/Pant_ebashrc-1.png" class="aligncenter size-medium wp-image-723" src="/images/2011/Pant_ebashrc-1.png" alt="" width="300" height="176" srcset="/images/2011/Pant_ebashrc-1.png 300w, /images/2011/Pant_ebashrc-1.png 768w, /images/2011/Pant_ebashrc-1.png 1024w, /images/2011/Pant_ebashrc-1.png 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
 
 Lo guardamos y la próxima vez que entremos a la terminal veremos algo como lo siguiente:
 
 Pant_bashrc
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/Pant_bashrc-1.png?fit=648%2C380&ssl=1" class="aligncenter size-medium wp-image-722" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/Pant_bashrc-1.png?resize=300%2C176&ssl=1" alt="" width="300" height="176" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/Pant_bashrc-1.png?resize=300%2C176&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/Pant_bashrc-1.png?resize=768%2C450&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/Pant_bashrc-1.png?resize=1024%2C600&ssl=1 1024w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/Pant_bashrc-1.png?w=1280&ssl=1 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
+" data-image-caption="" data-large-file="/images/2011/Pant_bashrc-1.png" class="aligncenter size-medium wp-image-722" src="/images/2011/Pant_bashrc-1.png" alt="" width="300" height="176" srcset="/images/2011/Pant_bashrc-1.png 300w, /images/2011/Pant_bashrc-1.png 768w, /images/2011/Pant_bashrc-1.png 1024w, /images/2011/Pant_bashrc-1.png 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
 
 También añadí como mencionan en el artículo anterior el siguiente código justo antes de imprimir la cita del día en el .bashrc de root.
 
@@ -129,12 +129,12 @@ echo "With great power comes great responsibility"
 
 Pant_ebashroot
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/Pant_ebashroot-1.png?fit=648%2C380&ssl=1" class="aligncenter size-medium wp-image-724" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/Pant_ebashroot-1.png?resize=300%2C176&ssl=1" alt="" width="300" height="176" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/Pant_ebashroot-1.png?resize=300%2C176&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/Pant_ebashroot-1.png?resize=768%2C450&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/Pant_ebashroot-1.png?resize=1024%2C600&ssl=1 1024w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/Pant_ebashroot-1.png?w=1280&ssl=1 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
+" data-image-caption="" data-large-file="/images/2011/Pant_ebashroot-1.png" class="aligncenter size-medium wp-image-724" src="/images/2011/Pant_ebashroot-1.png" alt="" width="300" height="176" srcset="/images/2011/Pant_ebashroot-1.png 300w, /images/2011/Pant_ebashroot-1.png 768w, /images/2011/Pant_ebashroot-1.png 1024w, /images/2011/Pant_ebashroot-1.png 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
 
 Y cuando se logueen como root, verán la siguiente pantalla:
 
 Pant_bashrc2
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/Pant_bashrc2-1.png?fit=648%2C380&ssl=1" class="aligncenter size-medium wp-image-725" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/Pant_bashrc2-1.png?resize=300%2C176&ssl=1" alt="" width="300" height="176" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/Pant_bashrc2-1.png?resize=300%2C176&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/Pant_bashrc2-1.png?resize=768%2C450&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/Pant_bashrc2-1.png?resize=1024%2C600&ssl=1 1024w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/Pant_bashrc2-1.png?w=1280&ssl=1 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
+" data-image-caption="" data-large-file="/images/2011/Pant_bashrc2-1.png" class="aligncenter size-medium wp-image-725" src="/images/2011/Pant_bashrc2-1.png" alt="" width="300" height="176" srcset="/images/2011/Pant_bashrc2-1.png 300w, /images/2011/Pant_bashrc2-1.png 768w, /images/2011/Pant_bashrc2-1.png 1024w, /images/2011/Pant_bashrc2-1.png 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
 
 Créditos a los que ya lo habían escrito 😉

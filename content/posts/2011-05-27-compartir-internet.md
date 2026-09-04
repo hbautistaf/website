@@ -28,7 +28,7 @@ Cabe aclarar que existen mejores formas y también de hacer cosas con restriccio
 
 [Firewall
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/firewall_esquema-1.gif?fit=580%2C300&ssl=1" class="alignleft size-medium wp-image-572" title="Firewall" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/firewall_esquema-1.gif?resize=300%2C155&ssl=1" alt="Firewall" width="300" height="155" />][1]  
+" data-image-caption="" data-large-file="/images/2011/firewall_esquema-1.gif" class="alignleft size-medium wp-image-572" title="Firewall" src="/images/2011/firewall_esquema-1.gif" alt="Firewall" width="300" height="155" />][1]  
 Si usan un sistema como **Redhat** y derivados, lo siguiente puede ir dentro del archivo **/etc/rc.local** para que sea ejecutado al iniciar la computadora, o bien crear un archivo que se llame **/etc/init.d/firewall** en otros sistemas operativos como **Debian** y sus derivados.
 
 #Vaciamos el contenido de iptables

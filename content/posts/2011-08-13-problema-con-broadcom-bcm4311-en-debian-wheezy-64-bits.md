@@ -20,7 +20,7 @@ aliases:
 
 Broadcom
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/08/Broadcom-1.jpg?fit=480%2C257&ssl=1" class="size-medium wp-image-701 alignleft" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/08/Broadcom-1.jpg?resize=300%2C161&ssl=1" alt="" width="300" height="161" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/08/Broadcom-1.jpg?resize=300%2C161&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/08/Broadcom-1.jpg?w=480&ssl=1 480w" sizes="auto, (max-width: 300px) 100vw, 300px" />
+" data-image-caption="" data-large-file="/images/2011/Broadcom-1.jpg" class="size-medium wp-image-701 alignleft" src="/images/2011/Broadcom-1.jpg" alt="" width="300" height="161" srcset="/images/2011/Broadcom-1.jpg 300w, /images/2011/Broadcom-1.jpg 480w" sizes="auto, (max-width: 300px) 100vw, 300px" />
 
   En el mes de julio se celebró el Campus Party México 2011 y aprovechando la velocidad de internet con la que se cuenta allá, me decidí a actualizar mi <a title="Debian" href="http://www.debian.org/index.es.html" target="_blank" rel="noopener">Debian</a> <a title="Debian Squeeze" href="http://www.debian.org/releases/stable/" target="_blank" rel="noopener">Squeeze</a> a <a title="Debian Wheezy" href="http://www.debian.org/releases/testing/" target="_blank" rel="noopener">Wheezy</a> (de Estable a Testing).
 
@@ -71,7 +71,7 @@ root@luke:~# aptitude install network-manager-gnome
 
 [Network Manager
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/08/network-manager-1.png?fit=264%2C207&ssl=1" class="aligncenter size-full wp-image-700" title="Network Manager" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/08/network-manager-1.png?resize=264%2C207&ssl=1" alt="Network Manager" width="264" height="207" />][1]
+" data-image-caption="" data-large-file="/images/2011/network-manager-1.png" class="aligncenter size-full wp-image-700" title="Network Manager" src="/images/2011/network-manager-1.png" alt="Network Manager" width="264" height="207" />][1]
 
 Y reinicié el equipo quedando nuevamente todo funcionando bien y bonito ñ_ñ
 

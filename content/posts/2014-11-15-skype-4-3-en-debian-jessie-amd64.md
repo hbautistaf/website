@@ -27,19 +27,19 @@ Resulta que en alguna de las actualizaciones de mi escritorio, la versión de sk
 
 [
 
-![Skype Linux 01](/images/2014/skype-linux-01-300x145.png)
+![Skype Linux 01](/images/2014/skype-linux-01.png)
 
 ][1]{.lightbox}[
 
-![Skype Linux 02](/images/2014/skype-linux-02-300x119.png)
+![Skype Linux 02](/images/2014/skype-linux-02.png)
 
 ][2]{.lightbox}
 
   
 
-![Skype Linux 03](/images/2014/skype-linux-03-300x100.png)
+![Skype Linux 03](/images/2014/skype-linux-03.png)
 
-![Skype Linux 04](/images/2014/skype-linux-04-300x161.png)
+![Skype Linux 04](/images/2014/skype-linux-04.png)
 
   Una vez terminada la descarga, procedí a descomprimir el archivo, y ejecuté el binario:
 
@@ -70,7 +70,7 @@ Necesito descargar 22.5 MB de ficheros. Después de desempaquetar se usarán 72.
 
   
 
-![Skype Linux 05](/images/2014/skype-linux-05-300x154.png)
+![Skype Linux 05](/images/2014/skype-linux-05.png)
 
 En mi caso, también me descargué el <a title="Descargar Skype" href="http://download.skype.com/linux/skype-debian_4.3.0.37-1_i386.deb" target="_blank" rel="noopener">paquete deb</a>, así que procedí a instalarlo con dpkg:
 
@@ -90,13 +90,13 @@ root@kenobi:~#</pre>
 
 [
 
-![Skype Linux 06](/images/2014/skype-linux-06-300x93.png)
+![Skype Linux 06](/images/2014/skype-linux-06.png)
 
 ][3]{.lightbox}Ya nada más nos queda ejecutarlo como un usuario normal
 
   
 
-![Skype Linux 09](/images/2014/skype-linux-09-300x205.png)
+![Skype Linux 09](/images/2014/skype-linux-09.png)
 
  
 

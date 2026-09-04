@@ -17,6 +17,8 @@ Aunque WordPress sigue siendo una de las herramientas más robustas y populares 
 - **Rendimiento y velocidad:** Un sitio estático sirve archivos HTML directamente desde el servidor o un CDN sin consultar bases de datos MySQL en cada petición.
 - **Seguridad:** Al no ejecutar PHP ni depender de una base de datos activa, la superficie de ataque se reduce drásticamente.
 
+<!--more-->
+
 ### La nueva arquitectura con Hugo
 
 La nueva versión del sitio y del blog (`hbautista.com/blog/`) está construida con **Hugo** y gestionada totalmente en Markdown a través de Git:

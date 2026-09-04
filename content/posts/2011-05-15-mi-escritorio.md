@@ -27,7 +27,7 @@ Más lo que se acumulen, pongo como se ve Luke (mi laptop) 🙂
 
 [Pantallazo Mayo 2011
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_May2011-1.png?fit=648%2C405&ssl=1" class="aligncenter wp-image-538 size-medium" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_May2011-1.png?resize=300%2C188&ssl=1" alt="" width="300" height="188" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_May2011-1.png?resize=300%2C188&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_May2011-1.png?resize=768%2C480&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_May2011-1.png?resize=1024%2C640&ssl=1 1024w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_May2011-1.png?w=1280&ssl=1 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]Estoy usando Gnome con Conky, un papel tapiz que me gustó, Debian Gnu/Linux Squeeze y mis iconos personalizados en el panel superior.
+" data-image-caption="" data-large-file="/images/2011/Pant_May2011-1.png" class="aligncenter wp-image-538 size-medium" src="/images/2011/Pant_May2011-1.png" alt="" width="300" height="188" srcset="/images/2011/Pant_May2011-1.png 300w, /images/2011/Pant_May2011-1.png 768w, /images/2011/Pant_May2011-1.png 1024w, /images/2011/Pant_May2011-1.png 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]Estoy usando Gnome con Conky, un papel tapiz que me gustó, Debian Gnu/Linux Squeeze y mis iconos personalizados en el panel superior.
 
 ¿Cuál usan ustedes?
 

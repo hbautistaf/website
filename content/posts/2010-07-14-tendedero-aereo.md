@@ -16,6 +16,6 @@ aliases:
 
 [Tendedero
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2010/07/dsc09107-1.jpg?fit=648%2C967&ssl=1" class="aligncenter size-medium wp-image-259" title="Tendedero" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2010/07/dsc09107-1.jpg?resize=200%2C300&ssl=1" alt="Tendedero" width="200" height="300" />][1]<a title="Carteles de anuncios" href="http://www.tablondeanuncios.com/carteles/" target="_blank">Carteles de anuncios</a>
+" data-image-caption="" data-large-file="/images/2010/dsc09107-1.jpg" class="aligncenter size-medium wp-image-259" title="Tendedero" src="/images/2010/dsc09107-1.jpg" alt="Tendedero" width="200" height="300" />][1]<a title="Carteles de anuncios" href="http://www.tablondeanuncios.com/carteles/" target="_blank">Carteles de anuncios</a>
 
  [1]: /images/2010/dsc09107-1.jpg

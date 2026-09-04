@@ -82,7 +82,7 @@ Aquí ya no importaba la extensión y a diferencia de los dos primeros, en este 
 
 [foto_coapilla
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/foto_coapilla-1.jpg?fit=648%2C486&ssl=1" class="aligncenter size-medium wp-image-579" title="foto_coapilla" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/foto_coapilla-1.jpg?resize=300%2C225&ssl=1" alt="foto_coapilla" width="300" height="225" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/foto_coapilla-1.jpg?resize=300%2C225&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/foto_coapilla-1.jpg?resize=768%2C576&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/foto_coapilla-1.jpg?w=1024&ssl=1 1024w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]
+" data-image-caption="" data-large-file="/images/2011/foto_coapilla-1.jpg" class="aligncenter size-medium wp-image-579" title="foto_coapilla" src="/images/2011/foto_coapilla-1.jpg" alt="foto_coapilla" width="300" height="225" srcset="/images/2011/foto_coapilla-1.jpg 300w, /images/2011/foto_coapilla-1.jpg 768w, /images/2011/foto_coapilla-1.jpg 1024w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]
 
  
 
@@ -130,13 +130,13 @@ Una vez que haya terminado ese proceso que depende de cuántas fotografías est�
 
 foto_chiapatuit
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/foto_chiapatuit-1.jpg?fit=648%2C496&ssl=1" class="aligncenter size-medium wp-image-580" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/foto_chiapatuit-1.jpg?resize=300%2C230&ssl=1" alt="" width="300" height="230" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/foto_chiapatuit-1.jpg?resize=300%2C230&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/foto_chiapatuit-1.jpg?resize=768%2C588&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/foto_chiapatuit-1.jpg?w=1024&ssl=1 1024w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
+" data-image-caption="" data-large-file="/images/2011/foto_chiapatuit-1.jpg" class="aligncenter size-medium wp-image-580" src="/images/2011/foto_chiapatuit-1.jpg" alt="" width="300" height="230" srcset="/images/2011/foto_chiapatuit-1.jpg 300w, /images/2011/foto_chiapatuit-1.jpg 768w, /images/2011/foto_chiapatuit-1.jpg 1024w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
 
 Copiar el contenido del script final (blogfoto) en tu editor de texto favorito y adecuarlo a tus necesidades, es decir cambiar el nombre del subdirectorio, el tipo de letra o cambiar el texto de la marca de agua y guardarlo con el nombre de "loquesea.sh" para este ejemplo lo dejaré con el nombre original **blogfoto.sh** y lo dejaré en el directorio raíz de mi /home para luego como root copiarlo a /usr/local/bin y darle los respectivos permisos de ejecución:
 
 Pant_script_foto
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_script_foto-1.png?fit=648%2C316&ssl=1" class="aligncenter size-medium wp-image-582" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_script_foto-1.png?resize=300%2C147&ssl=1" alt="" width="300" height="147" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_script_foto-1.png?resize=300%2C147&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_script_foto-1.png?resize=768%2C375&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_script_foto-1.png?w=944&ssl=1 944w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
+" data-image-caption="" data-large-file="/images/2011/Pant_script_foto-1.png" class="aligncenter size-medium wp-image-582" src="/images/2011/Pant_script_foto-1.png" alt="" width="300" height="147" srcset="/images/2011/Pant_script_foto-1.png 300w, /images/2011/Pant_script_foto-1.png 768w, /images/2011/Pant_script_foto-1.png 944w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
 
 ```bash
 root@luke:/home/hbautista# cp blogfoto.sh /usr/local/bin/
@@ -148,7 +148,7 @@ Luego con tu usuario normal ubicarte en el directorio que tiene las fotos y ejec
 
 Pant_scriptfoto2
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_scriptfoto2-1.png?fit=648%2C316&ssl=1" class="aligncenter size-medium wp-image-583" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_scriptfoto2-1.png?resize=300%2C147&ssl=1" alt="" width="300" height="147" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_scriptfoto2-1.png?resize=300%2C147&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_scriptfoto2-1.png?resize=768%2C375&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_scriptfoto2-1.png?w=944&ssl=1 944w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
+" data-image-caption="" data-large-file="/images/2011/Pant_scriptfoto2-1.png" class="aligncenter size-medium wp-image-583" src="/images/2011/Pant_scriptfoto2-1.png" alt="" width="300" height="147" srcset="/images/2011/Pant_scriptfoto2-1.png 300w, /images/2011/Pant_scriptfoto2-1.png 768w, /images/2011/Pant_scriptfoto2-1.png 944w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
 
 ```bash
 hbautista@luke:~$ cd Imágenes/Taller_Foto/
@@ -163,7 +163,7 @@ El resultado se ve como esto:
 
 [Luces
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/foto_dsc07862-1.jpg?fit=648%2C434&ssl=1" class="aligncenter size-medium wp-image-581" title="Luces" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/foto_dsc07862-1.jpg?resize=300%2C201&ssl=1" alt="Luces" width="300" height="201" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/foto_dsc07862-1.jpg?resize=300%2C201&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/foto_dsc07862-1.jpg?resize=768%2C515&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/foto_dsc07862-1.jpg?w=800&ssl=1 800w" sizes="auto, (max-width: 300px) 100vw, 300px" />][2]
+" data-image-caption="" data-large-file="/images/2011/foto_dsc07862-1.jpg" class="aligncenter size-medium wp-image-581" title="Luces" src="/images/2011/foto_dsc07862-1.jpg" alt="Luces" width="300" height="201" srcset="/images/2011/foto_dsc07862-1.jpg 300w, /images/2011/foto_dsc07862-1.jpg 768w, /images/2011/foto_dsc07862-1.jpg 800w" sizes="auto, (max-width: 300px) 100vw, 300px" />][2]
 
 Espero que les sirva
 

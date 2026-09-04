@@ -18,7 +18,7 @@ Google+ es la alternativa por parte de Google a una red social. Desde que salió
 
 [google-plus
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/google-plus-1.jpg?fit=527%2C264&ssl=1" class="aligncenter size-medium wp-image-717" title="google-plus" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/google-plus-1.jpg?resize=300%2C150&ssl=1" alt="google-plus" width="300" height="150" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/google-plus-1.jpg?resize=300%2C150&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/google-plus-1.jpg?w=527&ssl=1 527w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]
+" data-image-caption="" data-large-file="/images/2011/google-plus-1.jpg" class="aligncenter size-medium wp-image-717" title="google-plus" src="/images/2011/google-plus-1.jpg" alt="google-plus" width="300" height="150" srcset="/images/2011/google-plus-1.jpg 300w, /images/2011/google-plus-1.jpg 527w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]
 
 Aún sigue estando como beta privada pero ya están las invitaciones de nuevo.
 

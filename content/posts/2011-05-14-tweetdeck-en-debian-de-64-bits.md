@@ -39,9 +39,9 @@ chmod +x AdobeAIRInstaller.bin
 
 [Adobe Air
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_Adobeair-1.png?fit=648%2C405&ssl=1" class="alignnone wp-image-527 size-medium" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_Adobeair-1.png?resize=300%2C188&ssl=1" alt="" width="300" height="188" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_Adobeair-1.png?resize=300%2C188&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_Adobeair-1.png?resize=768%2C480&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_Adobeair-1.png?resize=1024%2C640&ssl=1 1024w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_Adobeair-1.png?w=1280&ssl=1 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1][Adobe AIR 2
+" data-image-caption="" data-large-file="/images/2011/Pant_Adobeair-1.png" class="alignnone wp-image-527 size-medium" src="/images/2011/Pant_Adobeair-1.png" alt="" width="300" height="188" srcset="/images/2011/Pant_Adobeair-1.png 300w, /images/2011/Pant_Adobeair-1.png 768w, /images/2011/Pant_Adobeair-1.png 1024w, /images/2011/Pant_Adobeair-1.png 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1][Adobe AIR 2
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_Adobeair2-1.png?fit=480%2C238&ssl=1" class="alignnone size-full wp-image-529" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_Adobeair2-1.png?resize=480%2C238&ssl=1" alt="" width="480" height="238" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_Adobeair2-1.png?w=480&ssl=1 480w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_Adobeair2-1.png?resize=300%2C149&ssl=1 300w" sizes="auto, (max-width: 480px) 100vw, 480px" />][2]
+" data-image-caption="" data-large-file="/images/2011/Pant_Adobeair2-1.png" class="alignnone size-full wp-image-529" src="/images/2011/Pant_Adobeair2-1.png" alt="" width="480" height="238" srcset="/images/2011/Pant_Adobeair2-1.png 480w, /images/2011/Pant_Adobeair2-1.png 300w" sizes="auto, (max-width: 480px) 100vw, 480px" />][2]
 
   Con eso debería bastar para instalar Adobe Air, pero como mencioné en un principio, eso solo les provee de la plataforma para luego instalar diversas aplicaciones entre ellas la que me interesa es Tweetdeck, el cual es un cliente de escritorio multiplataforma para uso de redes sociales como Twitter, Facebook, Google Buzz, entre otras.
 
@@ -49,11 +49,11 @@ chmod +x AdobeAIRInstaller.bin
 
 [Tweetdeck 1
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/twetdeck-1.png?fit=490%2C231&ssl=1" class="aligncenter size-medium wp-image-528" title="Tweetdeck 1" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/twetdeck-1.png?resize=300%2C141&ssl=1" alt="Tweetdeck 1" width="300" height="141" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/twetdeck-1.png?resize=300%2C141&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/twetdeck-1.png?w=490&ssl=1 490w" sizes="auto, (max-width: 300px) 100vw, 300px" />][3]Veremos lo siguiente:
+" data-image-caption="" data-large-file="/images/2011/twetdeck-1.png" class="aligncenter size-medium wp-image-528" title="Tweetdeck 1" src="/images/2011/twetdeck-1.png" alt="Tweetdeck 1" width="300" height="141" srcset="/images/2011/twetdeck-1.png 300w, /images/2011/twetdeck-1.png 490w" sizes="auto, (max-width: 300px) 100vw, 300px" />][3]Veremos lo siguiente:
 
 [Error Tweetdeck 2
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_error_tweet2-1.png?fit=648%2C306&ssl=1" class="wp-image-532 size-medium aligncenter" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_error_tweet2-1.png?resize=300%2C142&ssl=1" alt="" width="300" height="142" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_error_tweet2-1.png?resize=300%2C142&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_error_tweet2-1.png?resize=768%2C362&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_error_tweet2-1.png?resize=1024%2C483&ssl=1 1024w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_error_tweet2-1.png?w=1280&ssl=1 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" />][4]
+" data-image-caption="" data-large-file="/images/2011/Pant_error_tweet2-1.png" class="wp-image-532 size-medium aligncenter" src="/images/2011/Pant_error_tweet2-1.png" alt="" width="300" height="142" srcset="/images/2011/Pant_error_tweet2-1.png 300w, /images/2011/Pant_error_tweet2-1.png 768w, /images/2011/Pant_error_tweet2-1.png 1024w, /images/2011/Pant_error_tweet2-1.png 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" />][4]
 
 Luego le damos clic en Instalar y seguir los pasos y finalmente lo tendremos instalado.
 
@@ -61,13 +61,13 @@ Ahora bien, cuando intentan iniciar probablemente se encuentren con esta pantall
 
 [Error Tweetdeck 1
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_eror_twwet1-1.png?fit=648%2C306&ssl=1" class="aligncenter size-medium wp-image-531" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_eror_twwet1-1.png?resize=300%2C142&ssl=1" alt="" width="300" height="142" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_eror_twwet1-1.png?resize=300%2C142&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_eror_twwet1-1.png?resize=768%2C362&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_eror_twwet1-1.png?resize=1024%2C483&ssl=1 1024w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_eror_twwet1-1.png?w=1280&ssl=1 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" />][5]
+" data-image-caption="" data-large-file="/images/2011/Pant_eror_twwet1-1.png" class="aligncenter size-medium wp-image-531" src="/images/2011/Pant_eror_twwet1-1.png" alt="" width="300" height="142" srcset="/images/2011/Pant_eror_twwet1-1.png 300w, /images/2011/Pant_eror_twwet1-1.png 768w, /images/2011/Pant_eror_twwet1-1.png 1024w, /images/2011/Pant_eror_twwet1-1.png 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" />][5]
 
 En mi caso estuve viendo el porqué de ese error y obtuve este otro pantallazo:
 
 [Error Tweetdeck 2
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_error_tweet2-1.png?fit=648%2C306&ssl=1" class="aligncenter size-medium wp-image-532" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_error_tweet2-1.png?resize=300%2C142&ssl=1" alt="" width="300" height="142" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_error_tweet2-1.png?resize=300%2C142&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_error_tweet2-1.png?resize=768%2C362&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_error_tweet2-1.png?resize=1024%2C483&ssl=1 1024w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Pant_error_tweet2-1.png?w=1280&ssl=1 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" />][4]
+" data-image-caption="" data-large-file="/images/2011/Pant_error_tweet2-1.png" class="aligncenter size-medium wp-image-532" src="/images/2011/Pant_error_tweet2-1.png" alt="" width="300" height="142" srcset="/images/2011/Pant_error_tweet2-1.png 300w, /images/2011/Pant_error_tweet2-1.png 768w, /images/2011/Pant_error_tweet2-1.png 1024w, /images/2011/Pant_error_tweet2-1.png 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" />][4]
 
   Ahora bien, para poder solucionarlo se tiene que hacer algo así como una chapuza. Es decir, hay pasos que debemos hacer de forma manual en la consola, shell o terminal.
 
@@ -96,7 +96,7 @@ Y listo, con estos sencillos pasos habremos por fin de resolver el detalle de po
 
 [Pantalla Tweetdeck
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/features_home_pc-1.png?fit=620%2C499&ssl=1" class="aligncenter size-medium wp-image-533" title="Pantalla Tweetdeck" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/features_home_pc-1.png?resize=300%2C241&ssl=1" alt="Pantalla Tweetdeck" width="300" height="241" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/features_home_pc-1.png?resize=300%2C241&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/features_home_pc-1.png?w=620&ssl=1 620w" sizes="auto, (max-width: 300px) 100vw, 300px" />][6]
+" data-image-caption="" data-large-file="/images/2011/features_home_pc-1.png" class="aligncenter size-medium wp-image-533" title="Pantalla Tweetdeck" src="/images/2011/features_home_pc-1.png" alt="Pantalla Tweetdeck" width="300" height="241" srcset="/images/2011/features_home_pc-1.png 300w, /images/2011/features_home_pc-1.png 620w" sizes="auto, (max-width: 300px) 100vw, 300px" />][6]
 
  [1]: /images/2011/Pant_Adobeair-1.png
  [2]: /images/2011/Pant_Adobeair2-1.png

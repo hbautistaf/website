@@ -19,7 +19,7 @@ aliases:
 
 iPhone
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/iphone3g-1.jpg?fit=570%2C685&ssl=1" class="size-medium wp-image-729 alignleft" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/iphone3g-1.jpg?resize=250%2C300&ssl=1" alt="" width="250" height="300" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/iphone3g-1.jpg?resize=250%2C300&ssl=1 250w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/09/iphone3g-1.jpg?w=570&ssl=1 570w" sizes="auto, (max-width: 250px) 100vw, 250px" />Sucede que a más de uno le puede llegar a pasar que su celular o smartphone por diversas circunstancias, y en un momento de descuido éste puede escaparse de nuestras manos y terminar en el suelo.
+" data-image-caption="" data-large-file="/images/2011/iphone3g-1.jpg" class="size-medium wp-image-729 alignleft" src="/images/2011/iphone3g-1.jpg" alt="" width="250" height="300" srcset="/images/2011/iphone3g-1.jpg 250w, /images/2011/iphone3g-1.jpg 570w" sizes="auto, (max-width: 250px) 100vw, 250px" />Sucede que a más de uno le puede llegar a pasar que su celular o smartphone por diversas circunstancias, y en un momento de descuido éste puede escaparse de nuestras manos y terminar en el suelo.
 
 O en el peor de los casos, en un charco de agua, o caer en un río, alberca o con la atracción del momento, alguna calle inundada :-p
 

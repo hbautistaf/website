@@ -240,13 +240,13 @@ Y si tenemos instalado **Synaptic** (instalador de paquetes en modo gráfico) po
 
 [Synaptic
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Pant_Synaptic-1.png?fit=648%2C375&ssl=1" class="aligncenter size-medium wp-image-821" title="Synaptic" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Pant_Synaptic-1.png?resize=300%2C173&ssl=1" alt="Synaptic" width="300" height="173" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Pant_Synaptic-1.png?resize=300%2C173&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Pant_Synaptic-1.png?resize=768%2C444&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Pant_Synaptic-1.png?resize=1024%2C592&ssl=1 1024w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Pant_Synaptic-1.png?w=1280&ssl=1 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]
+" data-image-caption="" data-large-file="/images/2012/Pant_Synaptic-1.png" class="aligncenter size-medium wp-image-821" title="Synaptic" src="/images/2012/Pant_Synaptic-1.png" alt="Synaptic" width="300" height="173" srcset="/images/2012/Pant_Synaptic-1.png 300w, /images/2012/Pant_Synaptic-1.png 768w, /images/2012/Pant_Synaptic-1.png 1024w, /images/2012/Pant_Synaptic-1.png 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]
 
 Crearemos un nuevo filtro, así que hacemos clic en el menú Configuración -> Filtros
 
 Synaptic Filtro 1
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Pant_Synaptic_Filtro1-1.png?fit=648%2C369&ssl=1" class="aligncenter size-medium wp-image-822" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Pant_Synaptic_Filtro1-1.png?resize=300%2C171&ssl=1" alt="" width="300" height="171" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Pant_Synaptic_Filtro1-1.png?resize=300%2C171&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Pant_Synaptic_Filtro1-1.png?resize=768%2C437&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Pant_Synaptic_Filtro1-1.png?w=841&ssl=1 841w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
+" data-image-caption="" data-large-file="/images/2012/Pant_Synaptic_Filtro1-1.png" class="aligncenter size-medium wp-image-822" src="/images/2012/Pant_Synaptic_Filtro1-1.png" alt="" width="300" height="171" srcset="/images/2012/Pant_Synaptic_Filtro1-1.png 300w, /images/2012/Pant_Synaptic_Filtro1-1.png 768w, /images/2012/Pant_Synaptic_Filtro1-1.png 841w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
 
 Clic en Nuevo, le asignamos un nombre (en mi caso Huérfanos) y de la lista de opciones, quitar todos y dejar solamente el que dice precisamente Huérfanos:
 
@@ -256,13 +256,13 @@ En la pantalla de Synaptic, clic en Filtros -> Huerfános
 
 [Synaptic Filtro 3
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Pant_SynapticFiltros3-1.png?fit=648%2C375&ssl=1" class="aligncenter size-medium wp-image-824" title="Synaptic Filtro 3" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Pant_SynapticFiltros3-1.png?resize=300%2C173&ssl=1" alt="Synaptic Filtro 3" width="300" height="173" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Pant_SynapticFiltros3-1.png?resize=300%2C173&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Pant_SynapticFiltros3-1.png?resize=768%2C444&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Pant_SynapticFiltros3-1.png?resize=1024%2C592&ssl=1 1024w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Pant_SynapticFiltros3-1.png?w=1280&ssl=1 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" />][2]
+" data-image-caption="" data-large-file="/images/2012/Pant_SynapticFiltros3-1.png" class="aligncenter size-medium wp-image-824" title="Synaptic Filtro 3" src="/images/2012/Pant_SynapticFiltros3-1.png" alt="Synaptic Filtro 3" width="300" height="173" srcset="/images/2012/Pant_SynapticFiltros3-1.png 300w, /images/2012/Pant_SynapticFiltros3-1.png 768w, /images/2012/Pant_SynapticFiltros3-1.png 1024w, /images/2012/Pant_SynapticFiltros3-1.png 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" />][2]
 
 Y es cuestión de seleccionar o marcar todos los que aparezcan para luego indicar que los elimine.
 
 Synaptic Filtro 2
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Pant_SynapticFiltros2-1.png?fit=648%2C369&ssl=1" class="aligncenter size-medium wp-image-823" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Pant_SynapticFiltros2-1.png?resize=300%2C171&ssl=1" alt="" width="300" height="171" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Pant_SynapticFiltros2-1.png?resize=300%2C171&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Pant_SynapticFiltros2-1.png?resize=768%2C437&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/01/Pant_SynapticFiltros2-1.png?w=841&ssl=1 841w" sizes="auto, (max-width: 300px) 100vw, 300px" />
+" data-image-caption="" data-large-file="/images/2012/Pant_SynapticFiltros2-1.png" class="aligncenter size-medium wp-image-823" src="/images/2012/Pant_SynapticFiltros2-1.png" alt="" width="300" height="171" srcset="/images/2012/Pant_SynapticFiltros2-1.png 300w, /images/2012/Pant_SynapticFiltros2-1.png 768w, /images/2012/Pant_SynapticFiltros2-1.png 841w" sizes="auto, (max-width: 300px) 100vw, 300px" />
 
  [1]: /images/2012/Pant_Synaptic-1.png
  [2]: /images/2012/Pant_SynapticFiltros3-1.png

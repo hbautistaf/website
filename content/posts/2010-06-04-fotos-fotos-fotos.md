@@ -39,7 +39,7 @@ Para muestra una foto que expresa la inmensa alegría que tuve al tomarla:
 
 [Parachico
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/11/Parachico.jpg?fit=648%2C486&ssl=1" class="aligncenter size-medium wp-image-773" title="Parachico" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/11/Parachico.jpg?resize=300%2C225&ssl=1" alt="Parachico" width="300" height="225" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/11/Parachico.jpg?resize=300%2C225&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/11/Parachico.jpg?resize=768%2C576&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/11/Parachico.jpg?w=1024&ssl=1 1024w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]
+" data-image-caption="" data-large-file="/images/2011/Parachico.jpg" class="aligncenter size-medium wp-image-773" title="Parachico" src="/images/2011/Parachico.jpg" alt="Parachico" width="300" height="225" srcset="/images/2011/Parachico.jpg 300w, /images/2011/Parachico.jpg 768w, /images/2011/Parachico.jpg 1024w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]
 
   
 

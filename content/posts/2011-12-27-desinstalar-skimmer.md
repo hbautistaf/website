@@ -21,7 +21,7 @@ aliases:
 
 skimmer
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/12/skimmer-1.jpg?fit=648%2C362&ssl=1" class="aligncenter size-medium wp-image-815" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/12/skimmer-1.jpg?resize=300%2C168&ssl=1" alt="" width="300" height="168" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/12/skimmer-1.jpg?resize=300%2C168&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/12/skimmer-1.jpg?resize=768%2C429&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/12/skimmer-1.jpg?w=950&ssl=1 950w" sizes="auto, (max-width: 300px) 100vw, 300px" />
+" data-image-caption="" data-large-file="/images/2011/skimmer-1.jpg" class="aligncenter size-medium wp-image-815" src="/images/2011/skimmer-1.jpg" alt="" width="300" height="168" srcset="/images/2011/skimmer-1.jpg 300w, /images/2011/skimmer-1.jpg 768w, /images/2011/skimmer-1.jpg 950w" sizes="auto, (max-width: 300px) 100vw, 300px" />
 
   Pues hace un tiempo instalé Skimmer (http://www.fallon.com/skimmer/) para compartir fotos de flickr (principalmente) en un entorno de microblogging, como Twitter. Al menos recuerdo que por esa razón instalé tal aplicación, aunque al parecer de acuerdo al sitio oficial, se puede leer lo siguiente:
 

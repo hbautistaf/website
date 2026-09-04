@@ -22,7 +22,7 @@ aliases:
 
 Chat DineroMail Fail
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/12/Chat_DineroMail-1.png?fit=572%2C645&ssl=1" class="alignleft size-medium wp-image-944" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/12/Chat_DineroMail-1.png?resize=266%2C300&ssl=1" alt="" width="266" height="300" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/12/Chat_DineroMail-1.png?resize=266%2C300&ssl=1 266w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/12/Chat_DineroMail-1.png?w=572&ssl=1 572w" sizes="auto, (max-width: 266px) 100vw, 266px" />
+" data-image-caption="" data-large-file="/images/2012/Chat_DineroMail-1.png" class="alignleft size-medium wp-image-944" src="/images/2012/Chat_DineroMail-1.png" alt="" width="266" height="300" srcset="/images/2012/Chat_DineroMail-1.png 266w, /images/2012/Chat_DineroMail-1.png 572w" sizes="auto, (max-width: 266px) 100vw, 266px" />
 
   Cada vez es más común que se hagan compras o transacciones "en la nube", usando desde los portales de los principales bancos en México, como el uso de servicios como <a title="Paypal" href="https://www.paypal.com/" target="_blank" rel="noopener">Paypal</a>.
 
@@ -42,7 +42,7 @@ Chat DineroMail Fail
 
 Agregar Fondos Suspendido
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/12/Agregar_Fondos_Suspendido-1.png?fit=630%2C325&ssl=1" class="aligncenter size-medium wp-image-943" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/12/Agregar_Fondos_Suspendido-1.png?resize=300%2C155&ssl=1" alt="" width="300" height="155" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/12/Agregar_Fondos_Suspendido-1.png?resize=300%2C155&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/12/Agregar_Fondos_Suspendido-1.png?w=630&ssl=1 630w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
+" data-image-caption="" data-large-file="/images/2012/Agregar_Fondos_Suspendido-1.png" class="aligncenter size-medium wp-image-943" src="/images/2012/Agregar_Fondos_Suspendido-1.png" alt="" width="300" height="155" srcset="/images/2012/Agregar_Fondos_Suspendido-1.png 300w, /images/2012/Agregar_Fondos_Suspendido-1.png 630w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
 
 Y pues ni modo, no hay forma de cómo hacer para agregar saldo a tu "ficha" :-/
 
@@ -50,7 +50,7 @@ Y pues ni modo, no hay forma de cómo hacer para agregar saldo a tu "ficha" :-/
 
 [Chat DineroMail Fail
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/12/Chat_DineroMail-1.png?fit=572%2C645&ssl=1" class="aligncenter size-medium wp-image-944" title="Chat DineroMail Fail" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/12/Chat_DineroMail-1.png?resize=266%2C300&ssl=1" alt="Chat DineroMail Fail" width="266" height="300" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/12/Chat_DineroMail-1.png?resize=266%2C300&ssl=1 266w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/12/Chat_DineroMail-1.png?w=572&ssl=1 572w" sizes="auto, (max-width: 266px) 100vw, 266px" />][1]
+" data-image-caption="" data-large-file="/images/2012/Chat_DineroMail-1.png" class="aligncenter size-medium wp-image-944" title="Chat DineroMail Fail" src="/images/2012/Chat_DineroMail-1.png" alt="Chat DineroMail Fail" width="266" height="300" srcset="/images/2012/Chat_DineroMail-1.png 266w, /images/2012/Chat_DineroMail-1.png 572w" sizes="auto, (max-width: 266px) 100vw, 266px" />][1]
 
 Así que es un gran #Fail para DineroMail que no tengan alguna otra opción.
 

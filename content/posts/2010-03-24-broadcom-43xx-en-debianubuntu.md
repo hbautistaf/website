@@ -25,7 +25,7 @@ En mi caso ya que tengo una tarjeta broadcom 4311 como podemos ver acá y uso De
 
 [lspci Broadcom 43xx
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/11/Pant_lspci.png?fit=648%2C377&ssl=1" class="aligncenter size-medium wp-image-771" title="lspci Broadcom 43xx" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/11/Pant_lspci.png?resize=300%2C174&ssl=1" alt="lspci Broadcom 43xx" width="300" height="174" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/11/Pant_lspci.png?resize=300%2C174&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/11/Pant_lspci.png?resize=768%2C446&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/11/Pant_lspci.png?resize=1024%2C595&ssl=1 1024w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/11/Pant_lspci.png?w=1280&ssl=1 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]
+" data-image-caption="" data-large-file="/images/2011/Pant_lspci.png" class="aligncenter size-medium wp-image-771" title="lspci Broadcom 43xx" src="/images/2011/Pant_lspci.png" alt="lspci Broadcom 43xx" width="300" height="174" srcset="/images/2011/Pant_lspci.png 300w, /images/2011/Pant_lspci.png 768w, /images/2011/Pant_lspci.png 1024w, /images/2011/Pant_lspci.png 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]
 
 ```bash
 hbautista@luke:~$  lspci |grep Network

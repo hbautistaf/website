@@ -103,13 +103,13 @@ Un par de preguntas, el primer puesto es este y me dieron la información de hor
 
 Auxiliar
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Auxiliar-1.png?fit=585%2C440&ssl=1" class="size-medium wp-image-548 aligncenter" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Auxiliar-1.png?resize=300%2C226&ssl=1" alt="" width="300" height="226" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Auxiliar-1.png?resize=300%2C226&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Auxiliar-1.png?w=585&ssl=1 585w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
+" data-image-caption="" data-large-file="/images/2011/Auxiliar-1.png" class="size-medium wp-image-548 aligncenter" src="/images/2011/Auxiliar-1.png" alt="" width="300" height="226" srcset="/images/2011/Auxiliar-1.png 300w, /images/2011/Auxiliar-1.png 585w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
 
 El otro puesto es el siguiente, igual 6 días a la semana con horario fijo de 14 horas diarias.
 
 [Administrador
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Administrador-1.png?fit=592%2C439&ssl=1" class="aligncenter size-medium wp-image-549" title="Administrador" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Administrador-1.png?resize=300%2C222&ssl=1" alt="Administrador" width="300" height="222" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Administrador-1.png?resize=300%2C222&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/05/Administrador-1.png?w=592&ssl=1 592w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]
+" data-image-caption="" data-large-file="/images/2011/Administrador-1.png" class="aligncenter size-medium wp-image-549" title="Administrador" src="/images/2011/Administrador-1.png" alt="Administrador" width="300" height="222" srcset="/images/2011/Administrador-1.png 300w, /images/2011/Administrador-1.png 592w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]
 
 Finalmente a las 10:06 estoy saliendo de las oficinas con un amargo sabor de boca :-/ dos horas para que me dieran el horario de trabajo :-/
 

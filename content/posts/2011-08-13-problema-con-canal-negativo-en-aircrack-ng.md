@@ -22,7 +22,7 @@ aliases:
 
 [Aircrack-ng
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/08/aircrack-ng-new-logo-1.jpg?fit=226%2C110&ssl=1" class="alignleft size-full wp-image-706" title="Aircrack-ng" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/08/aircrack-ng-new-logo-1.jpg?resize=226%2C110&ssl=1" alt="Aircrack-ng" width="226" height="110" />][1]
+" data-image-caption="" data-large-file="/images/2011/aircrack-ng-new-logo-1.jpg" class="alignleft size-full wp-image-706" title="Aircrack-ng" src="/images/2011/aircrack-ng-new-logo-1.jpg" alt="Aircrack-ng" width="226" height="110" />][1]
 
 Actualmente me encuentro usando <a title="Debian" href="http://debian.org" target="_blank" rel="noopener">Debian</a> **Gnu/Linux Wheezy de 64 bits**, y al momento de actualizarme desde **Squeeze**, también hubo una actualización del **kernel** teniendo en estos momentos:
 
@@ -42,7 +42,7 @@ hbautista@luke:~$
 
 [Wireless Broadcom
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/08/wireless-gPCI-Broadcom-1.jpg?fit=648%2C486&ssl=1" class="aligncenter size-medium wp-image-707" title="Wireless Broadcom" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/08/wireless-gPCI-Broadcom-1.jpg?resize=300%2C225&ssl=1" alt="Wireless Broadcom" width="300" height="225" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/08/wireless-gPCI-Broadcom-1.jpg?resize=300%2C225&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/08/wireless-gPCI-Broadcom-1.jpg?resize=768%2C576&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/08/wireless-gPCI-Broadcom-1.jpg?w=800&ssl=1 800w" sizes="auto, (max-width: 300px) 100vw, 300px" />][2]
+" data-image-caption="" data-large-file="/images/2011/wireless-gPCI-Broadcom-1.jpg" class="aligncenter size-medium wp-image-707" title="Wireless Broadcom" src="/images/2011/wireless-gPCI-Broadcom-1.jpg" alt="Wireless Broadcom" width="300" height="225" srcset="/images/2011/wireless-gPCI-Broadcom-1.jpg 300w, /images/2011/wireless-gPCI-Broadcom-1.jpg 768w, /images/2011/wireless-gPCI-Broadcom-1.jpg 800w" sizes="auto, (max-width: 300px) 100vw, 300px" />][2]
 
 Ese punto ya lo he solucionado y ahora vengo por el segundo detalle, cuando hacemos una auditoría de una red inalámbrica, generalmente uno de los programas que se usan es el <a title="Aircrack" href="http://www.aircrack-ng.org/" target="_blank" rel="noopener">aircrack-ng</a>. Pues bien, me topé con el detalle de que en uno de los pasos donde especificas en que canal vas a trabajar, independientemente de cual le indiques, siempre te lo pondrá en el canal -1 y obviamente no podrás hacer la autenticación ni nada más.
 
@@ -126,7 +126,7 @@ Y con esto debería de funcionar todo correctamente, en mi caso y por las lectur
 
 aircrack-ng
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/08/aircrack-ng-1.gif?fit=626%2C413&ssl=1" class="aligncenter size-medium wp-image-708" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/08/aircrack-ng-1.gif?resize=300%2C198&ssl=1" alt="" width="300" height="198" /> 
+" data-image-caption="" data-large-file="/images/2011/aircrack-ng-1.gif" class="aligncenter size-medium wp-image-708" src="/images/2011/aircrack-ng-1.gif" alt="" width="300" height="198" /> 
 
 Enlaces:
 

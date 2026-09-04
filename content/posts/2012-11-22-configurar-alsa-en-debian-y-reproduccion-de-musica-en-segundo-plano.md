@@ -31,7 +31,7 @@ He instalado un servidor casero con Debian Squeeze, y como tal, sólo se ha inst
 
  [Alsamixer
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/11/alsaequal-1.png?fit=648%2C450&ssl=1" class="aligncenter size-medium wp-image-930" title="Alsamixer" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/11/alsaequal-1.png?resize=300%2C208&ssl=1" alt="Alsamixer" width="300" height="208" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/11/alsaequal-1.png?resize=300%2C208&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/11/alsaequal-1.png?resize=768%2C533&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/11/alsaequal-1.png?w=1014&ssl=1 1014w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]
+" data-image-caption="" data-large-file="/images/2012/alsaequal-1.png" class="aligncenter size-medium wp-image-930" title="Alsamixer" src="/images/2012/alsaequal-1.png" alt="Alsamixer" width="300" height="208" srcset="/images/2012/alsaequal-1.png 300w, /images/2012/alsaequal-1.png 768w, /images/2012/alsaequal-1.png 1014w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]
 
   En ese sentido, hay dos equipos que actuán de servidores en el site donde se encuentra el conmutador, pero sólo el equipo con Debian tiene tarjeta de audio, así que el otro quedó descartado.
 
@@ -80,7 +80,7 @@ Bastaría realizar el paso siguiente para ya dejar funcionando la tarjeta, y no 
 
 Sonido en Debian
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/11/debian211-1.png?fit=648%2C477&ssl=1" class="size-medium wp-image-931 aligncenter" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/11/debian211-1.png?resize=300%2C221&ssl=1" alt="" width="300" height="221" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/11/debian211-1.png?resize=300%2C221&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/11/debian211-1.png?resize=768%2C565&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/11/debian211-1.png?w=800&ssl=1 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
+" data-image-caption="" data-large-file="/images/2012/debian211-1.png" class="size-medium wp-image-931 aligncenter" src="/images/2012/debian211-1.png" alt="" width="300" height="221" srcset="/images/2012/debian211-1.png 300w, /images/2012/debian211-1.png 768w, /images/2012/debian211-1.png 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
 
 El problema viene cuando vemos en la <a title="Wiki Alsa Debian" href="http://wiki.debian.org/ALSA" target="_blank" rel="noopener">Wiki de ALSA en Debian </a>lo siguiente:
 

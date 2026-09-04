@@ -21,7 +21,7 @@ aliases:
 
 Logo Apache, Mysql y Php
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/10/apache_php_mysql_logo-1.jpg?fit=325%2C287&ssl=1" class="size-medium wp-image-742 alignleft" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/10/apache_php_mysql_logo-1.jpg?resize=300%2C265&ssl=1" alt="" width="300" height="265" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/10/apache_php_mysql_logo-1.jpg?resize=300%2C265&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/10/apache_php_mysql_logo-1.jpg?w=325&ssl=1 325w" sizes="auto, (max-width: 300px) 100vw, 300px" />Debido a que tengo que hacer algunas pruebas con plantillas y demás, me vi en la necesidad de instalar un entorno para hacer las pruebas correspondientes. En este caso necesitamos de tener instalado el servidor web **Apache**, **Mysql** y **Php5**.
+" data-image-caption="" data-large-file="/images/2011/apache_php_mysql_logo-1.jpg" class="size-medium wp-image-742 alignleft" src="/images/2011/apache_php_mysql_logo-1.jpg" alt="" width="300" height="265" srcset="/images/2011/apache_php_mysql_logo-1.jpg 300w, /images/2011/apache_php_mysql_logo-1.jpg 325w" sizes="auto, (max-width: 300px) 100vw, 300px" />Debido a que tengo que hacer algunas pruebas con plantillas y demás, me vi en la necesidad de instalar un entorno para hacer las pruebas correspondientes. En este caso necesitamos de tener instalado el servidor web **Apache**, **Mysql** y **Php5**.
 
 Una vez que hayamos terminado, tendremos un servidor web + php + mysql.
 
@@ -95,7 +95,7 @@ Ahora toca el turno para el servidor de base de datos Mysql, el cliente y un pro
 
 Pant_lamp2
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/10/Pant_lamp2-1.png?fit=648%2C380&ssl=1" class="aligncenter size-medium wp-image-745" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/10/Pant_lamp2-1.png?resize=300%2C176&ssl=1" alt="" width="300" height="176" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/10/Pant_lamp2-1.png?resize=300%2C176&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/10/Pant_lamp2-1.png?resize=768%2C450&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/10/Pant_lamp2-1.png?resize=1024%2C600&ssl=1 1024w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/10/Pant_lamp2-1.png?w=1280&ssl=1 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
+" data-image-caption="" data-large-file="/images/2011/Pant_lamp2-1.png" class="aligncenter size-medium wp-image-745" src="/images/2011/Pant_lamp2-1.png" alt="" width="300" height="176" srcset="/images/2011/Pant_lamp2-1.png 300w, /images/2011/Pant_lamp2-1.png 768w, /images/2011/Pant_lamp2-1.png 1024w, /images/2011/Pant_lamp2-1.png 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
 
 ```bash
 mysql-admin mysql-client-5.1 mysql-gui-tools-common mysql-query-browser{a} mysql-server mysql-server-5.1
@@ -105,9 +105,9 @@ Una vez que se instale el paquete mysql-server, nos pedirá una contraseña para
 
 Pant_lamp3
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/10/Pant_lamp3-1.png?fit=648%2C380&ssl=1" class="alignnone size-medium wp-image-747" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/10/Pant_lamp3-1.png?resize=300%2C176&ssl=1" alt="" width="300" height="176" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/10/Pant_lamp3-1.png?resize=300%2C176&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/10/Pant_lamp3-1.png?resize=768%2C450&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/10/Pant_lamp3-1.png?resize=1024%2C600&ssl=1 1024w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/10/Pant_lamp3-1.png?w=1280&ssl=1 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" />Mysql-admin
+" data-image-caption="" data-large-file="/images/2011/Pant_lamp3-1.png" class="alignnone size-medium wp-image-747" src="/images/2011/Pant_lamp3-1.png" alt="" width="300" height="176" srcset="/images/2011/Pant_lamp3-1.png 300w, /images/2011/Pant_lamp3-1.png 768w, /images/2011/Pant_lamp3-1.png 1024w, /images/2011/Pant_lamp3-1.png 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" />Mysql-admin
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/10/Pant_lamp6-1.png?fit=428%2C356&ssl=1" class="alignnone size-medium wp-image-748" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/10/Pant_lamp6-1.png?resize=300%2C250&ssl=1" alt="" width="300" height="250" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/10/Pant_lamp6-1.png?resize=300%2C250&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/10/Pant_lamp6-1.png?w=428&ssl=1 428w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
+" data-image-caption="" data-large-file="/images/2011/Pant_lamp6-1.png" class="alignnone size-medium wp-image-748" src="/images/2011/Pant_lamp6-1.png" alt="" width="300" height="250" srcset="/images/2011/Pant_lamp6-1.png 300w, /images/2011/Pant_lamp6-1.png 428w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
 
 Para verificar que la configuración básica y por defecto está funcionando bien, podemos crear un archivo llamado info.php o prueba.php que tenga por único contenido lo siguiente:
 

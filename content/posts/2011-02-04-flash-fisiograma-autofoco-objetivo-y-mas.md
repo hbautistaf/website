@@ -38,7 +38,7 @@ Todos los colores que la cámara percibe, como ya sabéis, son interpretados por
 
 [Enfoque
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/02/dsc02443-1.jpg?fit=648%2C434&ssl=1" class="aligncenter size-medium wp-image-422" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/02/dsc02443-1.jpg?resize=300%2C201&ssl=1" alt="" width="300" height="201" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/02/dsc02443-1.jpg?resize=300%2C201&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/02/dsc02443-1.jpg?resize=768%2C514&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/02/dsc02443-1.jpg?w=890&ssl=1 890w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]
+" data-image-caption="" data-large-file="/images/2011/dsc02443-1.jpg" class="aligncenter size-medium wp-image-422" src="/images/2011/dsc02443-1.jpg" alt="" width="300" height="201" srcset="/images/2011/dsc02443-1.jpg 300w, /images/2011/dsc02443-1.jpg 768w, /images/2011/dsc02443-1.jpg 890w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]
 
 Ya te hemos contado hace tiempo acerca del arte del **fisiograma**, o pintar con luz. Te hemos contado como lograrlo y seguramente lo habrás intentado. Es una técnica muy sencilla y no requiere mayores equipos. Una de sus áreas inexploradas, hasta ahora, era la fusión de este arte con el movimiento del vídeo. Te hemos mostrado un vídeo acerca del stop-motion utilizando esta técnica, pero hoy hemos descubierto una vuelta de tuerca mas.
 
@@ -52,7 +52,7 @@ Existen dos tipos de sistema de **autofoco**: El activo y el pasivo. El sistema 
 
 [Enfoque
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/02/dsc02343-1.jpg?fit=648%2C434&ssl=1" class="aligncenter size-medium wp-image-423" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/02/dsc02343-1.jpg?resize=300%2C201&ssl=1" alt="" width="300" height="201" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/02/dsc02343-1.jpg?resize=300%2C201&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/02/dsc02343-1.jpg?resize=768%2C514&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/02/dsc02343-1.jpg?w=890&ssl=1 890w" sizes="auto, (max-width: 300px) 100vw, 300px" />][2]
+" data-image-caption="" data-large-file="/images/2011/dsc02343-1.jpg" class="aligncenter size-medium wp-image-423" src="/images/2011/dsc02343-1.jpg" alt="" width="300" height="201" srcset="/images/2011/dsc02343-1.jpg 300w, /images/2011/dsc02343-1.jpg 768w, /images/2011/dsc02343-1.jpg 890w" sizes="auto, (max-width: 300px) 100vw, 300px" />][2]
 
 <a title="Autofoco" href="http://altfoto.com/2011/01/como-funciona-el-autofoco" target="_blank" rel="noopener">http://altfoto.com/2011/01/como-funciona-el-autofoco</a>
 
@@ -60,7 +60,7 @@ Si hace tiempo has pensado en montar un estudio casero de seguro has comenzado p
 
 **[Sonrisa
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/02/dsc02340-1.jpg?fit=596%2C890&ssl=1" class="aligncenter size-medium wp-image-424" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/02/dsc02340-1.jpg?resize=201%2C300&ssl=1" alt="" width="201" height="300" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/02/dsc02340-1.jpg?resize=201%2C300&ssl=1 201w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/02/dsc02340-1.jpg?w=596&ssl=1 596w" sizes="auto, (max-width: 201px) 100vw, 201px" />][3]  
+" data-image-caption="" data-large-file="/images/2011/dsc02340-1.jpg" class="aligncenter size-medium wp-image-424" src="/images/2011/dsc02340-1.jpg" alt="" width="201" height="300" srcset="/images/2011/dsc02340-1.jpg 201w, /images/2011/dsc02340-1.jpg 596w" sizes="auto, (max-width: 201px) 100vw, 201px" />][3]  
 ** 
 
 <a title="Estudio casero" href="http://www.fotografiad.com/monta-tu-estudio-casero-%C2%BFque-se-necesita/" target="_blank" rel="noopener">http://www.fotografiad.com/monta-tu-estudio-casero-%C2%BFque-se-necesita/</a>
@@ -105,7 +105,7 @@ Es importante tener siempre en cuenta la sugerencia como un factor primordial en
 
 [Sugerente
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/02/dsc02331-1.jpg?fit=648%2C434&ssl=1" class="aligncenter size-medium wp-image-425" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/02/dsc02331-1.jpg?resize=300%2C201&ssl=1" alt="" width="300" height="201" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/02/dsc02331-1.jpg?resize=300%2C201&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/02/dsc02331-1.jpg?resize=768%2C514&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/02/dsc02331-1.jpg?w=890&ssl=1 890w" sizes="auto, (max-width: 300px) 100vw, 300px" />][4]
+" data-image-caption="" data-large-file="/images/2011/dsc02331-1.jpg" class="aligncenter size-medium wp-image-425" src="/images/2011/dsc02331-1.jpg" alt="" width="300" height="201" srcset="/images/2011/dsc02331-1.jpg 300w, /images/2011/dsc02331-1.jpg 768w, /images/2011/dsc02331-1.jpg 890w" sizes="auto, (max-width: 300px) 100vw, 300px" />][4]
 
 Al comprender el concepto de la **profundidad de campo**, podremos utilizarlo como un valioso recurso a nuestro favor, ya sea que fotografiemos en condiciones que no son las ideales, o que queramos destacar un objeto o personaje principal en la imagen. Así que si estás dando tus primeros pasos en el arte de la fotografía, presta atención a la siguiente definición a sus distintas aplicaciones…
 
@@ -125,7 +125,7 @@ Presentarse a **concursos de fotografía** es una excelente manera de ponernos a
 
 [Colores
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/02/dsc02347-1.jpg?fit=648%2C434&ssl=1" class="aligncenter size-medium wp-image-426" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/02/dsc02347-1.jpg?resize=300%2C201&ssl=1" alt="" width="300" height="201" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/02/dsc02347-1.jpg?resize=300%2C201&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/02/dsc02347-1.jpg?resize=768%2C514&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/02/dsc02347-1.jpg?w=890&ssl=1 890w" sizes="auto, (max-width: 300px) 100vw, 300px" />][5]
+" data-image-caption="" data-large-file="/images/2011/dsc02347-1.jpg" class="aligncenter size-medium wp-image-426" src="/images/2011/dsc02347-1.jpg" alt="" width="300" height="201" srcset="/images/2011/dsc02347-1.jpg 300w, /images/2011/dsc02347-1.jpg 768w, /images/2011/dsc02347-1.jpg 890w" sizes="auto, (max-width: 300px) 100vw, 300px" />][5]
 
 **Curso de Fotografía**
 

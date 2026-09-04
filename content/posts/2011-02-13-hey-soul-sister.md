@@ -23,7 +23,7 @@ I'm sorry \_.\_
 
 Lost
 
-" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/02/Foto-28-1.jpg?fit=640%2C480&ssl=1" class="size-medium wp-image-442" title="Lost" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/02/Foto-28-1.jpg?resize=300%2C225&ssl=1" alt="Lost" width="300" height="225" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/02/Foto-28-1.jpg?resize=300%2C225&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/02/Foto-28-1.jpg?w=640&ssl=1 640w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]<figcaption class="caption wp-caption-text">Lost</figcaption></figure>
+" data-large-file="/images/2011/Foto-28-1.jpg" class="size-medium wp-image-442" title="Lost" src="/images/2011/Foto-28-1.jpg" alt="Lost" width="300" height="225" srcset="/images/2011/Foto-28-1.jpg 300w, /images/2011/Foto-28-1.jpg 640w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]<figcaption class="caption wp-caption-text">Lost</figcaption></figure>
 
 My time has come, pay my rent, give it back and disappear
 

@@ -21,7 +21,7 @@ aliases:
 - /comos/megatools-en-debian-jessie/
 ---
 
-![Megatools](/images/2014/Megatools-300x55.png)
+![Megatools](/images/2014/Megatools.png)
 
 Después de un buen rato de no publicar nada por acá, volvemos a las andadas u.u
 
@@ -29,11 +29,11 @@ Después de un buen rato de no publicar nada por acá, volvemos a las andadas u.
 
   
 
-![Mega Signup](/images/2014/Mega-Sigup-300x121.png)
+![Mega Signup](/images/2014/Mega-Sigup.png)
 
   
 
-![Logo Mega](/images/2014/Logo-Mega-300x223.png)
+![Logo Mega](/images/2014/Logo-Mega.png)
 
 Tiene una aplicación para iOS, Android y un cliente para escritorio que por el momento nada más hay para Hasefroch.
 

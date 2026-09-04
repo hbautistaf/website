@@ -20,7 +20,7 @@ aliases:
 
 [Logo JDownloader
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/07/jdownloader-1.png?fit=150%2C150&ssl=1" class="alignleft size-full wp-image-671" title="Logo JDownloader" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/07/jdownloader-1.png?resize=150%2C150&ssl=1" alt="Logo JDownloader" width="150" height="150" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/07/jdownloader-1.png?w=150&ssl=1 150w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/07/jdownloader-1.png?resize=60%2C60&ssl=1 60w" sizes="auto, (max-width: 150px) 100vw, 150px" />][1]
+" data-image-caption="" data-large-file="/images/2011/jdownloader-1.png" class="alignleft size-full wp-image-671" title="Logo JDownloader" src="/images/2011/jdownloader-1.png" alt="Logo JDownloader" width="150" height="150" srcset="/images/2011/jdownloader-1.png 150w, /images/2011/jdownloader-1.png 60w" sizes="auto, (max-width: 150px) 100vw, 150px" />][1]
 
 Resulta que durante mi estancia en Campus Party México 2011 actualicé mi Debian Squeeze a la versión de pruebas Debian Wheezy y aunque aún me falta ver si la tarjeta inalámbrica está funcionando de forma normal y correcta, me acabo de percatar que <a title="JDownloader" href="http://jdownloader.org/" target="_blank" rel="noopener">JDownloader</a> simplemente dejó de funcionar.
 
@@ -122,19 +122,19 @@ Y después de eso ejecutamos JDownloader y empieza a actualizarse y después de 
 
 [Configurando JDownloader
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/07/Pant_jdownloader-1.png?fit=557%2C400&ssl=1" class="aligncenter size-medium wp-image-672" title="Configurando JDownloader" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/07/Pant_jdownloader-1.png?resize=300%2C215&ssl=1" alt="Configurando JDownloader" width="300" height="215" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/07/Pant_jdownloader-1.png?resize=300%2C215&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/07/Pant_jdownloader-1.png?w=557&ssl=1 557w" sizes="auto, (max-width: 300px) 100vw, 300px" />][2]
+" data-image-caption="" data-large-file="/images/2011/Pant_jdownloader-1.png" class="aligncenter size-medium wp-image-672" title="Configurando JDownloader" src="/images/2011/Pant_jdownloader-1.png" alt="Configurando JDownloader" width="300" height="215" srcset="/images/2011/Pant_jdownloader-1.png 300w, /images/2011/Pant_jdownloader-1.png 557w" sizes="auto, (max-width: 300px) 100vw, 300px" />][2]
 
 Y luego nos pregunta si queremos instalar la extensión para Firefox, en mi caso le puse que no
 
 [Configurando JDownloader 2
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/07/Pant_jdownloader2-1.png?fit=557%2C400&ssl=1" class="aligncenter size-medium wp-image-673" title="Configurando JDownloader 2" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/07/Pant_jdownloader2-1.png?resize=300%2C215&ssl=1" alt="Configurando JDownloader 2" width="300" height="215" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/07/Pant_jdownloader2-1.png?resize=300%2C215&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/07/Pant_jdownloader2-1.png?w=557&ssl=1 557w" sizes="auto, (max-width: 300px) 100vw, 300px" />][3]
+" data-image-caption="" data-large-file="/images/2011/Pant_jdownloader2-1.png" class="aligncenter size-medium wp-image-673" title="Configurando JDownloader 2" src="/images/2011/Pant_jdownloader2-1.png" alt="Configurando JDownloader 2" width="300" height="215" srcset="/images/2011/Pant_jdownloader2-1.png 300w, /images/2011/Pant_jdownloader2-1.png 557w" sizes="auto, (max-width: 300px) 100vw, 300px" />][3]
 
 Finalmente nos deja ya con la aplicación funcionando
 
 [Configurando JDownloader 3
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/07/Pant_jdownloader3-1.png?fit=648%2C485&ssl=1" class="aligncenter size-medium wp-image-674" title="Configurando JDownloader 3" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/07/Pant_jdownloader3-1.png?resize=300%2C224&ssl=1" alt="Configurando JDownloader 3" width="300" height="224" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/07/Pant_jdownloader3-1.png?resize=300%2C224&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/07/Pant_jdownloader3-1.png?resize=768%2C574&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/07/Pant_jdownloader3-1.png?w=797&ssl=1 797w" sizes="auto, (max-width: 300px) 100vw, 300px" />][4]
+" data-image-caption="" data-large-file="/images/2011/Pant_jdownloader3-1.png" class="aligncenter size-medium wp-image-674" title="Configurando JDownloader 3" src="/images/2011/Pant_jdownloader3-1.png" alt="Configurando JDownloader 3" width="300" height="224" srcset="/images/2011/Pant_jdownloader3-1.png 300w, /images/2011/Pant_jdownloader3-1.png 768w, /images/2011/Pant_jdownloader3-1.png 797w" sizes="auto, (max-width: 300px) 100vw, 300px" />][4]
 
 Si alguien tiene un problema similar, espero que esto les sirva
 

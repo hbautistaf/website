@@ -25,7 +25,7 @@ Resulta que este inicio de semana, tengo un disco duro externo que me dieron en 
 
 Pues bien, algo pasó que simplemente se perdió una partición conteniendo información importante y valiosa que debía ser rescatada, <a title="TestDisk" href="http://www.cgsecurity.org/wiki/TestDisk" target="_blank">TestDisk</a> finalmente me ayudó a resolver parte del problema.[TestDisk
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2010/10/Testdisklogo_clear_100-1.png?fit=100%2C100&ssl=1" class="alignright size-full wp-image-350" title="TestDisk" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2010/10/Testdisklogo_clear_100-1.png?resize=100%2C100&ssl=1" alt="TestDisk" width="100" height="100" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2010/10/Testdisklogo_clear_100-1.png?w=100&ssl=1 100w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2010/10/Testdisklogo_clear_100-1.png?resize=60%2C60&ssl=1 60w" sizes="auto, (max-width: 100px) 100vw, 100px" />][1]
+" data-image-caption="" data-large-file="/images/2010/Testdisklogo_clear_100-1.png" class="alignright size-full wp-image-350" title="TestDisk" src="/images/2010/Testdisklogo_clear_100-1.png" alt="TestDisk" width="100" height="100" srcset="/images/2010/Testdisklogo_clear_100-1.png 100w, /images/2010/Testdisklogo_clear_100-1.png 60w" sizes="auto, (max-width: 100px) 100vw, 100px" />][1]
 
 El caso es que finalmente tuve perdida de información debido a un error mío y pues ni modos. No sé exactamente que se perdió ni si era importante o no. La cuestión es que necesitamos usar ese disco duro externo que es de 250GB.
 

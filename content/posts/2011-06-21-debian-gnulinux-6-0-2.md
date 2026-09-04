@@ -25,7 +25,7 @@ Como podrán leer en el <a title="Debian Anounce" href="http://lists.debian.org/
 
 [Debian Squeeze
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/06/debian-squeeze-two-454-1.jpg?fit=333%2C250&ssl=1" class="aligncenter size-medium wp-image-603" title="Debian Squeeze" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/06/debian-squeeze-two-454-1.jpg?resize=300%2C225&ssl=1" alt="Debian Squeeze" width="300" height="225" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/06/debian-squeeze-two-454-1.jpg?resize=300%2C225&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/06/debian-squeeze-two-454-1.jpg?w=333&ssl=1 333w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]
+" data-image-caption="" data-large-file="/images/2011/debian-squeeze-two-454-1.jpg" class="aligncenter size-medium wp-image-603" title="Debian Squeeze" src="/images/2011/debian-squeeze-two-454-1.jpg" alt="Debian Squeeze" width="300" height="225" srcset="/images/2011/debian-squeeze-two-454-1.jpg 300w, /images/2011/debian-squeeze-two-454-1.jpg 333w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]
 
 Philip Kern hizo el anuncio el pasado domingo 19 de Junio de 2011. El inicio del anuncio es el siguiente:
 
@@ -59,6 +59,6 @@ De lo que leo estas correcciones serán bienvenidas para muchos de nosotros, en 
 
 Escritorio KDE
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/06/simple-kde4-video-1.png?fit=648%2C365&ssl=1" class="aligncenter size-medium wp-image-604" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/06/simple-kde4-video-1.png?resize=300%2C169&ssl=1" alt="" width="300" height="169" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/06/simple-kde4-video-1.png?resize=300%2C169&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/06/simple-kde4-video-1.png?resize=768%2C432&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/06/simple-kde4-video-1.png?resize=1024%2C576&ssl=1 1024w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/06/simple-kde4-video-1.png?w=1366&ssl=1 1366w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/06/simple-kde4-video-1.png?w=1296&ssl=1 1296w" sizes="auto, (max-width: 300px) 100vw, 300px" />
+" data-image-caption="" data-large-file="/images/2011/simple-kde4-video-1.png" class="aligncenter size-medium wp-image-604" src="/images/2011/simple-kde4-video-1.png" alt="" width="300" height="169" srcset="/images/2011/simple-kde4-video-1.png 300w, /images/2011/simple-kde4-video-1.png 768w, /images/2011/simple-kde4-video-1.png 1024w, /images/2011/simple-kde4-video-1.png 1366w, /images/2011/simple-kde4-video-1.png 1296w" sizes="auto, (max-width: 300px) 100vw, 300px" />
 
  [1]: /images/2011/debian-squeeze-two-454-1.jpg

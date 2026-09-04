@@ -22,7 +22,7 @@ Actualmente me encuentro usando Debian Wheezy (rama testing/pruebas) y este es m
 
 Sources.list Wheezy
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/11/Pant_sources_wheezy-1.png?fit=648%2C373&ssl=1" class="aligncenter size-medium wp-image-790" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/11/Pant_sources_wheezy-1.png?resize=300%2C173&ssl=1" alt="" width="300" height="173" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/11/Pant_sources_wheezy-1.png?resize=300%2C173&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/11/Pant_sources_wheezy-1.png?resize=768%2C443&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/11/Pant_sources_wheezy-1.png?resize=1024%2C590&ssl=1 1024w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/11/Pant_sources_wheezy-1.png?w=1280&ssl=1 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
+" data-image-caption="" data-large-file="/images/2011/Pant_sources_wheezy-1.png" class="aligncenter size-medium wp-image-790" src="/images/2011/Pant_sources_wheezy-1.png" alt="" width="300" height="173" srcset="/images/2011/Pant_sources_wheezy-1.png 300w, /images/2011/Pant_sources_wheezy-1.png 768w, /images/2011/Pant_sources_wheezy-1.png 1024w, /images/2011/Pant_sources_wheezy-1.png 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
 
 Ahora bien, vamos a editar nuestro sources.list
 

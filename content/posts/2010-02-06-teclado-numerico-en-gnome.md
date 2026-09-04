@@ -40,7 +40,7 @@ Ya a dos segundos de hacerlo se me ocurre checar la configuración del teclado e
 
 [Configurar teclado
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/10/Pant_teclado1.png?fit=631%2C511&ssl=1" class="aligncenter size-medium wp-image-751" title="Configurar teclado" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/10/Pant_teclado1.png?resize=300%2C242&ssl=1" alt="Configurar teclado" width="300" height="242" />][1]
+" data-image-caption="" data-large-file="/images/2011/Pant_teclado1.png" class="aligncenter size-medium wp-image-751" title="Configurar teclado" src="/images/2011/Pant_teclado1.png" alt="Configurar teclado" width="300" height="242" />][1]
 
  
 
@@ -48,7 +48,7 @@ Y luego le dí­ en **Distribuciones**
 
 [Configurando distribuciones de teclado
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/10/Pant_teclado2.png?fit=631%2C527&ssl=1" class="aligncenter size-medium wp-image-752" title="Configurando distribuciones de teclado" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/10/Pant_teclado2.png?resize=300%2C250&ssl=1" alt="Configurando distribuciones de teclado" width="300" height="250" />][2]
+" data-image-caption="" data-large-file="/images/2011/Pant_teclado2.png" class="aligncenter size-medium wp-image-752" title="Configurando distribuciones de teclado" src="/images/2011/Pant_teclado2.png" alt="Configurando distribuciones de teclado" width="300" height="250" />][2]
 
  
 
@@ -56,7 +56,7 @@ Pues dije le modificaré al "Microsoft Natural" y reiniciaré el entorno gráfic
 
 [Configurando distribuciones de teclado
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/10/Pant_teclado2.png?fit=631%2C527&ssl=1" class="aligncenter size-medium wp-image-752" title="Configurando distribuciones de teclado" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/10/Pant_teclado2.png?resize=300%2C250&ssl=1" alt="Configurando distribuciones de teclado" width="300" height="250" />][2]
+" data-image-caption="" data-large-file="/images/2011/Pant_teclado2.png" class="aligncenter size-medium wp-image-752" title="Configurando distribuciones de teclado" src="/images/2011/Pant_teclado2.png" alt="Configurando distribuciones de teclado" width="300" height="250" />][2]
 
  
 
@@ -82,7 +82,7 @@ Entonces volví­ a abrir las preferencias del teclado y vi que estaba así­.
 
 [Teclas del ratón
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/10/Pant_teclado3.png?fit=631%2C511&ssl=1" class="aligncenter size-medium wp-image-753" title="Teclas del ratón" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/10/Pant_teclado3.png?resize=300%2C242&ssl=1" alt="Teclas del ratón" width="300" height="242" />][4]
+" data-image-caption="" data-large-file="/images/2011/Pant_teclado3.png" class="aligncenter size-medium wp-image-753" title="Teclas del ratón" src="/images/2011/Pant_teclado3.png" alt="Teclas del ratón" width="300" height="242" />][4]
 
  
 
@@ -92,7 +92,7 @@ Bastó con desactivar esa opción para que quedará así­ y con eso se solucion
 
 [Teclas del ratón 2
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/10/Pant_teclado4.png?fit=631%2C511&ssl=1" class="aligncenter size-medium wp-image-754" title="Teclas del ratón 2" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/10/Pant_teclado4.png?resize=300%2C242&ssl=1" alt="Teclas del ratón 2" width="300" height="242" />][5]
+" data-image-caption="" data-large-file="/images/2011/Pant_teclado4.png" class="aligncenter size-medium wp-image-754" title="Teclas del ratón 2" src="/images/2011/Pant_teclado4.png" alt="Teclas del ratón 2" width="300" height="242" />][5]
 
 A final de cuentas el asunto era un tanto simple, pero ya ven la paranoia a veces resulta infructuosa 😡
 

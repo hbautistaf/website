@@ -25,7 +25,7 @@ En fin, el caso es que puse un tuit donde indicaba que no daba con un enlace y <
 
 [Trunk.ly
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/04/trunkly-1.png?fit=648%2C404&ssl=1" class="aligncenter size-medium wp-image-506" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/04/trunkly-1.png?resize=300%2C187&ssl=1" alt="" width="300" height="187" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/04/trunkly-1.png?resize=300%2C187&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/04/trunkly-1.png?resize=768%2C478&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/04/trunkly-1.png?w=854&ssl=1 854w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]  
+" data-image-caption="" data-large-file="/images/2011/trunkly-1.png" class="aligncenter size-medium wp-image-506" src="/images/2011/trunkly-1.png" alt="" width="300" height="187" srcset="/images/2011/trunkly-1.png 300w, /images/2011/trunkly-1.png 768w, /images/2011/trunkly-1.png 854w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]  
 ¿Que es <a title="Trunk.ly" href="http://trunk.ly/" target="_blank" rel="noopener">Trunk.ly</a>? La definición en su página web
 
 > "Can't find a link you've shared?

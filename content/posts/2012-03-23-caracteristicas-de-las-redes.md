@@ -20,7 +20,7 @@ aliases:
 
 Redes
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/03/redes-1.jpg?fit=467%2C325&ssl=1" class="alignleft size-medium wp-image-887" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/03/redes-1.jpg?resize=300%2C209&ssl=1" alt="" width="300" height="209" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/03/redes-1.jpg?resize=300%2C209&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/03/redes-1.jpg?w=467&ssl=1 467w" sizes="auto, (max-width: 300px) 100vw, 300px" />Las redes de computadoras nos permiten interactuar entre 2 o más dispositivos entre sí a través de un medio físico que se conoce como "cable" o también puede ser por medios inalámbricos.
+" data-image-caption="" data-large-file="/images/2012/redes-1.jpg" class="alignleft size-medium wp-image-887" src="/images/2012/redes-1.jpg" alt="" width="300" height="209" srcset="/images/2012/redes-1.jpg 300w, /images/2012/redes-1.jpg 467w" sizes="auto, (max-width: 300px) 100vw, 300px" />Las redes de computadoras nos permiten interactuar entre 2 o más dispositivos entre sí a través de un medio físico que se conoce como "cable" o también puede ser por medios inalámbricos.
 
   Principalmente usados para la compartición de recursos.
 
@@ -36,7 +36,7 @@ Redes
 
   LAN
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/03/lan-1.png?fit=320%2C309&ssl=1" class="size-medium wp-image-888 alignright" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/03/lan-1.png?resize=300%2C290&ssl=1" alt="" width="300" height="290" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/03/lan-1.png?resize=300%2C290&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2012/03/lan-1.png?w=320&ssl=1 320w" sizes="auto, (max-width: 300px) 100vw, 300px" />
+" data-image-caption="" data-large-file="/images/2012/lan-1.png" class="size-medium wp-image-888 alignright" src="/images/2012/lan-1.png" alt="" width="300" height="290" srcset="/images/2012/lan-1.png 300w, /images/2012/lan-1.png 320w" sizes="auto, (max-width: 300px) 100vw, 300px" />
 
   **Correo electrónico**: Es un recurso bastante valioso y que incluso muchas organizaciones no lo aprovechan al máximo. No solamente es útil para las comunicaciones internas sino también para las externas.
 

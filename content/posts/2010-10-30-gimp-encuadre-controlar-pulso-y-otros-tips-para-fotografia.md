@@ -30,7 +30,7 @@ Además de escribir de vez en cuando por acá, ser Sysadmin y otras cosas tambi�
 
 [Sonrisa
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2010/10/sonrisa-1.jpg?fit=648%2C434&ssl=1" class="aligncenter size-medium wp-image-367" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2010/10/sonrisa-1.jpg?resize=300%2C201&ssl=1" alt="" width="300" height="201" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2010/10/sonrisa-1.jpg?resize=300%2C201&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2010/10/sonrisa-1.jpg?resize=768%2C514&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2010/10/sonrisa-1.jpg?w=890&ssl=1 890w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]  
+" data-image-caption="" data-large-file="/images/2010/sonrisa-1.jpg" class="aligncenter size-medium wp-image-367" src="/images/2010/sonrisa-1.jpg" alt="" width="300" height="201" srcset="/images/2010/sonrisa-1.jpg 300w, /images/2010/sonrisa-1.jpg 768w, /images/2010/sonrisa-1.jpg 890w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]  
 **El encuadre, un detalle sencillo pero esencial**
 
 Al igual que los colores y la luz, el encuadre tiene el poder de resaltar el atractivo de una imagen, o de estropearlo por completo. Sin embargo, suele ser dejado de lado por aquellos que recién se inician en la fotografía. Es por ello que a continuación, puntualizamos algunos errores comunes que deberás evitar si deseas crecer en este arte:
@@ -63,7 +63,7 @@ Los planos cortos suelen ser atrayentes porque permiten apreciar los detalles de
 
 [Cielo aperlado
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2010/10/dsc03032-1.jpg?fit=648%2C434&ssl=1" class="aligncenter size-medium wp-image-369" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2010/10/dsc03032-1.jpg?resize=300%2C201&ssl=1" alt="" width="300" height="201" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2010/10/dsc03032-1.jpg?resize=300%2C201&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2010/10/dsc03032-1.jpg?resize=768%2C514&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2010/10/dsc03032-1.jpg?w=890&ssl=1 890w" sizes="auto, (max-width: 300px) 100vw, 300px" />][2]  
+" data-image-caption="" data-large-file="/images/2010/dsc03032-1.jpg" class="aligncenter size-medium wp-image-369" src="/images/2010/dsc03032-1.jpg" alt="" width="300" height="201" srcset="/images/2010/dsc03032-1.jpg 300w, /images/2010/dsc03032-1.jpg 768w, /images/2010/dsc03032-1.jpg 890w" sizes="auto, (max-width: 300px) 100vw, 300px" />][2]  
 **Fotografías de paisajes urbanos**
 
 Las ciudades han sido desde siempre uno de los temas recurrentes en la fotografía. El paisaje urbano ofrece tantas posibilidades y oportunidades que se convierte en un recurso casi infinito. Sin duda es muy atractivo poder captar la esencia de una ciudad, también de su vida, de su evolución, de sus lugares emblemáticos, pero también de sus lugares degradados, de su arquitectura, de paisajes humanos llenos de vida cotidiana…
@@ -84,7 +84,7 @@ Aunque no sean las tarjetas más populares, la verdad es que poco a poco se est�
 
 [Azulado
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2010/10/dsc03033-1.jpg?fit=648%2C434&ssl=1" class="aligncenter size-medium wp-image-370" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2010/10/dsc03033-1.jpg?resize=300%2C201&ssl=1" alt="" width="300" height="201" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2010/10/dsc03033-1.jpg?resize=300%2C201&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2010/10/dsc03033-1.jpg?resize=768%2C514&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2010/10/dsc03033-1.jpg?w=890&ssl=1 890w" sizes="auto, (max-width: 300px) 100vw, 300px" />][3]  
+" data-image-caption="" data-large-file="/images/2010/dsc03033-1.jpg" class="aligncenter size-medium wp-image-370" src="/images/2010/dsc03033-1.jpg" alt="" width="300" height="201" srcset="/images/2010/dsc03033-1.jpg 300w, /images/2010/dsc03033-1.jpg 768w, /images/2010/dsc03033-1.jpg 890w" sizes="auto, (max-width: 300px) 100vw, 300px" />][3]  
 **¿Deseas mejorar tu estado de ánimo? La fotografía puede ayudarte.**
 
 En estos tiempos un tanto difíciles, los profesionales de la salud mental han ido implementando diferentes métodos para tratar a sus pacientes eficazmente, y la fotografía es uno de ellos. Incluso muchas personas con problemas emocionales se han decantado por esta disciplina a título personal, y de hecho no son pocos los fotógrafos profesionales que afirman con toda seguridad que la fotografía ayuda a sanar el alma. Es por ello que a continuación explicaremos algunas pautas interesantes acerca de la “fototerapia”.
@@ -130,7 +130,7 @@ Pues lo primero que debes tener en cuenta es que si bien es posible captar imág
 
 [Performance
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2010/10/dsc03116-1.jpg?fit=648%2C434&ssl=1" class="aligncenter size-medium wp-image-368" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2010/10/dsc03116-1.jpg?resize=300%2C201&ssl=1" alt="" width="300" height="201" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2010/10/dsc03116-1.jpg?resize=300%2C201&ssl=1 300w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2010/10/dsc03116-1.jpg?resize=768%2C514&ssl=1 768w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2010/10/dsc03116-1.jpg?w=890&ssl=1 890w" sizes="auto, (max-width: 300px) 100vw, 300px" />][4]
+" data-image-caption="" data-large-file="/images/2010/dsc03116-1.jpg" class="aligncenter size-medium wp-image-368" src="/images/2010/dsc03116-1.jpg" alt="" width="300" height="201" srcset="/images/2010/dsc03116-1.jpg 300w, /images/2010/dsc03116-1.jpg 768w, /images/2010/dsc03116-1.jpg 890w" sizes="auto, (max-width: 300px) 100vw, 300px" />][4]
 
  [1]: /images/2010/sonrisa-1.jpg
  [2]: /images/2010/dsc03032-1.jpg

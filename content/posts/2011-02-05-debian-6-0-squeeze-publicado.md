@@ -20,7 +20,7 @@ Después de 24 meses de desarrollo constante, el proyecto <a href="http://debian
 
 [Squeeze
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/02/squeeze_countdown-1.png?fit=200%2C170&ssl=1" class="alignleft wp-image-430 size-full" title="Squeeze" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/02/squeeze_countdown-1.png?resize=200%2C170&ssl=1" alt="Squeeze" width="200" height="170" />][1]
+" data-image-caption="" data-large-file="/images/2011/squeeze_countdown-1.png" class="alignleft wp-image-430 size-full" title="Squeeze" src="/images/2011/squeeze_countdown-1.png" alt="Squeeze" width="200" height="170" />][1]
 
 Debian 6.0 incluye los entornos de escritorio **KDE**, **GNOME**, **Xfce** y **LXDE**, así como todo tipo de aplicaciones de servidor. También ofrece compatibilidad con el estándar FHS v2.3 y el software desarrollado para la versión 3.2 de LSB.
 
@@ -30,7 +30,7 @@ Debian 6.0 “Squeeze” incluye una versión preliminar de dos nuevas adaptacio
 
 [Squeeze
 
-" data-image-caption="" data-large-file="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/02/squeeze-1.png?fit=432%2C454&ssl=1" class="aligncenter size-medium wp-image-431" title="Squeeze" src="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/02/squeeze-1.png?resize=285%2C300&ssl=1" alt="Squeeze" width="285" height="300" srcset="https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/02/squeeze-1.png?resize=285%2C300&ssl=1 285w, https://i0.wp.com/blog.hbautista.com/wp-content/uploads/2011/02/squeeze-1.png?w=432&ssl=1 432w" sizes="auto, (max-width: 285px) 100vw, 285px" />][2]
+" data-image-caption="" data-large-file="/images/2011/squeeze-1.png" class="aligncenter size-medium wp-image-431" title="Squeeze" src="/images/2011/squeeze-1.png" alt="Squeeze" width="285" height="300" srcset="/images/2011/squeeze-1.png 285w, /images/2011/squeeze-1.png 432w" sizes="auto, (max-width: 285px) 100vw, 285px" />][2]
 
 <a title="Debian Squeeze publicado" href="http://usoli.org/2011_02_05/debian-6-0-squeeze-publicado/" target="_blank" rel="noopener">Publicado en Usoli.org</a>
 
