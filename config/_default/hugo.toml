@@ -3,6 +3,7 @@ title = "Héctor Bautista"
 theme = "hugo-theme-stack"
 defaultContentLanguage = "es"
 hasCJKLanguage = false
+summaryLength = 30
 
 [pagination]
   pagerSize = 7
