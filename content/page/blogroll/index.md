@@ -16,7 +16,7 @@ Aquí les dejo una lista de mis blogs y sitios favoritos.
 - [linuxmanr4.com](https://linuxmanr4.com/) Apasionado por Linux y la tecnología. Comparte pensamientos para evitar que se acumulen en su cabeza.
 - [Grupo de Usuarios Linux de la Laguna](https://gull.mx/)
 - [Gunnar Wolf](https://gwolf.org/)
-- [H4ckseed](https://h4ckseed.net/)
+- [Alex Callejas](https://www.rootzilopochtli.com/)
 - [Movimiento Libre](https://movimientolibre.com/)
 
 ## Distribuciones Linux 🐧
@@ -37,11 +37,12 @@ Aquí les dejo una lista de mis blogs y sitios favoritos.
 
 ## Sitios amigos 🥳
 
-- [Azul Celeste](https://azulceleste.mx/) Lagunera que escribe de tradiciones laguneras y tiene excelentes reseñas de películas.
-- [Centauro del Norte](https://centaurodelnorte.com/) Sitio revolucionario dedicado al General Francisco Villa.
 - [El blog de la Morsa](https://morsa.com.mx/) El blog de Manuel López Michelone (Morsa) un hombre reconocido en el mundo del ajedrez, aunque también escribe sobre otros temas.
+- [Levhita](https://levhita.net/) Argel Arias, desarrollador web y promotor de software libre.
+- [Patux](https://www.patux.net/) Blog de Geronimo Orozco sobre tecnología, software libre y filosofía.
 
 ## Otros Sitios
 
 - [Art of Manliness](https://www.artofmanliness.com/) El arte de la masculinidad, es un sitio que leo frecuentemente. En tiempos de tanta tecnología a veces no sabemos ni hacer un nudo.
 - [Instructables](https://www.instructables.com/) Proyectos "Hágalo usted mismo". De aquí he sacado buenas ideas.
+- [Tomás](https://usetomas.com/) Aplicación para gestión de finanzas personales y presupuestos.

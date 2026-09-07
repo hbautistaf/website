@@ -37,11 +37,12 @@ A list of my favorite blogs and websites.
 
 ## Friends 🥳
 
-- [Azul Celeste](https://azulceleste.mx/)
-- [Centauro del Norte](https://centaurodelnorte.com/)
 - [El blog de la Morsa](https://morsa.com.mx/)
+- [Levhita](https://levhita.net/) Argel Arias, web developer and free software advocate.
+- [Patux](https://www.patux.net/) Geronimo Orozco's blog on technology, open source software, and philosophy.
 
 ## Other Sites
 
 - [Art of Manliness](https://www.artofmanliness.com/)
 - [Instructables](https://www.instructables.com/)
+- [Tomás](https://usetomas.com/) Personal finance and budget management companion.
