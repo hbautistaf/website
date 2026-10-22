@@ -23,9 +23,7 @@ Pues este sábado 25 de junio será cuando liberen esta actualización de Debian
 
 Como podrán leer en el <a title="Debian Anounce" href="http://lists.debian.org/debian-stable-announce/2011/06/msg00000.html" target="_blank" rel="noopener">anuncio oficial</a> hay muchas correcciones de bugs para esta actualización de la distribución.
 
-[Debian Squeeze
-
-" data-image-caption="" data-large-file="/images/2011/debian-squeeze-two-454-1.jpg" class="aligncenter size-medium wp-image-603" title="Debian Squeeze" src="/images/2011/debian-squeeze-two-454-1.jpg" alt="Debian Squeeze" width="300" height="225" srcset="/images/2011/debian-squeeze-two-454-1.jpg 300w, /images/2011/debian-squeeze-two-454-1.jpg 333w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]
+![Debian Squeeze](/images/2011/debian-squeeze-two-454-1.jpg)
 
 Philip Kern hizo el anuncio el pasado domingo 19 de Junio de 2011. El inicio del anuncio es el siguiente:
 
@@ -57,8 +55,6 @@ De lo que leo estas correcciones serán bienvenidas para muchos de nosotros, en 
 > 
 > sun-java6 New upstream security update
 
-Escritorio KDE
-
-" data-image-caption="" data-large-file="/images/2011/simple-kde4-video-1.png" class="aligncenter size-medium wp-image-604" src="/images/2011/simple-kde4-video-1.png" alt="" width="300" height="169" srcset="/images/2011/simple-kde4-video-1.png 300w, /images/2011/simple-kde4-video-1.png 768w, /images/2011/simple-kde4-video-1.png 1024w, /images/2011/simple-kde4-video-1.png 1366w, /images/2011/simple-kde4-video-1.png 1296w" sizes="auto, (max-width: 300px) 100vw, 300px" />
+![Escritorio KDE](/images/2011/simple-kde4-video-1.png)
 
  [1]: /images/2011/debian-squeeze-two-454-1.jpg

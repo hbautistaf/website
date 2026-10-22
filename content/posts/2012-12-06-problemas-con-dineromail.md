@@ -20,9 +20,7 @@ aliases:
 - /personal/problemas-con-dineromail/
 ---
 
-Chat DineroMail Fail
-
-" data-image-caption="" data-large-file="/images/2012/Chat_DineroMail-1.png" class="alignleft size-medium wp-image-944" src="/images/2012/Chat_DineroMail-1.png" alt="" width="266" height="300" srcset="/images/2012/Chat_DineroMail-1.png 266w, /images/2012/Chat_DineroMail-1.png 572w" sizes="auto, (max-width: 266px) 100vw, 266px" />
+![Chat DineroMail Fail](/images/2012/Chat_DineroMail-1.png)
 
   Cada vez es más común que se hagan compras o transacciones "en la nube", usando desde los portales de los principales bancos en México, como el uso de servicios como <a title="Paypal" href="https://www.paypal.com/" target="_blank" rel="noopener">Paypal</a>.
 
@@ -40,17 +38,13 @@ Chat DineroMail Fail
 
   Después de darme de alta y seguir los pasos, en el panel de tu cuenta viene la opción de "Agregar fondos" pero fijándonos bien, aparece que el servicio está "**Temporalmente Suspendido**".
 
-Agregar Fondos Suspendido
-
-" data-image-caption="" data-large-file="/images/2012/Agregar_Fondos_Suspendido-1.png" class="aligncenter size-medium wp-image-943" src="/images/2012/Agregar_Fondos_Suspendido-1.png" alt="" width="300" height="155" srcset="/images/2012/Agregar_Fondos_Suspendido-1.png 300w, /images/2012/Agregar_Fondos_Suspendido-1.png 630w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
+![Agregar Fondos Suspendido](/images/2012/Agregar_Fondos_Suspendido-1.png) 
 
 Y pues ni modo, no hay forma de cómo hacer para agregar saldo a tu "ficha" :-/
 
   Pero vi que tienen un chat y que estaba en línea, así que contacté con su soporte y les pregunté que pasaba con eso. Una imágen les muestra la atención que recibí. Aunque claro, nunca me dijeron si esa opción alguna vez volverá a estar disponible. Mal por ellos.
 
-[Chat DineroMail Fail
-
-" data-image-caption="" data-large-file="/images/2012/Chat_DineroMail-1.png" class="aligncenter size-medium wp-image-944" title="Chat DineroMail Fail" src="/images/2012/Chat_DineroMail-1.png" alt="Chat DineroMail Fail" width="266" height="300" srcset="/images/2012/Chat_DineroMail-1.png 266w, /images/2012/Chat_DineroMail-1.png 572w" sizes="auto, (max-width: 266px) 100vw, 266px" />][1]
+![Chat DineroMail Fail](/images/2012/Chat_DineroMail-1.png)
 
 Así que es un gran #Fail para DineroMail que no tengan alguna otra opción.
 

@@ -14,8 +14,6 @@ aliases:
 - /fotos/tendedero-aereo/
 ---
 
-[Tendedero
-
-" data-image-caption="" data-large-file="/images/2010/dsc09107-1.jpg" class="aligncenter size-medium wp-image-259" title="Tendedero" src="/images/2010/dsc09107-1.jpg" alt="Tendedero" width="200" height="300" />][1]<a title="Carteles de anuncios" href="http://www.tablondeanuncios.com/carteles/" target="_blank">Carteles de anuncios</a>
+![Tendedero](/images/2010/dsc09107-1.jpg)<a title="Carteles de anuncios" href="http://www.tablondeanuncios.com/carteles/" target="_blank">Carteles de anuncios</a>
 
  [1]: /images/2010/dsc09107-1.jpg

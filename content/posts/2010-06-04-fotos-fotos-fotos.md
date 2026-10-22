@@ -37,9 +37,7 @@ Así pues invito a que me hagan llegar sugerencias y posibles manejadores de con
 
 Para muestra una foto que expresa la inmensa alegría que tuve al tomarla:
 
-[Parachico
-
-" data-image-caption="" data-large-file="/images/2011/Parachico.jpg" class="aligncenter size-medium wp-image-773" title="Parachico" src="/images/2011/Parachico.jpg" alt="Parachico" width="300" height="225" srcset="/images/2011/Parachico.jpg 300w, /images/2011/Parachico.jpg 768w, /images/2011/Parachico.jpg 1024w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]
+![Parachico](/images/2011/Parachico.jpg)
 
   
 

@@ -19,9 +19,7 @@ aliases:
 - /comos/apache-mysql-y-php5-en-debian/
 ---
 
-Logo Apache, Mysql y Php
-
-" data-image-caption="" data-large-file="/images/2011/apache_php_mysql_logo-1.jpg" class="size-medium wp-image-742 alignleft" src="/images/2011/apache_php_mysql_logo-1.jpg" alt="" width="300" height="265" srcset="/images/2011/apache_php_mysql_logo-1.jpg 300w, /images/2011/apache_php_mysql_logo-1.jpg 325w" sizes="auto, (max-width: 300px) 100vw, 300px" />Debido a que tengo que hacer algunas pruebas con plantillas y demás, me vi en la necesidad de instalar un entorno para hacer las pruebas correspondientes. En este caso necesitamos de tener instalado el servidor web **Apache**, **Mysql** y **Php5**.
+![Logo Apache, Mysql y Php](/images/2011/apache_php_mysql_logo-1.jpg)Debido a que tengo que hacer algunas pruebas con plantillas y demás, me vi en la necesidad de instalar un entorno para hacer las pruebas correspondientes. En este caso necesitamos de tener instalado el servidor web **Apache**, **Mysql** y **Php5**.
 
 Una vez que hayamos terminado, tendremos un servidor web + php + mysql.
 
@@ -93,9 +91,7 @@ libapache2-mod-php5
 
 Ahora toca el turno para el servidor de base de datos Mysql, el cliente y un programa para administrarlo de forma gráfica (mysql-admin).
 
-Pant_lamp2
-
-" data-image-caption="" data-large-file="/images/2011/Pant_lamp2-1.png" class="aligncenter size-medium wp-image-745" src="/images/2011/Pant_lamp2-1.png" alt="" width="300" height="176" srcset="/images/2011/Pant_lamp2-1.png 300w, /images/2011/Pant_lamp2-1.png 768w, /images/2011/Pant_lamp2-1.png 1024w, /images/2011/Pant_lamp2-1.png 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
+![Pant_lamp2](/images/2011/Pant_lamp2-1.png) 
 
 ```bash
 mysql-admin mysql-client-5.1 mysql-gui-tools-common mysql-query-browser{a} mysql-server mysql-server-5.1
@@ -103,11 +99,9 @@ mysql-admin mysql-client-5.1 mysql-gui-tools-common mysql-query-browser{a} mysql
 
 Una vez que se instale el paquete mysql-server, nos pedirá una contraseña para el usuario root de Mysql, la librería php5-mysql nos permitirá enlazar Mysql con Php y con eso tendremos ya listo lo necesario para comenzar a trabajar.
 
-Pant_lamp3
+![Pant_lamp3](/images/2011/Pant_lamp3-1.png)Mysql-admin
 
-" data-image-caption="" data-large-file="/images/2011/Pant_lamp3-1.png" class="alignnone size-medium wp-image-747" src="/images/2011/Pant_lamp3-1.png" alt="" width="300" height="176" srcset="/images/2011/Pant_lamp3-1.png 300w, /images/2011/Pant_lamp3-1.png 768w, /images/2011/Pant_lamp3-1.png 1024w, /images/2011/Pant_lamp3-1.png 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" />Mysql-admin
-
-" data-image-caption="" data-large-file="/images/2011/Pant_lamp6-1.png" class="alignnone size-medium wp-image-748" src="/images/2011/Pant_lamp6-1.png" alt="" width="300" height="250" srcset="/images/2011/Pant_lamp6-1.png 300w, /images/2011/Pant_lamp6-1.png 428w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
+![](/images/2011/Pant_lamp6-1.png) 
 
 Para verificar que la configuración básica y por defecto está funcionando bien, podemos crear un archivo llamado info.php o prueba.php que tenga por único contenido lo siguiente:
 

@@ -373,11 +373,7 @@ Complete!
 [root@B8GUsg ~]#
 ```
 
-[yum install certbot
-
-" data-image-caption="" data-large-file="/images/2018/yum-install-certbot.png" class="alignnone size-medium wp-image-1490" src="/images/2018/yum-install-certbot.png" alt="yum install certbot" width="300" height="157" srcset="/images/2018/yum-install-certbot.png 300w, /images/2018/yum-install-certbot.png 768w, /images/2018/yum-install-certbot.png 1024w, /images/2018/yum-install-certbot.png 1366w, /images/2018/yum-install-certbot.png 1296w" sizes="auto, (max-width: 300px) 100vw, 300px" />][2][certbot installed
-
-" data-image-caption="" data-large-file="/images/2018/certbot-installed.png" class="size-medium wp-image-1488 alignnone" src="/images/2018/certbot-installed.png" alt="certbot installed" width="300" height="157" srcset="/images/2018/certbot-installed.png 300w, /images/2018/certbot-installed.png 768w, /images/2018/certbot-installed.png 1024w, /images/2018/certbot-installed.png 1366w, /images/2018/certbot-installed.png 1296w" sizes="auto, (max-width: 300px) 100vw, 300px" />][3]
+![yum install certbot](/images/2018/yum-install-certbot.png)![certbot installed](/images/2018/certbot-installed.png)
 
  
 
@@ -482,9 +478,7 @@ Donating to EFF: https://eff.org/donate-le
 [root@B8GUsg ~]#
 ```
 
-[certbot domain
-
-" data-image-caption="" data-large-file="/images/2018/certbot-domain.png" class="aligncenter size-medium wp-image-1489" src="/images/2018/certbot-domain.png" alt="certbot domain" width="300" height="157" srcset="/images/2018/certbot-domain.png 300w, /images/2018/certbot-domain.png 768w, /images/2018/certbot-domain.png 1024w, /images/2018/certbot-domain.png 1366w, /images/2018/certbot-domain.png 1296w" sizes="auto, (max-width: 300px) 100vw, 300px" />][4]
+![certbot domain](/images/2018/certbot-domain.png)
 
  
 

@@ -18,9 +18,7 @@ aliases:
 
 Leyendo UbuntuForums me encuentro con un servidor con telnet que tiene la película Star Wars IV en ASCII y la verdad está bien curisoso..  me encantó..
 
-[ASCII Star Wars
-
-" data-image-caption="" data-large-file="/images/2011/Pant_StarWar-1.png" class="aligncenter size-medium wp-image-575" title="ASCII Star Wars" src="/images/2011/Pant_StarWar-1.png" alt="ASCII Star Wars" width="300" height="176" srcset="/images/2011/Pant_StarWar-1.png 300w, /images/2011/Pant_StarWar-1.png 768w, /images/2011/Pant_StarWar-1.png 1024w, /images/2011/Pant_StarWar-1.png 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]
+![ASCII Star Wars](/images/2011/Pant_StarWar-1.png)
 
 Lo único que tienen que hacer es desde una terminal escribir el siguiente comando:
 

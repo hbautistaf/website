@@ -35,9 +35,7 @@ Vamos a ver que existen diversas opciones, en este caso veremos algunas libres:
 
 Es una lector de e-book multiplataforma que actualmente esta pensado para Android, pero aún hay versiones para Linux, Windows y Mac entre otros, entre sus cualidades podemos destacar que es ligero y soporta smartphones, celulares un poco antiguos e incluso puede ser instalado en el Kindle.
 
-FBReader
-
-" data-image-caption="" data-large-file="/images/2012/Pant_FBReader-1.png" class="aligncenter size-medium wp-image-829" src="/images/2012/Pant_FBReader-1.png" alt="" width="300" height="238" srcset="/images/2012/Pant_FBReader-1.png 300w, /images/2012/Pant_FBReader-1.png 768w, /images/2012/Pant_FBReader-1.png 802w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
+![FBReader](/images/2012/Pant_FBReader-1.png) 
 
  
 
@@ -56,11 +54,7 @@ Entre los diversos formatos que soporta tenemos: **EPUB**, **MOBI**, **OPDS** y 
 
   Este es el otro programa multiplataforma para poder leer e-books. Soporta catálogos, el formato **EPUB** y también el formato **OPDS**.
 
-[Lucidor
-
-" data-image-caption="" data-large-file="/images/2012/lucidor-1-1.png" class="alignnone size-medium wp-image-830" title="Lucidor" src="/images/2012/lucidor-1-1.png" alt="Lucidor" width="300" height="200" srcset="/images/2012/lucidor-1-1.png 300w, /images/2012/lucidor-1-1.png 750w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1][Lucidor 2
-
-" data-image-caption="" data-large-file="/images/2012/lucidor-2-1.png" class="alignnone size-medium wp-image-831" title="Lucidor 2" src="/images/2012/lucidor-2-1.png" alt="Lucidor 2" width="300" height="200" srcset="/images/2012/lucidor-2-1.png 300w, /images/2012/lucidor-2-1.png 750w" sizes="auto, (max-width: 300px) 100vw, 300px" />][2]
+![Lucidor](/images/2012/lucidor-1-1.png)![Lucidor 2](/images/2012/lucidor-2-1.png)
 
 Lucidor puede ejecutarse sin problemas en **GNU/Linux**, **Windows** y **Mac OS X**.
 
@@ -79,11 +73,7 @@ Entre las cuales están:
   * <a title="Cool Reader Android" href="http://sourceforge.net/projects/crengine/files/CoolReader3/" target="_blank" rel="noopener">Android</a>
   * <a title="Cool Reader Symbian" href="http://sourceforge.net/projects/crengine/files/CoolReader3/" target="_blank" rel="noopener">Symbian port</a> (SmartReader)
 
-[Cool Reader 1
-
-" data-image-caption="" data-large-file="/images/2012/cr3qt-screenshot-read1-1.png" class="alignnone size-medium wp-image-833" title="Cool Reader 1" src="/images/2012/cr3qt-screenshot-read1-1.png" alt="Cool Reader 1" width="228" height="300" srcset="/images/2012/cr3qt-screenshot-read1-1.png 228w, /images/2012/cr3qt-screenshot-read1-1.png 373w" sizes="auto, (max-width: 228px) 100vw, 228px" />][3][Cool Reader 2
-
-" data-image-caption="" data-large-file="/images/2012/cr3qt-screenshot-read2-landscape-1.png" class="alignnone size-medium wp-image-834" title="Cool Reader 2" src="/images/2012/cr3qt-screenshot-read2-landscape-1.png" alt="Cool Reader 2" width="300" height="201" srcset="/images/2012/cr3qt-screenshot-read2-landscape-1.png 300w, /images/2012/cr3qt-screenshot-read2-landscape-1.png 591w" sizes="auto, (max-width: 300px) 100vw, 300px" />][4]
+![Cool Reader 1](/images/2012/cr3qt-screenshot-read1-1.png)![Cool Reader 2](/images/2012/cr3qt-screenshot-read2-landscape-1.png)
 
 ## Calibre
 
@@ -93,9 +83,7 @@ El que a mi parecer tiene bastante terreno ganado 🙂
 
   Calibre es una aplicación libre para la gestión de bibliotecas desarrollado por usuarios de e-books para usuarios de e-books.
 
-  Calibre
-
-" data-image-caption="" data-large-file="/images/2012/Calibre_2-1.png" class="aligncenter size-medium wp-image-835" src="/images/2012/Calibre_2-1.png" alt="" width="300" height="262" srcset="/images/2012/Calibre_2-1.png 300w, /images/2012/Calibre_2-1.png 588w" sizes="auto, (max-width: 300px) 100vw, 300px" />
+![  Calibre](/images/2012/Calibre_2-1.png)
 
   Es un programa completo que nos permite gestionar nuestra colección de libros electrónicos (e-books). Pudiendo realizar diferentes acciones que nos permitirán con un solo programa obtener un control total en nuestros libros tanto a la hora de administrarlos como si queremos exportarlos, convertirlos, etc… Además de soportar múltiples lectores con los que sincronizar los libros.
 
@@ -109,9 +97,7 @@ El que a mi parecer tiene bastante terreno ganado 🙂
 
 ¿Qué tipo de ordenación permite? Pues casi que todas las posibles: por título, autor, fecha en que se agrego a la biblioteca, fecha de publicación, tamaño, puntuación,… Esto permitirá ordenar los libros a gusto de cualquiera.
 
-Calibre
-
-" data-image-caption="" data-large-file="/images/2012/Calibre-0_8_0-main-fedora-1.png" class="aligncenter size-medium wp-image-837" src="/images/2012/Calibre-0_8_0-main-fedora-1.png" alt="" width="300" height="232" srcset="/images/2012/Calibre-0_8_0-main-fedora-1.png 300w, /images/2012/Calibre-0_8_0-main-fedora-1.png 768w, /images/2012/Calibre-0_8_0-main-fedora-1.png 1024w, /images/2012/Calibre-0_8_0-main-fedora-1.png 1096w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
+![Calibre](/images/2012/Calibre-0_8_0-main-fedora-1.png) 
 
   Algo que tiene es la posibilidad que permite Calibre de añadir la información descargada de internet a partir del título, autor o código ISBN.
 

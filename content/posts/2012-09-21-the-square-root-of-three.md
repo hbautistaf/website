@@ -14,20 +14,37 @@ aliases:
 - /personal/the-square-root-of-three/
 ---
 
-**I’m sure that I will always be**<br /> ** A lonely number like root three**
+I’m sure that I will always be<br />
+A lonely number like root three
 
-  **The three is all that’s good and right,**<br /> ** Why must my three keep out of sight**<br /> ** Beneath the vicious square root sign,**<br /> ** I wish instead I were a nine**
+The three is all that’s good and right,<br />
+Why must my three keep out of sight<br />
+Beneath the vicious square root sign,<br />
+I wish instead I were a nine
 
-  **For nine could thwart this evil trick,**<br /> ** with just some quick arithmetic**
+For nine could thwart this evil trick,<br />
+with just some quick arithmetic
 
-  **I know I’ll never see the sun, as 1.7321**<br /> ** Such is my reality, a sad irrationality**
+I know I’ll never see the sun, as 1.7321<br />
+Such is my reality, a sad irrationality
 
-  **When hark! What is this I see,**<br /> ** Another square root of a three**
+When hark! What is this I see,<br />
+Another square root of a three
 
-  **As quietly co-waltzing by,**<br /> ** Together now we multiply**<br /> ** To form a number we prefer,**<br /> ** Rejoicing as an integer**
+As quietly co-waltzing by,<br />
+Together now we multiply<br />
+To form a number we prefer,<br />
+Rejoicing as an integer
 
-  **We break free from our mortal bonds**<br /> ** With the wave of magic wands**
+We break free from our mortal bonds<br />
+With the wave of magic wands
 
-  **Our square root signs become unglued**<br /> ** Your love for me has been renewed**
+Our square root signs become unglued<br />
+Your love for me has been renewed
 
-I saw this poem in the movie Harold & Kumar
+---
+
+I saw this poem in the movie *Harold & Kumar*.
+
+- **Referencia del poema:** [The Square Root of Three - David Feinberg (AllPoetry)](https://allpoetry.com/poem/4721391-The-Square-Root-of-Three-written-by-David-Feinberg-by-jamesl)
+- **Extracto de la película:** [Harold & Kumar - The Square root of three (YouTube)](https://www.youtube.com/watch?v=VC7Z284HwD0)

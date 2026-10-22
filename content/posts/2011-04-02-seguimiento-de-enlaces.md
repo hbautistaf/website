@@ -23,9 +23,7 @@ Básicamente es un sitio donde estaba la información de modems, incluídos los 
 
 En fin, el caso es que puse un tuit donde indicaba que no daba con un enlace y <a title="@nasheliux" href="http://twitter.com/nasheliux" target="_blank" rel="noopener">@nasheliux</a> me <a title="@nasheliux" href="http://bit.ly/fxO3JV" target="_blank" rel="noopener">contestó</a> <a title="Trunk.ly" href="http://bit.ly/gGOvGQ" target="_blank" rel="noopener">indicándome</a> de un servicio llamada <a title="Trunk.ly" href="http://trunk.ly/" target="_blank" rel="noopener">Trunk.ly</a>
 
-[Trunk.ly
-
-" data-image-caption="" data-large-file="/images/2011/trunkly-1.png" class="aligncenter size-medium wp-image-506" src="/images/2011/trunkly-1.png" alt="" width="300" height="187" srcset="/images/2011/trunkly-1.png 300w, /images/2011/trunkly-1.png 768w, /images/2011/trunkly-1.png 854w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]  
+![Trunk.ly](/images/2011/trunkly-1.png)  
 ¿Que es <a title="Trunk.ly" href="http://trunk.ly/" target="_blank" rel="noopener">Trunk.ly</a>? La definición en su página web
 
 > "Can't find a link you've shared?

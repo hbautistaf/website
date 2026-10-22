@@ -38,25 +38,19 @@ Volvemos a estar más o menos como al principio, pero con más datos y con la ce
 Entonces reiniciemos completamente el sistema para ver si algo pasó.  
 Ya a dos segundos de hacerlo se me ocurre checar la configuración del teclado en **Sistema** -> **Preferencias** -> **Teclado**
 
-[Configurar teclado
-
-" data-image-caption="" data-large-file="/images/2011/Pant_teclado1.png" class="aligncenter size-medium wp-image-751" title="Configurar teclado" src="/images/2011/Pant_teclado1.png" alt="Configurar teclado" width="300" height="242" />][1]
+![Configurar teclado](/images/2011/Pant_teclado1.png)
 
  
 
 Y luego le dí­ en **Distribuciones**
 
-[Configurando distribuciones de teclado
-
-" data-image-caption="" data-large-file="/images/2011/Pant_teclado2.png" class="aligncenter size-medium wp-image-752" title="Configurando distribuciones de teclado" src="/images/2011/Pant_teclado2.png" alt="Configurando distribuciones de teclado" width="300" height="250" />][2]
+![Configurando distribuciones de teclado](/images/2011/Pant_teclado2.png)
 
  
 
 Pues dije le modificaré al "Microsoft Natural" y reiniciaré el entorno gráfico. Y así­ lo hice, pero nada ocurrió, entonces decidí­ dejarlo como estaba
 
-[Configurando distribuciones de teclado
-
-" data-image-caption="" data-large-file="/images/2011/Pant_teclado2.png" class="aligncenter size-medium wp-image-752" title="Configurando distribuciones de teclado" src="/images/2011/Pant_teclado2.png" alt="Configurando distribuciones de teclado" width="300" height="250" />][2]
+![Configurando distribuciones de teclado](/images/2011/Pant_teclado2.png)
 
  
 
@@ -80,9 +74,7 @@ Luego de ese mensaje vi este otro.
 
 Entonces volví­ a abrir las preferencias del teclado y vi que estaba así­.
 
-[Teclas del ratón
-
-" data-image-caption="" data-large-file="/images/2011/Pant_teclado3.png" class="aligncenter size-medium wp-image-753" title="Teclas del ratón" src="/images/2011/Pant_teclado3.png" alt="Teclas del ratón" width="300" height="242" />][4]
+![Teclas del ratón](/images/2011/Pant_teclado3.png)
 
  
 
@@ -90,9 +82,7 @@ Bastó con desactivar esa opción para que quedará así­ y con eso se solucion
 
  
 
-[Teclas del ratón 2
-
-" data-image-caption="" data-large-file="/images/2011/Pant_teclado4.png" class="aligncenter size-medium wp-image-754" title="Teclas del ratón 2" src="/images/2011/Pant_teclado4.png" alt="Teclas del ratón 2" width="300" height="242" />][5]
+![Teclas del ratón 2](/images/2011/Pant_teclado4.png)
 
 A final de cuentas el asunto era un tanto simple, pero ya ven la paranoia a veces resulta infructuosa 😡
 

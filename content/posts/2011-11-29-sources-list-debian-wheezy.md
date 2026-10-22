@@ -20,9 +20,7 @@ aliases:
 
 Actualmente me encuentro usando Debian Wheezy (rama testing/pruebas) y este es mi actual sources.list
 
-Sources.list Wheezy
-
-" data-image-caption="" data-large-file="/images/2011/Pant_sources_wheezy-1.png" class="aligncenter size-medium wp-image-790" src="/images/2011/Pant_sources_wheezy-1.png" alt="" width="300" height="173" srcset="/images/2011/Pant_sources_wheezy-1.png 300w, /images/2011/Pant_sources_wheezy-1.png 768w, /images/2011/Pant_sources_wheezy-1.png 1024w, /images/2011/Pant_sources_wheezy-1.png 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
+![Sources.list Wheezy](/images/2011/Pant_sources_wheezy-1.png) 
 
 Ahora bien, vamos a editar nuestro sources.list
 

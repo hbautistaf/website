@@ -19,9 +19,7 @@ aliases:
 - /comos/desinstalar-skimmer/
 ---
 
-skimmer
-
-" data-image-caption="" data-large-file="/images/2011/skimmer-1.jpg" class="aligncenter size-medium wp-image-815" src="/images/2011/skimmer-1.jpg" alt="" width="300" height="168" srcset="/images/2011/skimmer-1.jpg 300w, /images/2011/skimmer-1.jpg 768w, /images/2011/skimmer-1.jpg 950w" sizes="auto, (max-width: 300px) 100vw, 300px" />
+![skimmer](/images/2011/skimmer-1.jpg)
 
   Pues hace un tiempo instalé Skimmer (http://www.fallon.com/skimmer/) para compartir fotos de flickr (principalmente) en un entorno de microblogging, como Twitter. Al menos recuerdo que por esa razón instalé tal aplicación, aunque al parecer de acuerdo al sitio oficial, se puede leer lo siguiente:
 

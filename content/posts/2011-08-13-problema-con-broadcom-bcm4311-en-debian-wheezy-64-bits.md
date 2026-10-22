@@ -18,9 +18,7 @@ aliases:
 - /linux/problema-con-broadcom-bcm4311-en-debian-wheezy-64-bits/
 ---
 
-Broadcom
-
-" data-image-caption="" data-large-file="/images/2011/Broadcom-1.jpg" class="size-medium wp-image-701 alignleft" src="/images/2011/Broadcom-1.jpg" alt="" width="300" height="161" srcset="/images/2011/Broadcom-1.jpg 300w, /images/2011/Broadcom-1.jpg 480w" sizes="auto, (max-width: 300px) 100vw, 300px" />
+![Broadcom](/images/2011/Broadcom-1.jpg)
 
   En el mes de julio se celebró el Campus Party México 2011 y aprovechando la velocidad de internet con la que se cuenta allá, me decidí a actualizar mi <a title="Debian" href="http://www.debian.org/index.es.html" target="_blank" rel="noopener">Debian</a> <a title="Debian Squeeze" href="http://www.debian.org/releases/stable/" target="_blank" rel="noopener">Squeeze</a> a <a title="Debian Wheezy" href="http://www.debian.org/releases/testing/" target="_blank" rel="noopener">Wheezy</a> (de Estable a Testing).
 
@@ -69,9 +67,7 @@ En mi caso cuando hice el upgrade de **Squeeze** a **Wheezy**, me desinstaló el
 root@luke:~# aptitude install network-manager-gnome
 ```
 
-[Network Manager
-
-" data-image-caption="" data-large-file="/images/2011/network-manager-1.png" class="aligncenter size-full wp-image-700" title="Network Manager" src="/images/2011/network-manager-1.png" alt="Network Manager" width="264" height="207" />][1]
+![Network Manager](/images/2011/network-manager-1.png)
 
 Y reinicié el equipo quedando nuevamente todo funcionando bien y bonito ñ_ñ
 

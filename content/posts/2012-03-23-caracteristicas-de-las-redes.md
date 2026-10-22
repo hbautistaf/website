@@ -18,9 +18,7 @@ aliases:
 - /linux/caracteristicas-de-las-redes/
 ---
 
-Redes
-
-" data-image-caption="" data-large-file="/images/2012/redes-1.jpg" class="alignleft size-medium wp-image-887" src="/images/2012/redes-1.jpg" alt="" width="300" height="209" srcset="/images/2012/redes-1.jpg 300w, /images/2012/redes-1.jpg 467w" sizes="auto, (max-width: 300px) 100vw, 300px" />Las redes de computadoras nos permiten interactuar entre 2 o más dispositivos entre sí a través de un medio físico que se conoce como "cable" o también puede ser por medios inalámbricos.
+![Redes](/images/2012/redes-1.jpg)Las redes de computadoras nos permiten interactuar entre 2 o más dispositivos entre sí a través de un medio físico que se conoce como "cable" o también puede ser por medios inalámbricos.
 
   Principalmente usados para la compartición de recursos.
 
@@ -34,9 +32,7 @@ Redes
 
   **Servicios de aplicación**: Así como se pueden compartir archivos o carpetas en una red, se pueden comparti aplicaciones, las más comunes son aplicativos de contabilidad. Si se requiere por ejemplo de instalar algún programa en diversas computadoras de la red, en lugar de ir colocando el CD-ROM en cada una, se puede tener una carpeta con el contenido del mismo y ejecutar el instalador desde cada equipo.
 
-  LAN
-
-" data-image-caption="" data-large-file="/images/2012/lan-1.png" class="size-medium wp-image-888 alignright" src="/images/2012/lan-1.png" alt="" width="300" height="290" srcset="/images/2012/lan-1.png 300w, /images/2012/lan-1.png 320w" sizes="auto, (max-width: 300px) 100vw, 300px" />
+![  LAN](/images/2012/lan-1.png)
 
   **Correo electrónico**: Es un recurso bastante valioso y que incluso muchas organizaciones no lo aprovechan al máximo. No solamente es útil para las comunicaciones internas sino también para las externas.
 

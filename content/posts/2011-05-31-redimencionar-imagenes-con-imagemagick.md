@@ -80,9 +80,7 @@ ls -l pt/
 
 Aquí ya no importaba la extensión y a diferencia de los dos primeros, en este caso lo que hacía era reducir la calidad al 44% de la imagen original, crear un subdirectorio dentro del directorio en donde se ejecutase el script y añadir la marca de agua "hbautista.usoli.org" en las fotografías y poniendo las reducidas y con la marca de agua en el subdirectorio "pt".
 
-[foto_coapilla
-
-" data-image-caption="" data-large-file="/images/2011/foto_coapilla-1.jpg" class="aligncenter size-medium wp-image-579" title="foto_coapilla" src="/images/2011/foto_coapilla-1.jpg" alt="foto_coapilla" width="300" height="225" srcset="/images/2011/foto_coapilla-1.jpg 300w, /images/2011/foto_coapilla-1.jpg 768w, /images/2011/foto_coapilla-1.jpg 1024w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]
+![foto_coapilla](/images/2011/foto_coapilla-1.jpg)
 
  
 
@@ -98,7 +96,7 @@ Luego hice una mezcla de los primeros scripts con el último para que reduciera 
 # Pequeño script que cambia la resolución de la imagenes del tamaño original a 800*600. Usa ImageMagick
 # Además de reducir la calidad de la imagen resultante.
 # Realizado por: Hbautista, hbautista@usoli.org
-# http://blog.hbautista.com/linux/redimencionar-imagenes-con-imagemagick/
+# https://hbautista.com/p/redimencionar-imagenes-con-imagemagick/
 
 # Primero nos aseguramos que la extensión esté en minúsculas y creamos fotoblog
 rename 's/.JPG/.jpg/' *.JPG
@@ -128,15 +126,11 @@ Una vez que haya terminado ese proceso que depende de cuántas fotografías est�
 
 ## ¿Cómo usar el script?
 
-foto_chiapatuit
-
-" data-image-caption="" data-large-file="/images/2011/foto_chiapatuit-1.jpg" class="aligncenter size-medium wp-image-580" src="/images/2011/foto_chiapatuit-1.jpg" alt="" width="300" height="230" srcset="/images/2011/foto_chiapatuit-1.jpg 300w, /images/2011/foto_chiapatuit-1.jpg 768w, /images/2011/foto_chiapatuit-1.jpg 1024w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
+![foto_chiapatuit](/images/2011/foto_chiapatuit-1.jpg) 
 
 Copiar el contenido del script final (blogfoto) en tu editor de texto favorito y adecuarlo a tus necesidades, es decir cambiar el nombre del subdirectorio, el tipo de letra o cambiar el texto de la marca de agua y guardarlo con el nombre de "loquesea.sh" para este ejemplo lo dejaré con el nombre original **blogfoto.sh** y lo dejaré en el directorio raíz de mi /home para luego como root copiarlo a /usr/local/bin y darle los respectivos permisos de ejecución:
 
-Pant_script_foto
-
-" data-image-caption="" data-large-file="/images/2011/Pant_script_foto-1.png" class="aligncenter size-medium wp-image-582" src="/images/2011/Pant_script_foto-1.png" alt="" width="300" height="147" srcset="/images/2011/Pant_script_foto-1.png 300w, /images/2011/Pant_script_foto-1.png 768w, /images/2011/Pant_script_foto-1.png 944w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
+![Pant_script_foto](/images/2011/Pant_script_foto-1.png) 
 
 ```bash
 root@luke:/home/hbautista# cp blogfoto.sh /usr/local/bin/
@@ -146,9 +140,7 @@ root@luke:/home/hbautista#
 
 Luego con tu usuario normal ubicarte en el directorio que tiene las fotos y ejecutar el script:
 
-Pant_scriptfoto2
-
-" data-image-caption="" data-large-file="/images/2011/Pant_scriptfoto2-1.png" class="aligncenter size-medium wp-image-583" src="/images/2011/Pant_scriptfoto2-1.png" alt="" width="300" height="147" srcset="/images/2011/Pant_scriptfoto2-1.png 300w, /images/2011/Pant_scriptfoto2-1.png 768w, /images/2011/Pant_scriptfoto2-1.png 944w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
+![Pant_scriptfoto2](/images/2011/Pant_scriptfoto2-1.png) 
 
 ```bash
 hbautista@luke:~$ cd Imágenes/Taller_Foto/
@@ -161,9 +153,7 @@ hbautista@luke:~/Imágenes/Taller_Foto$
 
 El resultado se ve como esto:
 
-[Luces
-
-" data-image-caption="" data-large-file="/images/2011/foto_dsc07862-1.jpg" class="aligncenter size-medium wp-image-581" title="Luces" src="/images/2011/foto_dsc07862-1.jpg" alt="Luces" width="300" height="201" srcset="/images/2011/foto_dsc07862-1.jpg 300w, /images/2011/foto_dsc07862-1.jpg 768w, /images/2011/foto_dsc07862-1.jpg 800w" sizes="auto, (max-width: 300px) 100vw, 300px" />][2]
+![Luces](/images/2011/foto_dsc07862-1.jpg)
 
 Espero que les sirva
 

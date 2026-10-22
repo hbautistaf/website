@@ -29,9 +29,7 @@ He instalado un servidor casero con Debian Squeeze, y como tal, sólo se ha inst
 
   Resulta que después de dicha instalación (aproximadamente 1 mes después) me surge la necesidad de tener una fuente de audio "permanente" para el conmutador de la empresa, es decir, el clásico sonido de música en espera cambiarlo por un archivo de audio cualquiera.
 
- [Alsamixer
-
-" data-image-caption="" data-large-file="/images/2012/alsaequal-1.png" class="aligncenter size-medium wp-image-930" title="Alsamixer" src="/images/2012/alsaequal-1.png" alt="Alsamixer" width="300" height="208" srcset="/images/2012/alsaequal-1.png 300w, /images/2012/alsaequal-1.png 768w, /images/2012/alsaequal-1.png 1014w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]
+ ![Alsamixer](/images/2012/alsaequal-1.png)
 
   En ese sentido, hay dos equipos que actuán de servidores en el site donde se encuentra el conmutador, pero sólo el equipo con Debian tiene tarjeta de audio, así que el otro quedó descartado.
 
@@ -78,9 +76,7 @@ Bastaría realizar el paso siguiente para ya dejar funcionando la tarjeta, y no 
 # alsaconf
 ```
 
-Sonido en Debian
-
-" data-image-caption="" data-large-file="/images/2012/debian211-1.png" class="size-medium wp-image-931 aligncenter" src="/images/2012/debian211-1.png" alt="" width="300" height="221" srcset="/images/2012/debian211-1.png 300w, /images/2012/debian211-1.png 768w, /images/2012/debian211-1.png 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
+![Sonido en Debian](/images/2012/debian211-1.png) 
 
 El problema viene cuando vemos en la <a title="Wiki Alsa Debian" href="http://wiki.debian.org/ALSA" target="_blank" rel="noopener">Wiki de ALSA en Debian </a>lo siguiente:
 

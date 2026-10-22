@@ -14,11 +14,11 @@ aliases:
 - /linux/recuperando-grub2/
 ---
 
-Ya tengo un <a title="Recuperando Grub" href="http://blog.hbautista.com/linux/recuperando-grub/" target="_blank">artículo para poder recuperar GRUB</a> en este blog, pero está orientado al Grub 1.x y hoy tuve una laptop con una instalación de Ubuntu 9.10 y que al reinstalar el Hasefroch nomás se perdió y pues aunque la persona estuvo tratando de poder recuperar Grub, la mayoría de los enlaces que consultó y aplicó nomás no le funcionaron porque estaban enfocados a esa versión 1.x, pero Ubuntu 9.10, Debian Squeeze y probablemente más distribuciones están usando actualmente GRUB 2.x y obviamente la forma de funcionar cambió. 🙂
+Ya tengo un <a title="Recuperando Grub" href="https://hbautista.com/p/recuperando-grub/" target="_blank">artículo para poder recuperar GRUB</a> en este blog, pero está orientado al Grub 1.x y hoy tuve una laptop con una instalación de Ubuntu 9.10 y que al reinstalar el Hasefroch nomás se perdió y pues aunque la persona estuvo tratando de poder recuperar Grub, la mayoría de los enlaces que consultó y aplicó nomás no le funcionaron porque estaban enfocados a esa versión 1.x, pero Ubuntu 9.10, Debian Squeeze y probablemente más distribuciones están usando actualmente GRUB 2.x y obviamente la forma de funcionar cambió. 🙂
 
 <!--more-->Así que vamos a ver la forma rápida de cómo hacer para recuperar Grub2 😀
 
-Al igual que en el <a title="Recuperando Grub" href="http://blog.hbautista.com/linux/recuperando-grub/" target="_blank">artículo anterior</a>, precisaremos de una distribución Live, como Ubuntu o la que ustedes prefieran e iniciar desde ahí.
+Al igual que en el <a title="Recuperando Grub" href="https://hbautista.com/p/recuperando-grub/" target="_blank">artículo anterior</a>, precisaremos de una distribución Live, como Ubuntu o la que ustedes prefieran e iniciar desde ahí.
 
 Como menciono lo que se hizo fue iniciar con el cd de Ubuntu, escoger el idioma español y la opción de “Probar sin instalar” (o algo así)
 

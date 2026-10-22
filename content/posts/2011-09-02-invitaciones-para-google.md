@@ -16,9 +16,7 @@ aliases:
 
 Google+ es la alternativa por parte de Google a una red social. Desde que salió como beta privada, muchos usuarios quisieron tener una invitación para poder estar ahí, lo que provocó que se cerraran las invitaciones durante un tiempo.
 
-[google-plus
-
-" data-image-caption="" data-large-file="/images/2011/google-plus-1.jpg" class="aligncenter size-medium wp-image-717" title="google-plus" src="/images/2011/google-plus-1.jpg" alt="google-plus" width="300" height="150" srcset="/images/2011/google-plus-1.jpg 300w, /images/2011/google-plus-1.jpg 527w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]
+![google-plus](/images/2011/google-plus-1.jpg)
 
 Aún sigue estando como beta privada pero ya están las invitaciones de nuevo.
 

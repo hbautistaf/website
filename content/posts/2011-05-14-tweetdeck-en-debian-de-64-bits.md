@@ -37,37 +37,25 @@ chmod +x AdobeAIRInstaller.bin
 ./AdobeAIRInstaller.bin
 ```
 
-[Adobe Air
-
-" data-image-caption="" data-large-file="/images/2011/Pant_Adobeair-1.png" class="alignnone wp-image-527 size-medium" src="/images/2011/Pant_Adobeair-1.png" alt="" width="300" height="188" srcset="/images/2011/Pant_Adobeair-1.png 300w, /images/2011/Pant_Adobeair-1.png 768w, /images/2011/Pant_Adobeair-1.png 1024w, /images/2011/Pant_Adobeair-1.png 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1][Adobe AIR 2
-
-" data-image-caption="" data-large-file="/images/2011/Pant_Adobeair2-1.png" class="alignnone size-full wp-image-529" src="/images/2011/Pant_Adobeair2-1.png" alt="" width="480" height="238" srcset="/images/2011/Pant_Adobeair2-1.png 480w, /images/2011/Pant_Adobeair2-1.png 300w" sizes="auto, (max-width: 480px) 100vw, 480px" />][2]
+![Adobe Air](/images/2011/Pant_Adobeair-1.png)![Adobe AIR 2](/images/2011/Pant_Adobeair2-1.png)
 
   Con eso debería bastar para instalar Adobe Air, pero como mencioné en un principio, eso solo les provee de la plataforma para luego instalar diversas aplicaciones entre ellas la que me interesa es Tweetdeck, el cual es un cliente de escritorio multiplataforma para uso de redes sociales como Twitter, Facebook, Google Buzz, entre otras.
 
   Ahora vamos a instalar el cliente <a title="Tweetdeck" href="http://www.tweetdeck.com/desktop/" target="_blank" rel="noopener">TweetDeck</a>, para ello iremos a la página web y procedemos a dar clic en Instalar lo cual nos abrirá una nueva ventana como la siguiente en donde daremos clic en "Abrir"
 
-[Tweetdeck 1
+![Tweetdeck 1](/images/2011/twetdeck-1.png)Veremos lo siguiente:
 
-" data-image-caption="" data-large-file="/images/2011/twetdeck-1.png" class="aligncenter size-medium wp-image-528" title="Tweetdeck 1" src="/images/2011/twetdeck-1.png" alt="Tweetdeck 1" width="300" height="141" srcset="/images/2011/twetdeck-1.png 300w, /images/2011/twetdeck-1.png 490w" sizes="auto, (max-width: 300px) 100vw, 300px" />][3]Veremos lo siguiente:
-
-[Error Tweetdeck 2
-
-" data-image-caption="" data-large-file="/images/2011/Pant_error_tweet2-1.png" class="wp-image-532 size-medium aligncenter" src="/images/2011/Pant_error_tweet2-1.png" alt="" width="300" height="142" srcset="/images/2011/Pant_error_tweet2-1.png 300w, /images/2011/Pant_error_tweet2-1.png 768w, /images/2011/Pant_error_tweet2-1.png 1024w, /images/2011/Pant_error_tweet2-1.png 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" />][4]
+![Error Tweetdeck 2](/images/2011/Pant_error_tweet2-1.png)
 
 Luego le damos clic en Instalar y seguir los pasos y finalmente lo tendremos instalado.
 
 Ahora bien, cuando intentan iniciar probablemente se encuentren con esta pantalla donde les indica que ha ocurrido un error.
 
-[Error Tweetdeck 1
-
-" data-image-caption="" data-large-file="/images/2011/Pant_eror_twwet1-1.png" class="aligncenter size-medium wp-image-531" src="/images/2011/Pant_eror_twwet1-1.png" alt="" width="300" height="142" srcset="/images/2011/Pant_eror_twwet1-1.png 300w, /images/2011/Pant_eror_twwet1-1.png 768w, /images/2011/Pant_eror_twwet1-1.png 1024w, /images/2011/Pant_eror_twwet1-1.png 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" />][5]
+![Error Tweetdeck 1](/images/2011/Pant_eror_twwet1-1.png)
 
 En mi caso estuve viendo el porqué de ese error y obtuve este otro pantallazo:
 
-[Error Tweetdeck 2
-
-" data-image-caption="" data-large-file="/images/2011/Pant_error_tweet2-1.png" class="aligncenter size-medium wp-image-532" src="/images/2011/Pant_error_tweet2-1.png" alt="" width="300" height="142" srcset="/images/2011/Pant_error_tweet2-1.png 300w, /images/2011/Pant_error_tweet2-1.png 768w, /images/2011/Pant_error_tweet2-1.png 1024w, /images/2011/Pant_error_tweet2-1.png 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" />][4]
+![Error Tweetdeck 2](/images/2011/Pant_error_tweet2-1.png)
 
   Ahora bien, para poder solucionarlo se tiene que hacer algo así como una chapuza. Es decir, hay pasos que debemos hacer de forma manual en la consola, shell o terminal.
 
@@ -94,9 +82,7 @@ root@luke:/home/hbautista/Descargas/tuitdik# cp libgnome-keyring0_2.30.1-1_i386/
 
 Y listo, con estos sencillos pasos habremos por fin de resolver el detalle de poder usar este programa y poder twittear a gusto.
 
-[Pantalla Tweetdeck
-
-" data-image-caption="" data-large-file="/images/2011/features_home_pc-1.png" class="aligncenter size-medium wp-image-533" title="Pantalla Tweetdeck" src="/images/2011/features_home_pc-1.png" alt="Pantalla Tweetdeck" width="300" height="241" srcset="/images/2011/features_home_pc-1.png 300w, /images/2011/features_home_pc-1.png 620w" sizes="auto, (max-width: 300px) 100vw, 300px" />][6]
+![Pantalla Tweetdeck](/images/2011/features_home_pc-1.png)
 
  [1]: /images/2011/Pant_Adobeair-1.png
  [2]: /images/2011/Pant_Adobeair2-1.png

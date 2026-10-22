@@ -17,9 +17,7 @@ aliases:
 - /comos/iphone-se-ha-caido-al-agua/
 ---
 
-iPhone
-
-" data-image-caption="" data-large-file="/images/2011/iphone3g-1.jpg" class="size-medium wp-image-729 alignleft" src="/images/2011/iphone3g-1.jpg" alt="" width="250" height="300" srcset="/images/2011/iphone3g-1.jpg 250w, /images/2011/iphone3g-1.jpg 570w" sizes="auto, (max-width: 250px) 100vw, 250px" />Sucede que a más de uno le puede llegar a pasar que su celular o smartphone por diversas circunstancias, y en un momento de descuido éste puede escaparse de nuestras manos y terminar en el suelo.
+![iPhone](/images/2011/iphone3g-1.jpg)Sucede que a más de uno le puede llegar a pasar que su celular o smartphone por diversas circunstancias, y en un momento de descuido éste puede escaparse de nuestras manos y terminar en el suelo.
 
 O en el peor de los casos, en un charco de agua, o caer en un río, alberca o con la atracción del momento, alguna calle inundada :-p
 

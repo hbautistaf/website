@@ -23,9 +23,7 @@ Pues para aquellos que cuenten con una tarjeta inalámbrica **Broadcom** **4311*
 
 En mi caso ya que tengo una tarjeta broadcom 4311 como podemos ver acá y uso Debian (^_^)
 
-[lspci Broadcom 43xx
-
-" data-image-caption="" data-large-file="/images/2011/Pant_lspci.png" class="aligncenter size-medium wp-image-771" title="lspci Broadcom 43xx" src="/images/2011/Pant_lspci.png" alt="lspci Broadcom 43xx" width="300" height="174" srcset="/images/2011/Pant_lspci.png 300w, /images/2011/Pant_lspci.png 768w, /images/2011/Pant_lspci.png 1024w, /images/2011/Pant_lspci.png 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]
+![lspci Broadcom 43xx](/images/2011/Pant_lspci.png)
 
 ```bash
 hbautista@luke:~$  lspci |grep Network

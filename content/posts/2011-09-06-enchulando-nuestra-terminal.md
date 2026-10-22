@@ -20,9 +20,7 @@ aliases:
 - /comos/enchulando-nuestra-terminal/
 ---
 
-Bash_demo
-
-" data-image-caption="" data-large-file="/images/2011/Bash_demo-1.png" class="aligncenter size-medium wp-image-721" src="/images/2011/Bash_demo-1.png" alt="" width="279" height="300" srcset="/images/2011/Bash_demo-1.png 279w, /images/2011/Bash_demo-1.png 564w" sizes="auto, (max-width: 279px) 100vw, 279px" />
+![Bash_demo](/images/2011/Bash_demo-1.png)
 
   Pues hace un tiempo, <a title="Picando Código" href="http://picandocodigo.net/2009/personalizando-el-prompt-de-bash-en-debian/" target="_blank" rel="noopener">había encontrado</a> una bonita forma de poner el logo de <span style="color: #ff0000;">**Debian**</span> en mi perfil de **bash** (~/.bashrc) y me había gustado.
 
@@ -101,15 +99,11 @@ fortune -a
 echo " --- "
 ```
 
-Pant_ebashrc
-
-" data-image-caption="" data-large-file="/images/2011/Pant_ebashrc-1.png" class="aligncenter size-medium wp-image-723" src="/images/2011/Pant_ebashrc-1.png" alt="" width="300" height="176" srcset="/images/2011/Pant_ebashrc-1.png 300w, /images/2011/Pant_ebashrc-1.png 768w, /images/2011/Pant_ebashrc-1.png 1024w, /images/2011/Pant_ebashrc-1.png 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
+![Pant_ebashrc](/images/2011/Pant_ebashrc-1.png) 
 
 Lo guardamos y la próxima vez que entremos a la terminal veremos algo como lo siguiente:
 
-Pant_bashrc
-
-" data-image-caption="" data-large-file="/images/2011/Pant_bashrc-1.png" class="aligncenter size-medium wp-image-722" src="/images/2011/Pant_bashrc-1.png" alt="" width="300" height="176" srcset="/images/2011/Pant_bashrc-1.png 300w, /images/2011/Pant_bashrc-1.png 768w, /images/2011/Pant_bashrc-1.png 1024w, /images/2011/Pant_bashrc-1.png 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
+![Pant_bashrc](/images/2011/Pant_bashrc-1.png) 
 
 También añadí como mencionan en el artículo anterior el siguiente código justo antes de imprimir la cita del día en el .bashrc de root.
 
@@ -127,14 +121,10 @@ echo -e '\e[m';
 echo "With great power comes great responsibility"
 ```
 
-Pant_ebashroot
-
-" data-image-caption="" data-large-file="/images/2011/Pant_ebashroot-1.png" class="aligncenter size-medium wp-image-724" src="/images/2011/Pant_ebashroot-1.png" alt="" width="300" height="176" srcset="/images/2011/Pant_ebashroot-1.png 300w, /images/2011/Pant_ebashroot-1.png 768w, /images/2011/Pant_ebashroot-1.png 1024w, /images/2011/Pant_ebashroot-1.png 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
+![Pant_ebashroot](/images/2011/Pant_ebashroot-1.png) 
 
 Y cuando se logueen como root, verán la siguiente pantalla:
 
-Pant_bashrc2
-
-" data-image-caption="" data-large-file="/images/2011/Pant_bashrc2-1.png" class="aligncenter size-medium wp-image-725" src="/images/2011/Pant_bashrc2-1.png" alt="" width="300" height="176" srcset="/images/2011/Pant_bashrc2-1.png 300w, /images/2011/Pant_bashrc2-1.png 768w, /images/2011/Pant_bashrc2-1.png 1024w, /images/2011/Pant_bashrc2-1.png 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
+![Pant_bashrc2](/images/2011/Pant_bashrc2-1.png) 
 
 Créditos a los que ya lo habían escrito 😉

@@ -20,9 +20,7 @@ Se acercan muchos trámites administrativos, gastos y correderas por la conclusi
 
 <!--more-->
 
-Tengo que encontrar la forma de motivarme para no mandar al carajo todo, soy explosivo, impulsivo y medio testarudo cuando algo se mete entre ceja y ceja. Espero no complicarme la existencia en esto que se avecina.[Muaja
-
-" data-image-caption="" data-large-file="/images/2010/yopo-1.jpg" class="alignright size-medium wp-image-292" title="Muaja" src="/images/2010/yopo-1.jpg" alt="Muaja" width="300" height="225" srcset="/images/2010/yopo-1.jpg 300w, /images/2010/yopo-1.jpg 640w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]
+Tengo que encontrar la forma de motivarme para no mandar al carajo todo, soy explosivo, impulsivo y medio testarudo cuando algo se mete entre ceja y ceja. Espero no complicarme la existencia en esto que se avecina.![Muaja](/images/2010/yopo-1.jpg)
 
 Debo confesar que dejé de escribir por varias razones de índole personal. La ida al Campus Party México me dejó entre ver que hay muchas cosas que desconozco, que soy una ínfima partícula en la red, en el ciberespacio, por momentos eso me asusta, por momentos me alegra, en fin.. así de bipolar puedo ser.
 

@@ -18,9 +18,7 @@ Como lamentablemente el sitio de **Chiapatuit** se encuentra caído por el momen
 
 Hace dos años se hizo una primer reunión formal donde muchas personas que nos encontramos atras del teclado y de las pantallas de computadoras para conocernos en vivo y en directo.
 
-[Chiapatuit
-
-" data-image-caption="" data-large-file="/images/2011/chiapatuit-1.jpg" class="aligncenter size-medium wp-image-484" src="/images/2011/chiapatuit-1.jpg" alt="" width="300" height="214" srcset="/images/2011/chiapatuit-1.jpg 300w, /images/2011/chiapatuit-1.jpg 500w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]
+![Chiapatuit](/images/2011/chiapatuit-1.jpg)
 
 A esta comunidad naciente se le denominó **Chiapatuit** debido a cosas que teníamos en común:
 

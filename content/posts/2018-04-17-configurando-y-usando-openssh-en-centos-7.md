@@ -154,15 +154,7 @@ it looks like wine32 is missing, you should install it.
 as root, please execute "apt-get install wine32"
 ```
 
-[Puttygen
-
-" data-image-caption="" data-large-file="/images/2018/Pant_puttygen.png" class="alignnone size-medium wp-image-1450" src="/images/2018/Pant_puttygen.png" alt="Puttygen" width="300" height="288" srcset="/images/2018/Pant_puttygen.png 300w, /images/2018/Pant_puttygen.png 483w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1][Import key
-
-" data-image-caption="" data-large-file="/images/2018/Pant_importkey.png" class="alignnone size-medium wp-image-1451" src="/images/2018/Pant_importkey.png" alt="Import key" width="300" height="284" srcset="/images/2018/Pant_importkey.png 300w, /images/2018/Pant_importkey.png 476w" sizes="auto, (max-width: 300px) 100vw, 300px" />][2][Puttygen Warning
-
-" data-image-caption="" data-large-file="/images/2018/puttygen_warning.png" class="alignnone size-medium wp-image-1452" src="/images/2018/puttygen_warning.png" alt="Puttygen Warning" width="300" height="292" srcset="/images/2018/puttygen_warning.png 300w, /images/2018/puttygen_warning.png 471w" sizes="auto, (max-width: 300px) 100vw, 300px" />][3][Puttygen save key
-
-" data-image-caption="" data-large-file="/images/2018/puttygen-guardarppk.png" class="alignnone size-medium wp-image-1453" src="/images/2018/puttygen-guardarppk.png" alt="Puttygen save key" width="300" height="208" srcset="/images/2018/puttygen-guardarppk.png 300w, /images/2018/puttygen-guardarppk.png 416w" sizes="auto, (max-width: 300px) 100vw, 300px" />][4]
+![Puttygen](/images/2018/Pant_puttygen.png)![Import key](/images/2018/Pant_importkey.png)![Puttygen Warning](/images/2018/puttygen_warning.png)![Puttygen save key](/images/2018/puttygen-guardarppk.png)
 
 Después de hacerlo, podemos ver los archivos que tenemos:
 
@@ -179,13 +171,7 @@ perengano@elrond:~/keys$
 
 Ahora sí, podemos añadir nuestro archivo .ppk a Filezilla
 
-[Filezilla
-
-" data-image-caption="" data-large-file="/images/2018/Pant_Filezilla.png" class="alignnone size-medium wp-image-1454" src="/images/2018/Pant_Filezilla.png" alt="Filezilla" width="300" height="204" srcset="/images/2018/Pant_Filezilla.png 300w, /images/2018/Pant_Filezilla.png 768w, /images/2018/Pant_Filezilla.png 781w" sizes="auto, (max-width: 300px) 100vw, 300px" />][5][Filezilla warning
-
-" data-image-caption="" data-large-file="/images/2018/filezilla_confiar.png" class="alignnone size-medium wp-image-1455" src="/images/2018/filezilla_confiar.png" alt="Filezilla warning" width="300" height="131" srcset="/images/2018/filezilla_confiar.png 300w, /images/2018/filezilla_confiar.png 691w" sizes="auto, (max-width: 300px) 100vw, 300px" />][6][Filezilla connected
-
-" data-image-caption="" data-large-file="/images/2018/Filezilla_conectado.png" class="alignnone size-medium wp-image-1456" src="/images/2018/Filezilla_conectado.png" alt="Filezilla connected" width="300" height="157" srcset="/images/2018/Filezilla_conectado.png 300w, /images/2018/Filezilla_conectado.png 768w, /images/2018/Filezilla_conectado.png 1024w, /images/2018/Filezilla_conectado.png 1366w, /images/2018/Filezilla_conectado.png 1296w" sizes="auto, (max-width: 300px) 100vw, 300px" />][7]
+![Filezilla](/images/2018/Pant_Filezilla.png)![Filezilla warning](/images/2018/filezilla_confiar.png)![Filezilla connected](/images/2018/Filezilla_conectado.png)
 
 Y eso sería todo.
 

@@ -18,9 +18,7 @@ aliases:
 - /comos/jdownloader-en-debian-wheezy/
 ---
 
-[Logo JDownloader
-
-" data-image-caption="" data-large-file="/images/2011/jdownloader-1.png" class="alignleft size-full wp-image-671" title="Logo JDownloader" src="/images/2011/jdownloader-1.png" alt="Logo JDownloader" width="150" height="150" srcset="/images/2011/jdownloader-1.png 150w, /images/2011/jdownloader-1.png 60w" sizes="auto, (max-width: 150px) 100vw, 150px" />][1]
+![Logo JDownloader](/images/2011/jdownloader-1.png)
 
 Resulta que durante mi estancia en Campus Party México 2011 actualicé mi Debian Squeeze a la versión de pruebas Debian Wheezy y aunque aún me falta ver si la tarjeta inalámbrica está funcionando de forma normal y correcta, me acabo de percatar que <a title="JDownloader" href="http://jdownloader.org/" target="_blank" rel="noopener">JDownloader</a> simplemente dejó de funcionar.
 
@@ -120,21 +118,15 @@ attributes = compatibility
 
 Y después de eso ejecutamos JDownloader y empieza a actualizarse y después de eso nos muestra que debemos configurar el idioma y el directorio de descargas:
 
-[Configurando JDownloader
-
-" data-image-caption="" data-large-file="/images/2011/Pant_jdownloader-1.png" class="aligncenter size-medium wp-image-672" title="Configurando JDownloader" src="/images/2011/Pant_jdownloader-1.png" alt="Configurando JDownloader" width="300" height="215" srcset="/images/2011/Pant_jdownloader-1.png 300w, /images/2011/Pant_jdownloader-1.png 557w" sizes="auto, (max-width: 300px) 100vw, 300px" />][2]
+![Configurando JDownloader](/images/2011/Pant_jdownloader-1.png)
 
 Y luego nos pregunta si queremos instalar la extensión para Firefox, en mi caso le puse que no
 
-[Configurando JDownloader 2
-
-" data-image-caption="" data-large-file="/images/2011/Pant_jdownloader2-1.png" class="aligncenter size-medium wp-image-673" title="Configurando JDownloader 2" src="/images/2011/Pant_jdownloader2-1.png" alt="Configurando JDownloader 2" width="300" height="215" srcset="/images/2011/Pant_jdownloader2-1.png 300w, /images/2011/Pant_jdownloader2-1.png 557w" sizes="auto, (max-width: 300px) 100vw, 300px" />][3]
+![Configurando JDownloader 2](/images/2011/Pant_jdownloader2-1.png)
 
 Finalmente nos deja ya con la aplicación funcionando
 
-[Configurando JDownloader 3
-
-" data-image-caption="" data-large-file="/images/2011/Pant_jdownloader3-1.png" class="aligncenter size-medium wp-image-674" title="Configurando JDownloader 3" src="/images/2011/Pant_jdownloader3-1.png" alt="Configurando JDownloader 3" width="300" height="224" srcset="/images/2011/Pant_jdownloader3-1.png 300w, /images/2011/Pant_jdownloader3-1.png 768w, /images/2011/Pant_jdownloader3-1.png 797w" sizes="auto, (max-width: 300px) 100vw, 300px" />][4]
+![Configurando JDownloader 3](/images/2011/Pant_jdownloader3-1.png)
 
 Si alguien tiene un problema similar, espero que esto les sirva
 

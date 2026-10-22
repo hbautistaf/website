@@ -238,15 +238,11 @@ root@luke:/home/hbautista# dpkg --purge $(deborphan)
 
 Y si tenemos instalado **Synaptic** (instalador de paquetes en modo gráfico) podemos eliminar los paquetes huerfános de forma sencilla, para empezar ejecutamos synaptic:
 
-[Synaptic
-
-" data-image-caption="" data-large-file="/images/2012/Pant_Synaptic-1.png" class="aligncenter size-medium wp-image-821" title="Synaptic" src="/images/2012/Pant_Synaptic-1.png" alt="Synaptic" width="300" height="173" srcset="/images/2012/Pant_Synaptic-1.png 300w, /images/2012/Pant_Synaptic-1.png 768w, /images/2012/Pant_Synaptic-1.png 1024w, /images/2012/Pant_Synaptic-1.png 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]
+![Synaptic](/images/2012/Pant_Synaptic-1.png)
 
 Crearemos un nuevo filtro, así que hacemos clic en el menú Configuración -> Filtros
 
-Synaptic Filtro 1
-
-" data-image-caption="" data-large-file="/images/2012/Pant_Synaptic_Filtro1-1.png" class="aligncenter size-medium wp-image-822" src="/images/2012/Pant_Synaptic_Filtro1-1.png" alt="" width="300" height="171" srcset="/images/2012/Pant_Synaptic_Filtro1-1.png 300w, /images/2012/Pant_Synaptic_Filtro1-1.png 768w, /images/2012/Pant_Synaptic_Filtro1-1.png 841w" sizes="auto, (max-width: 300px) 100vw, 300px" /> 
+![Synaptic Filtro 1](/images/2012/Pant_Synaptic_Filtro1-1.png) 
 
 Clic en Nuevo, le asignamos un nombre (en mi caso Huérfanos) y de la lista de opciones, quitar todos y dejar solamente el que dice precisamente Huérfanos:
 
@@ -254,15 +250,11 @@ Clic en Nuevo, le asignamos un nombre (en mi caso Huérfanos) y de la lista de 
 
 En la pantalla de Synaptic, clic en Filtros -> Huerfános
 
-[Synaptic Filtro 3
-
-" data-image-caption="" data-large-file="/images/2012/Pant_SynapticFiltros3-1.png" class="aligncenter size-medium wp-image-824" title="Synaptic Filtro 3" src="/images/2012/Pant_SynapticFiltros3-1.png" alt="Synaptic Filtro 3" width="300" height="173" srcset="/images/2012/Pant_SynapticFiltros3-1.png 300w, /images/2012/Pant_SynapticFiltros3-1.png 768w, /images/2012/Pant_SynapticFiltros3-1.png 1024w, /images/2012/Pant_SynapticFiltros3-1.png 1280w" sizes="auto, (max-width: 300px) 100vw, 300px" />][2]
+![Synaptic Filtro 3](/images/2012/Pant_SynapticFiltros3-1.png)
 
 Y es cuestión de seleccionar o marcar todos los que aparezcan para luego indicar que los elimine.
 
-Synaptic Filtro 2
-
-" data-image-caption="" data-large-file="/images/2012/Pant_SynapticFiltros2-1.png" class="aligncenter size-medium wp-image-823" src="/images/2012/Pant_SynapticFiltros2-1.png" alt="" width="300" height="171" srcset="/images/2012/Pant_SynapticFiltros2-1.png 300w, /images/2012/Pant_SynapticFiltros2-1.png 768w, /images/2012/Pant_SynapticFiltros2-1.png 841w" sizes="auto, (max-width: 300px) 100vw, 300px" />
+![Synaptic Filtro 2](/images/2012/Pant_SynapticFiltros2-1.png)
 
  [1]: /images/2012/Pant_Synaptic-1.png
  [2]: /images/2012/Pant_SynapticFiltros3-1.png

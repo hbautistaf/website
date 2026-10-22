@@ -18,9 +18,7 @@ aliases:
 
 Después de 24 meses de desarrollo constante, el proyecto <a href="http://debian.org/" target="_parent">Debian</a> se complace en anunciar su nueva versión estable 6.0 (nombre en clave “**Squeeze**“). Debian 6.0 es un sistema operativo libre y se presenta por primera vez en dos sabores, ya que junto con **Debian GNU/Linux**, en esta versión se ha introducido **Debian/kFreeBSD** como una “vista preliminar de la tecnología”.
 
-[Squeeze
-
-" data-image-caption="" data-large-file="/images/2011/squeeze_countdown-1.png" class="alignleft wp-image-430 size-full" title="Squeeze" src="/images/2011/squeeze_countdown-1.png" alt="Squeeze" width="200" height="170" />][1]
+![Squeeze](/images/2011/squeeze_countdown-1.png)
 
 Debian 6.0 incluye los entornos de escritorio **KDE**, **GNOME**, **Xfce** y **LXDE**, así como todo tipo de aplicaciones de servidor. También ofrece compatibilidad con el estándar FHS v2.3 y el software desarrollado para la versión 3.2 de LSB.
 
@@ -28,9 +26,7 @@ Debian se ejecuta en distintos tipos de sistemas que van desde computadores de b
 
 Debian 6.0 “Squeeze” incluye una versión preliminar de dos nuevas adaptaciones al núcleo del proyecto FreeBSD utilizando el conocido entorno de usuario Debian GNU: Debian GNU/kFreeBSD para arquitecturas de PCs de 32 bits (kfreebsd-i386) y PC de 64 bits (kfreebsd-amd64). Estas adaptaciones son las primeras en ser incluidas en una versión de Debian sin estar basadas en el núcleo de Linux. Hay muy buen soporte para aplicaciones de servidor y combina las características existentes de Debian basado en Linux con caracterí­sticas únicas en el mundo BSD. Sin embargo, en esta versión estas adaptaciones son aún limitadas.
 
-[Squeeze
-
-" data-image-caption="" data-large-file="/images/2011/squeeze-1.png" class="aligncenter size-medium wp-image-431" title="Squeeze" src="/images/2011/squeeze-1.png" alt="Squeeze" width="285" height="300" srcset="/images/2011/squeeze-1.png 285w, /images/2011/squeeze-1.png 432w" sizes="auto, (max-width: 285px) 100vw, 285px" />][2]
+![Squeeze](/images/2011/squeeze-1.png)
 
 <a title="Debian Squeeze publicado" href="http://usoli.org/2011_02_05/debian-6-0-squeeze-publicado/" target="_blank" rel="noopener">Publicado en Usoli.org</a>
 

@@ -19,17 +19,11 @@ aliases:
 
 El pasado día miércoles di un par de conferencias en el <a title="IESCH" href="http://www.iesch.edu.mx/i/" target="_blank" rel="noopener">Instituto de Estudios Superiores de Chiapas</a> sobre Software Libre titulada "El ABC del software Libre".
 
-[Conferencia
-
-" data-image-caption="" data-large-file="/images/2011/267079895-1.jpg" class="aligncenter size-medium wp-image-497" title="Conferencia" src="/images/2011/267079895-1.jpg" alt="Conferencia" width="300" height="224" srcset="/images/2011/267079895-1.jpg 300w, /images/2011/267079895-1.jpg 600w" sizes="auto, (max-width: 300px) 100vw, 300px" />][1]
+![Conferencia](/images/2011/267079895-1.jpg)
 
 Fue una conferencia básica donde se trató el dar a conocer el software libre, que es, parte de su filosofía, algunos personajes del mismo, aplicaciones para los diversos sistemas operativos y finalmente una pequeña demostración de aplicaciones y algunos comandos en consola o terminal.
 
-[Conferencista
-
-" data-image-caption="" data-large-file="/images/2011/267081236-1.jpg" class="alignnone size-medium wp-image-498" title="Conferencista" src="/images/2011/267081236-1.jpg" alt="Conferencista" width="224" height="300" srcset="/images/2011/267081236-1.jpg 224w, /images/2011/267081236-1.jpg 600w" sizes="auto, (max-width: 224px) 100vw, 224px" />][2][hbautista
-
-" data-image-caption="" data-large-file="/images/2011/267257464-1.jpg" class="alignnone size-medium wp-image-499" title="hbautista" src="/images/2011/267257464-1.jpg" alt="hbautista" width="224" height="300" srcset="/images/2011/267257464-1.jpg 224w, /images/2011/267257464-1.jpg 600w" sizes="auto, (max-width: 224px) 100vw, 224px" />][3]
+![Conferencista](/images/2011/267081236-1.jpg)![hbautista](/images/2011/267257464-1.jpg)
 
 Tal como lo comenté en la conferencia aquí dejo el [Abc\_Software\_Libre2][4].
 
