@@ -4,6 +4,7 @@ theme = "hugo-theme-stack"
 defaultContentLanguage = "es"
 hasCJKLanguage = false
 summaryLength = 30
+cleanDestinationDir = true
 
 [pagination]
   pagerSize = 7
